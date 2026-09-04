@@ -1,0 +1,547 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Model Track Record</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<script src="chart.umd.min.js"></script>
+<script src="track_record_data.js"></script>
+<style>
+  :root {
+    --bg: #15181C;
+    --panel: #1D2126;
+    --panel-hover: #21262C;
+    --border: #2A2F35;
+    --text: #E8E6E1;
+    --text-dim: #8B9198;
+    --text-dimmer: #5C636B;
+    --good: #6B9B7C;
+    --good-dim: #4A6B54;
+    --gap: #C17F59;
+    --gap-dim: #8A5C41;
+  }
+
+  * { box-sizing: border-box; }
+
+  @media (prefers-reduced-motion: reduce) {
+    * { animation: none !important; transition: none !important; }
+  }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans', -apple-system, sans-serif;
+    margin: 0;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .mono { font-family: 'IBM Plex Mono', monospace; }
+
+  a { color: inherit; }
+
+  :focus-visible {
+    outline: 2px solid var(--good);
+    outline-offset: 2px;
+  }
+
+  header {
+    border-bottom: 1px solid var(--border);
+    padding: 32px 24px 28px;
+  }
+
+  .header-inner {
+    max-width: 1080px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    flex-wrap: wrap;
+    gap: 16px;
+  }
+
+  h1 {
+    font-size: 26px;
+    font-weight: 600;
+    margin: 0 0 6px;
+    letter-spacing: -0.01em;
+  }
+
+  .subtitle {
+    color: var(--text-dim);
+    font-size: 15px;
+    max-width: 520px;
+    margin: 0;
+  }
+
+  .updated {
+    font-size: 13px;
+    color: var(--text-dimmer);
+    text-align: right;
+  }
+
+  main {
+    max-width: 1080px;
+    margin: 0 auto;
+    padding: 28px 24px 80px;
+  }
+
+  .disclaimer-banner {
+    background: #211A16;
+    border: 1px solid var(--gap-dim);
+    padding: 14px 18px;
+    margin-bottom: 24px;
+    font-size: 13px;
+    line-height: 1.6;
+    color: #D9B79E;
+  }
+
+  .disclaimer-banner strong {
+    color: var(--gap);
+  }
+
+  .disclaimer-banner a {
+    color: #D9B79E;
+    text-decoration: underline;
+  }
+
+  .disclaimer-banner a:hover {
+    color: var(--text);
+  }
+
+  .summary-strip {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+    gap: 1px;
+    background: var(--border);
+    border: 1px solid var(--border);
+    margin-bottom: 28px;
+  }
+
+  .summary-stat {
+    background: var(--panel);
+    padding: 18px 20px;
+  }
+
+  .summary-stat .num {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 24px;
+    font-weight: 600;
+    display: block;
+  }
+
+  .summary-stat .label {
+    color: var(--text-dim);
+    font-size: 13px;
+    margin-top: 4px;
+  }
+
+  .market-status {
+    display: flex;
+    gap: 24px;
+    flex-wrap: wrap;
+    margin-bottom: 28px;
+    font-size: 13px;
+  }
+
+  .market-status .group-label {
+    color: var(--text-dim);
+    margin-bottom: 6px;
+  }
+
+  .pill-row {
+    display: flex;
+    gap: 6px;
+    flex-wrap: wrap;
+  }
+
+  .pill {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    padding: 3px 9px;
+    border: 1px solid var(--border);
+  }
+
+  .pill.active { color: var(--good); border-color: var(--good-dim); }
+  .pill.inactive { color: var(--text-dimmer); }
+
+  .tier-select {
+    display: flex;
+    gap: 4px;
+    border-bottom: 1px solid var(--border);
+    margin-bottom: 28px;
+    flex-wrap: wrap;
+  }
+
+  .tier-btn {
+    background: none;
+    border: none;
+    color: var(--text-dim);
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 14px;
+    padding: 10px 16px;
+    cursor: pointer;
+    border-bottom: 2px solid transparent;
+    margin-bottom: -1px;
+  }
+
+  .tier-btn:hover { color: var(--text); }
+
+  .tier-btn.selected {
+    color: var(--text);
+    border-bottom-color: var(--good);
+  }
+
+  .tier-note {
+    color: var(--text-dimmer);
+    font-size: 13px;
+    margin: -16px 0 28px;
+  }
+
+  .market-section {
+    border: 1px solid var(--border);
+    background: var(--panel);
+    margin-bottom: 20px;
+  }
+
+  .market-head {
+    padding: 16px 20px;
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .market-head h2 {
+    font-size: 16px;
+    font-weight: 600;
+    margin: 0;
+  }
+
+  .market-n {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 13px;
+    color: var(--text-dim);
+  }
+
+  .market-body {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0;
+  }
+
+  @media (max-width: 720px) {
+    .market-body { grid-template-columns: 1fr; }
+  }
+
+  .chart-wrap {
+    padding: 18px 20px;
+    border-right: 1px solid var(--border);
+  }
+
+  @media (max-width: 720px) {
+    .chart-wrap { border-right: none; border-bottom: 1px solid var(--border); }
+  }
+
+  .chart-wrap canvas { max-height: 260px; }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12.5px;
+  }
+
+  th, td {
+    text-align: right;
+    padding: 7px 14px;
+    border-bottom: 1px solid var(--border);
+  }
+
+  th:first-child, td:first-child { text-align: left; }
+
+  th {
+    color: var(--text-dim);
+    font-weight: 500;
+    font-size: 11px;
+    text-transform: none;
+  }
+
+  .gap-pos { color: var(--gap); }
+  .gap-neg { color: var(--good); }
+  .gap-small { color: var(--text-dim); }
+
+  .thin-sample {
+    color: var(--text-dimmer);
+  }
+
+  .no-data {
+    padding: 40px 20px;
+    text-align: center;
+    color: var(--text-dimmer);
+    font-size: 14px;
+  }
+
+  footer {
+    max-width: 1080px;
+    margin: 0 auto;
+    padding: 0 24px 60px;
+    color: var(--text-dimmer);
+    font-size: 13px;
+    line-height: 1.7;
+  }
+
+  footer p { max-width: 640px; }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <div>
+      <h1>Model Track Record</h1>
+      <p class="subtitle">Every settled prediction, every market, shown as it actually landed — including the ones that missed.</p>
+    </div>
+    <div class="updated mono" id="updated-at">—</div>
+  </div>
+</header>
+
+<main>
+  <div class="disclaimer-banner">
+    <p><strong>Not betting advice.</strong> Everything below is a statistical model's output, shown exactly as it landed — including the predictions that missed. No guarantee of accuracy or profit, for any market, at any confidence level. Past performance shown here does not indicate future results. Coverage quality varies by league (see the tier selector) — thinner tiers should be trusted less than Core. This service is intended for adults 18+. If gambling is causing you or someone you know harm: <a href="https://www.gamcare.org.uk" target="_blank" rel="noopener">GamCare</a> (UK, 0808 8020 133) · <a href="https://www.ncpgambling.org" target="_blank" rel="noopener">NCPG</a> (US, 1-800-522-4700).</p>
+  </div>
+
+  <div class="summary-strip" id="summary-strip"></div>
+  <div class="market-status" id="market-status"></div>
+
+  <div class="tier-select" id="tier-select"></div>
+  <p class="tier-note" id="tier-note"></p>
+
+  <div id="markets"></div>
+</main>
+
+<footer>
+  <p>Predictions here are logged before each match is played and settled once the real result is known — nothing shown is fitted after the fact. Sample sizes are shown next to every number; a bucket with a handful of predictions is noise, not signal, regardless of how the gap looks. Leagues are grouped by how much real data actually backs them (see tier selector above) rather than blended into one number, since a strong top-league result shouldn't cover for a thin one elsewhere.</p>
+</footer>
+
+<script>
+const TIER_ORDER = [
+  "All leagues combined",
+  "Core (xG + HT)",
+  "xG, no HT data",
+  "HT data, no xG",
+  "Manual backfill (this season only)"
+];
+
+const MARKET_ORDER = [
+  "Over 1.5", "Over 2.5", "Over 3.5",
+  "Home Win", "Draw", "Away Win",
+  "BTTS Yes", "BTTS & Over 2.5", "HT Over 1.5"
+];
+
+let currentTier = "All leagues combined";
+let charts = [];
+
+function fmtPct(x) { return (x * 100).toFixed(1) + '%'; }
+function fmtGap(x) {
+  const sign = x > 0 ? '+' : '';
+  return sign + x.toFixed(1);
+}
+
+function gapClass(gap, n) {
+  if (n < 20) return 'thin-sample';
+  if (Math.abs(gap) < 5) return 'gap-small';
+  return gap > 0 ? 'gap-pos' : 'gap-neg';
+}
+
+function renderSummary(data) {
+  const s = data.summary;
+  const range = s.date_range.earliest
+    ? `${s.date_range.earliest} → ${s.date_range.latest}`
+    : 'no settled data yet';
+  document.getElementById('updated-at').textContent =
+    'generated ' + data.generated_at.slice(0, 16).replace('T', ' ');
+
+  const stats = [
+    [s.total_settled_ft, 'full-time predictions settled'],
+    [s.total_settled_ht, 'half-time predictions settled'],
+    [s.active_markets.length + '/' + (s.active_markets.length + s.inactive_markets.length), 'markets self-correcting'],
+  ];
+  document.getElementById('summary-strip').innerHTML = stats.map(([num, label]) => `
+    <div class="summary-stat">
+      <span class="num">${num}</span>
+      <span class="label">${label}</span>
+    </div>
+  `).join('') + `
+    <div class="summary-stat">
+      <span class="num mono" style="font-size:15px">${range}</span>
+      <span class="label">date range covered</span>
+    </div>`;
+
+  document.getElementById('market-status').innerHTML = `
+    <div>
+      <div class="group-label">Self-correcting (${s.min_settled_threshold}+ settled predictions of their own)</div>
+      <div class="pill-row">
+        ${s.active_markets.length
+          ? s.active_markets.map(m => `<span class="pill active">${m}</span>`).join('')
+          : '<span class="pill inactive">none yet</span>'}
+      </div>
+    </div>
+    <div>
+      <div class="group-label">Raw model output (not enough settled history yet)</div>
+      <div class="pill-row">
+        ${s.inactive_markets.length
+          ? s.inactive_markets.map(m => `<span class="pill inactive">${m}</span>`).join('')
+          : '<span class="pill active">none</span>'}
+      </div>
+    </div>
+  `;
+}
+
+function renderTierSelect(data) {
+  const tiers = TIER_ORDER.filter(t => data.tiers[t]);
+  document.getElementById('tier-select').innerHTML = tiers.map(t => `
+    <button class="tier-btn ${t === currentTier ? 'selected' : ''}" data-tier="${t}">
+      ${t} <span class="mono" style="opacity:0.6">
+        (${data.tiers[t].n_settled_ft + data.tiers[t].n_settled_ht})
+      </span>
+    </button>
+  `).join('');
+  document.querySelectorAll('.tier-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      currentTier = btn.dataset.tier;
+      renderAll(TRACK_RECORD_DATA);
+    });
+  });
+
+  const notes = {
+    "Core (xG + HT)": "Leagues with real xG data and half-time data both — the model's strongest, most complete tier.",
+    "xG, no HT data": "Real xG available, but no half-time goal data at the source — full-time markets only.",
+    "HT data, no xG": "Half-time data available, but no reliable free xG source exists for these leagues.",
+    "Manual backfill (this season only)": "History was collected manually rather than pulled live — results here reflect this season only, genuinely less depth than the other tiers.",
+  };
+  document.getElementById('tier-note').textContent = notes[currentTier] || '';
+}
+
+function destroyCharts() {
+  charts.forEach(c => c.destroy());
+  charts = [];
+}
+
+function renderMarkets(data) {
+  destroyCharts();
+  const tierData = data.tiers[currentTier];
+  const container = document.getElementById('markets');
+
+  if (!tierData || Object.keys(tierData.markets).length === 0) {
+    container.innerHTML = '<div class="no-data">No settled predictions in this tier yet.</div>';
+    return;
+  }
+
+  const markets = MARKET_ORDER.filter(m => tierData.markets[m]);
+  container.innerHTML = markets.map(m => `
+    <section class="market-section">
+      <div class="market-head">
+        <h2>${m}</h2>
+        <span class="market-n mono">n = ${tierData.markets[m].n}</span>
+      </div>
+      <div class="market-body">
+        <div class="chart-wrap"><canvas id="chart-${m.replace(/[^a-z0-9]/gi,'')}"></canvas></div>
+        <div style="overflow-x:auto">
+          <table>
+            <thead><tr><th>predicted</th><th>n</th><th>observed</th><th>gap</th></tr></thead>
+            <tbody>
+              ${tierData.markets[m].buckets.map(b => `
+                <tr>
+                  <td>${fmtPct(b.avg_predicted)}</td>
+                  <td class="${b.n < 20 ? 'thin-sample' : ''}">${b.n}</td>
+                  <td>${fmtPct(b.observed_rate)}</td>
+                  <td class="${gapClass(b.gap_pts, b.n)}">${fmtGap(b.gap_pts)} pts</td>
+                </tr>
+              `).join('')}
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+  `).join('');
+
+  markets.forEach(m => {
+    const buckets = tierData.markets[m].buckets;
+    const ctx = document.getElementById(`chart-${m.replace(/[^a-z0-9]/gi,'')}`);
+    const chart = new Chart(ctx, {
+      type: 'scatter',
+      data: {
+        datasets: [
+          {
+            label: 'perfect calibration',
+            data: [{x:0,y:0},{x:1,y:1}],
+            type: 'line',
+            borderColor: '#3A4048',
+            borderWidth: 1,
+            borderDash: [4,4],
+            pointRadius: 0,
+            fill: false,
+          },
+          {
+            label: 'observed',
+            data: buckets.map(b => ({x: b.avg_predicted, y: b.observed_rate, n: b.n})),
+            backgroundColor: buckets.map(b => Math.abs(b.gap_pts) < 5 || b.n < 20 ? '#8B9198' : (b.gap_pts > 0 ? '#C17F59' : '#6B9B7C')),
+            pointRadius: buckets.map(b => Math.min(4 + Math.sqrt(b.n) * 1.4, 16)),
+            pointHoverRadius: buckets.map(b => Math.min(6 + Math.sqrt(b.n) * 1.4, 18)),
+          }
+        ]
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        scales: {
+          x: {
+            min: 0, max: 1,
+            title: { display: true, text: 'predicted probability', color: '#8B9198', font: {family: 'IBM Plex Mono', size: 11} },
+            ticks: { color: '#5C636B', callback: v => (v*100)+'%', font: {family: 'IBM Plex Mono', size: 10} },
+            grid: { color: '#2A2F35' },
+          },
+          y: {
+            min: 0, max: 1,
+            title: { display: true, text: 'observed frequency', color: '#8B9198', font: {family: 'IBM Plex Mono', size: 11} },
+            ticks: { color: '#5C636B', callback: v => (v*100)+'%', font: {family: 'IBM Plex Mono', size: 10} },
+            grid: { color: '#2A2F35' },
+          }
+        },
+        plugins: {
+          legend: { display: false },
+          tooltip: {
+            callbacks: {
+              label: ctx => ctx.raw.n !== undefined
+                ? `n=${ctx.raw.n}: predicted ${(ctx.raw.x*100).toFixed(1)}%, observed ${(ctx.raw.y*100).toFixed(1)}%`
+                : ''
+            }
+          }
+        }
+      }
+    });
+    charts.push(chart);
+  });
+}
+
+function renderAll(data) {
+  renderSummary(data);
+  renderTierSelect(data);
+  renderMarkets(data);
+}
+
+if (typeof TRACK_RECORD_DATA !== 'undefined') {
+  renderAll(TRACK_RECORD_DATA);
+} else {
+  document.getElementById('markets').innerHTML =
+    '<div class="no-data">track_record_data.js not found — run export_track_record.py first.</div>';
+}
+</script>
+
+</body>
+</html>
