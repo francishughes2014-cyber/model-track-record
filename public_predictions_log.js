@@ -15,7 +15,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Argentina Primera Division",
@@ -33,7 +35,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Argentina Primera Division",
@@ -51,7 +55,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Argentina Primera Division",
@@ -69,7 +75,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Argentina Primera Division",
@@ -87,7 +95,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Argentina Primera Division",
@@ -105,7 +115,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Argentina Primera Division",
@@ -123,7 +135,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Argentina Primera Division",
@@ -141,7 +155,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Argentina Primera Division",
@@ -159,7 +175,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Argentina Primera Division",
@@ -177,7 +195,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Argentina Primera Division",
@@ -195,7 +215,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Argentina Primera Division",
@@ -213,7 +235,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Argentina Primera Division",
@@ -231,7 +255,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Argentina Primera Division",
@@ -249,7 +275,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Argentina Primera Division",
@@ -267,7 +295,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Argentina Primera Division",
@@ -285,7 +315,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Argentina Primera Division",
@@ -303,7 +335,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Argentina Primera Division",
@@ -321,7 +355,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Argentina Primera Division",
@@ -339,7 +375,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Brazil Serie A",
@@ -357,7 +395,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Brazil Serie A",
@@ -375,7 +415,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Brazil Serie A",
@@ -393,7 +435,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Brazil Serie A",
@@ -411,7 +455,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Brazil Serie A",
@@ -429,7 +475,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Brazil Serie A",
@@ -447,7 +495,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Brazil Serie A",
@@ -465,7 +515,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Brazil Serie A",
@@ -483,7 +535,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Brazil Serie A",
@@ -501,7 +555,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Brazil Serie A",
@@ -519,7 +575,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Brazil Serie A",
@@ -537,7 +595,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Brazil Serie A",
@@ -555,7 +615,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Brazil Serie A",
@@ -573,7 +635,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Brazil Serie A",
@@ -591,7 +655,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Brazil Serie A",
@@ -609,7 +675,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Brazil Serie A",
@@ -627,7 +695,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Bundesliga",
@@ -645,7 +715,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.5019,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Bundesliga",
@@ -663,7 +735,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.4172,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Bundesliga",
@@ -681,7 +755,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.5019,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Bundesliga",
@@ -699,7 +775,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.4172,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Bundesliga",
@@ -717,7 +795,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.3382,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Bundesliga",
@@ -735,7 +815,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3272,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Bundesliga",
@@ -753,7 +835,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.3382,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Bundesliga",
@@ -771,7 +855,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3272,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Bundesliga",
@@ -789,7 +875,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.4144,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Bundesliga",
@@ -807,7 +895,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.4274,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Bundesliga",
@@ -825,7 +915,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3385,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Bundesliga",
@@ -843,7 +935,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3475,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Bundesliga",
@@ -861,7 +955,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.43,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Bundesliga",
@@ -879,7 +975,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3535,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Bundesliga 2",
@@ -897,7 +995,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.5055,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Bundesliga 2",
@@ -915,7 +1015,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3986,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Bundesliga 2",
@@ -933,7 +1035,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.7067,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Bundesliga 2",
@@ -951,7 +1055,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.7067,
-    "ht_low_confidence": true
+    "ht_low_confidence": true,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Bundesliga 2",
@@ -969,7 +1075,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": true,
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.7067,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Bundesliga 2",
@@ -987,7 +1095,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": true,
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.7067,
-    "ht_low_confidence": true
+    "ht_low_confidence": true,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Bundesliga 2",
@@ -1005,7 +1115,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.4365,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Bundesliga 2",
@@ -1023,7 +1135,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.6815,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Bundesliga 2",
@@ -1041,7 +1155,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.6815,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Bundesliga 2",
@@ -1059,7 +1175,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.6815,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Bundesliga 2",
@@ -1077,7 +1195,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.6815,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Bundesliga 2",
@@ -1095,7 +1215,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3721,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Bundesliga 2",
@@ -1113,7 +1235,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.352,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Bundesliga 2",
@@ -1131,7 +1255,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.5021,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Bundesliga 2",
@@ -1149,7 +1275,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.4173,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Bundesliga 2",
@@ -1167,7 +1295,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.5021,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Bundesliga 2",
@@ -1185,7 +1315,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.4173,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Bundesliga 2",
@@ -1203,7 +1335,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.7994,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Championship",
@@ -1221,7 +1355,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.7375,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Championship",
@@ -1239,7 +1375,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.7428,
-    "ht_low_confidence": true
+    "ht_low_confidence": true,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Championship",
@@ -1257,7 +1395,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": true,
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.7375,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Championship",
@@ -1275,7 +1415,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": true,
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.7428,
-    "ht_low_confidence": true
+    "ht_low_confidence": true,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Championship",
@@ -1293,7 +1435,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-03",
     "model_prob_ht_over15": 0.2858,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Championship",
@@ -1311,7 +1455,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-03",
     "model_prob_ht_over15": 0.6189,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Championship",
@@ -1329,7 +1475,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.3855,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Championship",
@@ -1347,7 +1495,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3736,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Championship",
@@ -1365,7 +1515,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-03",
     "model_prob_ht_over15": 0.3353,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Championship",
@@ -1383,7 +1535,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.4294,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Championship",
@@ -1401,7 +1555,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.2974,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Championship",
@@ -1419,7 +1575,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3192,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Championship",
@@ -1437,7 +1595,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3541,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Championship",
@@ -1455,7 +1615,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3509,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Championship",
@@ -1473,7 +1635,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.4074,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Championship",
@@ -1491,7 +1655,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3181,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Championship",
@@ -1509,7 +1675,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-03",
     "model_prob_ht_over15": 0.5464,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Championship",
@@ -1527,7 +1695,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3485,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Championship",
@@ -1545,7 +1715,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.363,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Championship",
@@ -1563,7 +1735,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-03",
     "model_prob_ht_over15": 0.3699,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Championship",
@@ -1581,7 +1755,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3173,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Championship",
@@ -1599,7 +1775,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.4571,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Championship",
@@ -1617,7 +1795,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-03",
     "model_prob_ht_over15": 0.4504,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "China Super League",
@@ -1635,7 +1815,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "China Super League",
@@ -1653,7 +1835,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "China Super League",
@@ -1671,7 +1855,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "China Super League",
@@ -1689,7 +1875,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "China Super League",
@@ -1707,7 +1895,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "China Super League",
@@ -1725,7 +1915,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "China Super League",
@@ -1743,7 +1935,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "China Super League",
@@ -1761,7 +1955,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "China Super League",
@@ -1779,7 +1975,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "China Super League",
@@ -1797,7 +1995,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "China Super League",
@@ -1815,7 +2015,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Denmark Superliga",
@@ -1833,7 +2035,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Denmark Superliga",
@@ -1851,7 +2055,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Denmark Superliga",
@@ -1869,7 +2075,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Denmark Superliga",
@@ -1887,7 +2095,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Denmark Superliga",
@@ -1905,7 +2115,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Denmark Superliga",
@@ -1923,7 +2135,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Denmark Superliga",
@@ -1941,7 +2155,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": true,
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Denmark Superliga",
@@ -1959,7 +2175,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Eredivisie",
@@ -1977,7 +2195,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.4955,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Eredivisie",
@@ -1995,7 +2215,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.4212,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Eredivisie",
@@ -2013,7 +2235,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.2435,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Eredivisie",
@@ -2031,7 +2255,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3386,
-    "ht_low_confidence": true
+    "ht_low_confidence": true,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Eredivisie",
@@ -2049,7 +2275,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": true,
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.2435,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Eredivisie",
@@ -2067,7 +2295,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": true,
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3386,
-    "ht_low_confidence": true
+    "ht_low_confidence": true,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Eredivisie",
@@ -2085,7 +2315,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.454,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Eredivisie",
@@ -2103,7 +2335,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3912,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Eredivisie",
@@ -2121,7 +2355,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.454,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Eredivisie",
@@ -2139,7 +2375,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3912,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Eredivisie",
@@ -2157,7 +2395,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.5126,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Eredivisie",
@@ -2175,7 +2415,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.4229,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Eredivisie",
@@ -2193,7 +2435,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.5126,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Eredivisie",
@@ -2211,7 +2455,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.4229,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Eredivisie",
@@ -2229,7 +2475,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-03",
     "model_prob_ht_over15": 0.5227,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Eredivisie",
@@ -2247,7 +2495,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.4711,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Eredivisie",
@@ -2265,7 +2515,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.6798,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Eredivisie",
@@ -2283,7 +2535,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.6798,
-    "ht_low_confidence": true
+    "ht_low_confidence": true,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Eredivisie",
@@ -2301,7 +2555,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": true,
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.6798,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Eredivisie",
@@ -2319,7 +2575,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": true,
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.6798,
-    "ht_low_confidence": true
+    "ht_low_confidence": true,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Eredivisie",
@@ -2337,7 +2595,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3402,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Eredivisie",
@@ -2355,7 +2615,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3513,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Isthmian League",
@@ -2373,7 +2635,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.5489,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Isthmian League",
@@ -2391,7 +2655,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.4788,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Isthmian League",
@@ -2409,7 +2675,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.5553,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Isthmian League",
@@ -2427,7 +2695,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.1244,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Isthmian League",
@@ -2445,7 +2715,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.5513,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Isthmian League",
@@ -2463,7 +2735,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.5753,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Isthmian League",
@@ -2481,7 +2755,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.4628,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Isthmian League",
@@ -2499,7 +2775,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.6616,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Isthmian League",
@@ -2517,7 +2795,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.2196,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Isthmian League",
@@ -2535,7 +2815,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.7649,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Jupiler League",
@@ -2553,7 +2835,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.4738,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Jupiler League",
@@ -2571,7 +2855,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.4015,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Jupiler League",
@@ -2589,7 +2875,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.4738,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Jupiler League",
@@ -2607,7 +2895,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.4015,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Jupiler League",
@@ -2625,7 +2915,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.4147,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Jupiler League",
@@ -2643,7 +2935,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3645,
-    "ht_low_confidence": true
+    "ht_low_confidence": true,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Jupiler League",
@@ -2661,7 +2955,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": true,
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.4147,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Jupiler League",
@@ -2679,7 +2975,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": true,
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3645,
-    "ht_low_confidence": true
+    "ht_low_confidence": true,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Jupiler League",
@@ -2697,7 +2995,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.5044,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Jupiler League",
@@ -2715,7 +3015,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.4143,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Jupiler League",
@@ -2733,7 +3035,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.5044,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Jupiler League",
@@ -2751,7 +3055,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.4143,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Jupiler League",
@@ -2769,7 +3075,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.324,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Jupiler League",
@@ -2787,7 +3095,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.4683,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Jupiler League",
@@ -2805,7 +3115,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3948,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Jupiler League",
@@ -2823,7 +3135,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.4683,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Jupiler League",
@@ -2841,7 +3155,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3948,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Jupiler League",
@@ -2859,7 +3175,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3652,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Jupiler League",
@@ -2877,7 +3195,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3293,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Jupiler League",
@@ -2895,7 +3215,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3241,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "La Liga",
@@ -2913,7 +3235,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.2992,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "La Liga",
@@ -2931,7 +3255,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3211,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "La Liga",
@@ -2949,7 +3275,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.2992,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "La Liga",
@@ -2967,7 +3295,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3211,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "La Liga",
@@ -2985,7 +3315,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.2331,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "La Liga",
@@ -3003,7 +3335,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3452,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "La Liga",
@@ -3021,7 +3355,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.457,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "La Liga",
@@ -3039,7 +3375,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.3456,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "La Liga",
@@ -3057,7 +3395,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.3667,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "La Liga",
@@ -3075,7 +3415,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3438,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "La Liga",
@@ -3093,7 +3435,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.3667,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "La Liga",
@@ -3111,7 +3455,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3438,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "La Liga",
@@ -3129,7 +3475,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.4071,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "La Liga",
@@ -3147,7 +3495,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3659,
-    "ht_low_confidence": true
+    "ht_low_confidence": true,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "La Liga",
@@ -3165,7 +3515,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": true,
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.4071,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "La Liga",
@@ -3183,7 +3535,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": true,
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3659,
-    "ht_low_confidence": true
+    "ht_low_confidence": true,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "La Liga",
@@ -3201,7 +3555,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.4307,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "La Liga",
@@ -3219,7 +3575,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3792,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "La Liga",
@@ -3237,7 +3595,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.4307,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "La Liga",
@@ -3255,7 +3615,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3792,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "La Liga",
@@ -3273,7 +3635,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.2435,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "La Liga",
@@ -3291,7 +3655,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3452,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "La Liga",
@@ -3309,7 +3675,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.6576,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "La Liga 2",
@@ -3327,7 +3695,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.5913,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "La Liga 2",
@@ -3345,7 +3715,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.4651,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "La Liga 2",
@@ -3363,7 +3735,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.5913,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "La Liga 2",
@@ -3381,7 +3755,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.4651,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "La Liga 2",
@@ -3399,7 +3775,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.34,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "La Liga 2",
@@ -3417,7 +3795,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3282,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "La Liga 2",
@@ -3435,7 +3815,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.34,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "La Liga 2",
@@ -3453,7 +3835,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3282,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "La Liga 2",
@@ -3471,7 +3855,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.0766,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "La Liga 2",
@@ -3489,7 +3875,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.3452,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "La Liga 2",
@@ -3507,7 +3895,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.331,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "La Liga 2",
@@ -3525,7 +3915,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.3452,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "La Liga 2",
@@ -3543,7 +3935,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.331,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "La Liga 2",
@@ -3561,7 +3955,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3495,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "La Liga 2",
@@ -3579,7 +3975,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.2622,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "La Liga 2",
@@ -3597,7 +3995,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.2653,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "La Liga 2",
@@ -3615,7 +4015,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3319,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "La Liga 2",
@@ -3633,7 +4035,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.2653,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "La Liga 2",
@@ -3651,7 +4055,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3319,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "La Liga 2",
@@ -3669,7 +4075,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3426,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "La Liga 2",
@@ -3687,7 +4095,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.4109,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "La Liga 2",
@@ -3705,7 +4115,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3175,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "League One",
@@ -3723,7 +4135,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.342,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "League One",
@@ -3741,7 +4155,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3265,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "League One",
@@ -3759,7 +4175,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3719,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "League One",
@@ -3777,7 +4195,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3817,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "League One",
@@ -3795,7 +4215,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3385,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "League One",
@@ -3813,7 +4235,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.469,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "League One",
@@ -3831,7 +4255,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.4744,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "League One",
@@ -3849,7 +4275,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-03",
     "model_prob_ht_over15": 0.4439,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "League One",
@@ -3867,7 +4295,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.4329,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "League One",
@@ -3885,7 +4315,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3374,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "League One",
@@ -3903,7 +4335,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3588,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "League One",
@@ -3921,7 +4355,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.4232,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "League Two",
@@ -3939,7 +4375,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3697,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "League Two",
@@ -3957,7 +4395,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.4685,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "League Two",
@@ -3975,7 +4415,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3616,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "League Two",
@@ -3993,7 +4435,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.4089,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "League Two",
@@ -4011,7 +4455,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.4682,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "League Two",
@@ -4029,7 +4475,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3172,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "League Two",
@@ -4047,7 +4495,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3248,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "League Two",
@@ -4065,7 +4515,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3586,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "League Two",
@@ -4083,7 +4535,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3701,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "League Two",
@@ -4101,7 +4555,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3378,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "League Two",
@@ -4119,7 +4575,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3165,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "League Two",
@@ -4137,7 +4595,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.33,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Liga I",
@@ -4155,7 +4615,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3439,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Liga I",
@@ -4173,7 +4635,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3418,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Liga I",
@@ -4191,7 +4655,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.4355,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Liga I",
@@ -4209,7 +4675,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.381,
-    "ht_low_confidence": true
+    "ht_low_confidence": true,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Liga I",
@@ -4227,7 +4695,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": true,
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.4355,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Liga I",
@@ -4245,7 +4715,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": true,
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.381,
-    "ht_low_confidence": true
+    "ht_low_confidence": true,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Liga I",
@@ -4263,7 +4735,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.6799,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Liga I",
@@ -4281,7 +4755,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.3621,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Liga I",
@@ -4299,7 +4775,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.389,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Liga I",
@@ -4317,7 +4795,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3553,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Liga I",
@@ -4335,7 +4815,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.389,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Liga I",
@@ -4353,7 +4835,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3553,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Liga I",
@@ -4371,7 +4855,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.4078,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Ligi 1",
@@ -4389,7 +4875,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.4413,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Ligi 1",
@@ -4407,7 +4895,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.1452,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Ligi 1",
@@ -4425,7 +4915,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3689,
-    "ht_low_confidence": true
+    "ht_low_confidence": true,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Ligi 1",
@@ -4443,7 +4935,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": true,
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.1452,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Ligi 1",
@@ -4461,7 +4955,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": true,
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3689,
-    "ht_low_confidence": true
+    "ht_low_confidence": true,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Ligi 1",
@@ -4479,7 +4975,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3619,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Ligi 1",
@@ -4497,7 +4995,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.66,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Ligi 1",
@@ -4515,7 +5015,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.398,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Ligi 1",
@@ -4533,7 +5035,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3603,
-    "ht_low_confidence": true
+    "ht_low_confidence": true,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Ligi 1",
@@ -4551,7 +5055,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": true,
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.398,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Ligi 1",
@@ -4569,7 +5075,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": true,
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3603,
-    "ht_low_confidence": true
+    "ht_low_confidence": true,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Ligi 1",
@@ -4587,7 +5095,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.2012,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Ligi 1",
@@ -4605,7 +5115,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3516,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Ligi 1",
@@ -4623,7 +5135,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.2012,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Ligi 1",
@@ -4641,7 +5155,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3516,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Ligi 1",
@@ -4659,7 +5175,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.4264,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Ligi 1",
@@ -4677,7 +5195,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3759,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Ligi 1",
@@ -4695,7 +5215,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.4264,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Ligi 1",
@@ -4713,7 +5235,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3759,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Ligue 1",
@@ -4731,7 +5255,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.332,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Ligue 1",
@@ -4749,7 +5275,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3244,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Ligue 1",
@@ -4767,7 +5295,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.332,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Ligue 1",
@@ -4785,7 +5315,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3244,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Ligue 1",
@@ -4803,7 +5335,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3567,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Ligue 1",
@@ -4821,7 +5355,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3503,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Ligue 1",
@@ -4839,7 +5375,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.3109,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Ligue 1",
@@ -4857,7 +5395,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.3373,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Ligue 1",
@@ -4875,7 +5415,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3274,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Ligue 1",
@@ -4893,7 +5435,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.3373,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Ligue 1",
@@ -4911,7 +5455,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3274,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Ligue 1",
@@ -4929,7 +5475,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.4835,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Ligue 1",
@@ -4947,7 +5495,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.2181,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Ligue 1",
@@ -4965,7 +5515,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3463,
-    "ht_low_confidence": true
+    "ht_low_confidence": true,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Ligue 1",
@@ -4983,7 +5535,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": true,
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.2181,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Ligue 1",
@@ -5001,7 +5555,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": true,
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3463,
-    "ht_low_confidence": true
+    "ht_low_confidence": true,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Ligue 2",
@@ -5019,7 +5575,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.095,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Ligue 2",
@@ -5037,7 +5595,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.2459,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Ligue 2",
@@ -5055,7 +5615,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.276,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Ligue 2",
@@ -5073,7 +5635,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.3657,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Ligue 2",
@@ -5091,7 +5655,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.339,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Ligue 2",
@@ -5109,7 +5675,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3813,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Ligue 2",
@@ -5127,7 +5695,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.4179,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Mexico Liga MX",
@@ -5145,7 +5715,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Mexico Liga MX",
@@ -5163,7 +5735,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Mexico Liga MX",
@@ -5181,7 +5755,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Mexico Liga MX",
@@ -5199,7 +5775,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": true,
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Mexico Liga MX",
@@ -5217,7 +5795,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Mexico Liga MX",
@@ -5235,7 +5815,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Mexico Liga MX",
@@ -5253,7 +5835,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Mexico Liga MX",
@@ -5271,7 +5855,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Mexico Liga MX",
@@ -5289,7 +5875,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Mexico Liga MX",
@@ -5307,7 +5895,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Mexico Liga MX",
@@ -5325,7 +5915,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Mexico Liga MX",
@@ -5343,7 +5935,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League",
@@ -5361,7 +5955,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3451,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League",
@@ -5379,7 +5975,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.3638,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League",
@@ -5397,7 +5995,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.36,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League",
@@ -5415,7 +6015,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3457,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League",
@@ -5433,7 +6035,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.4054,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League",
@@ -5451,7 +6055,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.2593,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League",
@@ -5469,7 +6075,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.4514,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League",
@@ -5487,7 +6095,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3438,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League",
@@ -5505,7 +6115,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3855,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League",
@@ -5523,7 +6135,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.5247,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League",
@@ -5541,7 +6155,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3478,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League",
@@ -5559,7 +6175,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3846,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League",
@@ -5577,7 +6195,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.4652,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League",
@@ -5595,7 +6215,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.4728,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League",
@@ -5613,7 +6235,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.4119,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League",
@@ -5631,7 +6255,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3179,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League",
@@ -5649,7 +6275,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.3059,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League",
@@ -5667,7 +6295,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3426,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League",
@@ -5685,7 +6315,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.326,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League",
@@ -5703,7 +6335,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.336,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League",
@@ -5721,7 +6355,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.2857,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League North",
@@ -5739,7 +6375,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-03",
     "model_prob_ht_over15": 0.2834,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League North",
@@ -5757,7 +6395,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.4074,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League North",
@@ -5775,7 +6415,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.1143,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League North",
@@ -5793,7 +6435,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-03",
     "model_prob_ht_over15": 0.1226,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League North",
@@ -5811,7 +6455,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-03",
     "model_prob_ht_over15": 0.3727,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League North",
@@ -5829,7 +6475,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-03",
     "model_prob_ht_over15": 0.3954,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League North",
@@ -5847,7 +6495,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3426,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League North",
@@ -5865,7 +6515,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-03",
     "model_prob_ht_over15": 0.3932,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League North",
@@ -5883,7 +6535,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3439,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League North",
@@ -5901,7 +6555,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3207,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League North",
@@ -5919,7 +6575,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3708,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League North",
@@ -5937,7 +6595,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-03",
     "model_prob_ht_over15": 0.2837,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League North",
@@ -5955,7 +6615,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-03",
     "model_prob_ht_over15": 0.2757,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League North",
@@ -5973,7 +6635,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.322,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League North",
@@ -5991,7 +6655,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3802,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League North",
@@ -6009,7 +6675,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.1019,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League North",
@@ -6027,7 +6695,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3199,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League North",
@@ -6045,7 +6715,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-03",
     "model_prob_ht_over15": 0.4583,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League North",
@@ -6063,7 +6735,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3264,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League North",
@@ -6081,7 +6755,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-03",
     "model_prob_ht_over15": 0.295,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League North",
@@ -6099,7 +6775,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-03",
     "model_prob_ht_over15": 0.0979,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League North",
@@ -6117,7 +6795,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.1107,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League North",
@@ -6135,7 +6815,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-03",
     "model_prob_ht_over15": 0.121,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League North",
@@ -6153,7 +6835,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-03",
     "model_prob_ht_over15": 0.4937,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League South",
@@ -6171,7 +6855,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3695,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League South",
@@ -6189,7 +6875,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.7721,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League South",
@@ -6207,7 +6895,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3448,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League South",
@@ -6225,7 +6915,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3254,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League South",
@@ -6243,7 +6935,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-03",
     "model_prob_ht_over15": 0.3501,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League South",
@@ -6261,7 +6955,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-03",
     "model_prob_ht_over15": 0.2938,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League South",
@@ -6279,7 +6975,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-03",
     "model_prob_ht_over15": 0.2869,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League South",
@@ -6297,7 +6995,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3383,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League South",
@@ -6315,7 +7015,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-03",
     "model_prob_ht_over15": 0.2798,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League South",
@@ -6333,7 +7035,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3879,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League South",
@@ -6351,7 +7055,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-03",
     "model_prob_ht_over15": 0.153,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League South",
@@ -6369,7 +7075,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-03",
     "model_prob_ht_over15": 0.4018,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League South",
@@ -6387,7 +7095,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3227,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League South",
@@ -6405,7 +7115,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3632,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League South",
@@ -6423,7 +7135,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-03",
     "model_prob_ht_over15": 0.349,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League South",
@@ -6441,7 +7155,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3325,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League South",
@@ -6459,7 +7175,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-03",
     "model_prob_ht_over15": 0.4033,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League South",
@@ -6477,7 +7195,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.4874,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League South",
@@ -6495,7 +7215,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-03",
     "model_prob_ht_over15": 0.3754,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League South",
@@ -6513,7 +7235,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3207,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League South",
@@ -6531,7 +7255,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3632,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League South",
@@ -6549,7 +7275,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.1857,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League South",
@@ -6567,7 +7295,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.439,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "National League South",
@@ -6585,7 +7315,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-03",
     "model_prob_ht_over15": 0.3212,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Norway Eliteserien",
@@ -6603,7 +7335,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Norway Eliteserien",
@@ -6621,7 +7355,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Norway Eliteserien",
@@ -6639,7 +7375,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Norway Eliteserien",
@@ -6657,7 +7395,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Norway Eliteserien",
@@ -6675,7 +7415,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Norway Eliteserien",
@@ -6693,7 +7435,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Norway Eliteserien",
@@ -6711,7 +7455,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Norway Eliteserien",
@@ -6729,7 +7475,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Norway Eliteserien",
@@ -6747,7 +7495,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Norway Eliteserien",
@@ -6765,7 +7515,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Poland Ekstraklasa",
@@ -6783,7 +7535,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Poland Ekstraklasa",
@@ -6801,7 +7555,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Poland Ekstraklasa",
@@ -6819,7 +7575,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Poland Ekstraklasa",
@@ -6837,7 +7595,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Poland Ekstraklasa",
@@ -6855,7 +7615,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Poland Ekstraklasa",
@@ -6873,7 +7635,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Poland Ekstraklasa",
@@ -6891,7 +7655,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Poland Ekstraklasa",
@@ -6909,7 +7675,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Poland Ekstraklasa",
@@ -6927,7 +7695,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Poland Ekstraklasa",
@@ -6945,7 +7715,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Premier League",
@@ -6963,7 +7735,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.4289,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Premier League",
@@ -6981,7 +7755,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3773,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Premier League",
@@ -6999,7 +7775,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.4289,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Premier League",
@@ -7017,7 +7795,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3773,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Premier League",
@@ -7035,7 +7815,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3203,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Premier League",
@@ -7053,7 +7835,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3179,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Premier League",
@@ -7071,7 +7855,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.2248,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Premier League",
@@ -7089,7 +7875,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3444,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Premier League",
@@ -7107,7 +7895,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.2248,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Premier League",
@@ -7125,7 +7915,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3444,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Premier League",
@@ -7143,7 +7935,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3294,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Premier League",
@@ -7161,7 +7955,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3385,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Premier League",
@@ -7179,7 +7975,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.5294,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Premier League",
@@ -7197,7 +7995,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3777,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Premier League",
@@ -7215,7 +8015,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3656,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Premier League",
@@ -7233,7 +8035,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3171,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Romania Superliga",
@@ -7251,7 +8055,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Romania Superliga",
@@ -7269,7 +8075,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Romania Superliga",
@@ -7287,7 +8095,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": true,
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Romania Superliga",
@@ -7305,7 +8115,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Scottish Championship",
@@ -7323,7 +8135,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.3198,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Scottish League One",
@@ -7341,7 +8155,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3182,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Scottish League One",
@@ -7359,7 +8175,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3799,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Scottish League Two",
@@ -7377,7 +8195,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3723,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Scottish League Two",
@@ -7395,7 +8215,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.4025,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Scottish Premiership",
@@ -7413,7 +8235,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.316,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Scottish Premiership",
@@ -7431,7 +8255,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3278,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Scottish Premiership",
@@ -7449,7 +8275,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.3423,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Scottish Premiership",
@@ -7467,7 +8295,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.2877,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Scottish Premiership",
@@ -7485,7 +8315,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3958,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Scottish Premiership",
@@ -7503,7 +8335,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.4208,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Scottish Premiership",
@@ -7521,7 +8355,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3624,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Scottish Premiership",
@@ -7539,7 +8375,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.4208,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Scottish Premiership",
@@ -7557,7 +8395,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3624,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Scottish Premiership",
@@ -7575,7 +8415,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.6719,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Serie A",
@@ -7593,7 +8435,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.3585,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Serie A",
@@ -7611,7 +8455,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3384,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Serie A",
@@ -7629,7 +8475,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.3585,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Serie A",
@@ -7647,7 +8495,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3384,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Serie A",
@@ -7665,7 +8515,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3378,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Serie A",
@@ -7683,7 +8535,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.1902,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Serie A",
@@ -7701,7 +8555,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.355,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Serie A",
@@ -7719,7 +8575,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.1902,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Serie A",
@@ -7737,7 +8595,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.355,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Serie A",
@@ -7755,7 +8615,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.2816,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Serie A",
@@ -7773,7 +8635,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.344,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Serie A",
@@ -7791,7 +8655,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.374,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Serie A",
@@ -7809,7 +8675,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.347,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Serie A",
@@ -7827,7 +8695,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.374,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Serie A",
@@ -7845,7 +8715,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.347,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Serie A",
@@ -7863,7 +8735,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.2514,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Serie A",
@@ -7881,7 +8755,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3362,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Serie A",
@@ -7899,7 +8775,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.2514,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Serie A",
@@ -7917,7 +8795,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3362,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Serie A",
@@ -7935,7 +8815,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3278,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Serie B",
@@ -7953,7 +8835,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.0653,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Serie B",
@@ -7971,7 +8855,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3341,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Serie B",
@@ -7989,7 +8875,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.4354,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Serie B",
@@ -8007,7 +8895,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.381,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Serie B",
@@ -8025,7 +8915,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.4354,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Serie B",
@@ -8043,7 +8935,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.381,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Serie B",
@@ -8061,7 +8955,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.3085,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Serie B",
@@ -8079,7 +8975,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3186,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Serie B",
@@ -8097,7 +8995,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.3085,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Serie B",
@@ -8115,7 +9015,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3186,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Serie B",
@@ -8133,7 +9035,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.3173,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Serie B",
@@ -8151,7 +9055,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3159,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Serie B",
@@ -8169,7 +9075,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.3173,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Serie B",
@@ -8187,7 +9095,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3159,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Serie B",
@@ -8205,7 +9115,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.3685,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Serie B",
@@ -8223,7 +9135,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.344,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Serie B",
@@ -8241,7 +9155,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.3685,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Serie B",
@@ -8259,7 +9175,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.344,
-    "ht_low_confidence": false
+    "ht_low_confidence": false,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Serie B",
@@ -8277,7 +9195,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.36,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Serie B",
@@ -8295,7 +9215,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.3767,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Serie B",
@@ -8313,7 +9235,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3485,
-    "ht_low_confidence": true
+    "ht_low_confidence": true,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Serie B",
@@ -8331,7 +9255,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": true,
     "ht_date_logged": "2026-09-02",
     "model_prob_ht_over15": 0.3767,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Serie B",
@@ -8349,7 +9275,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": true,
     "ht_date_logged": "2026-09-05",
     "model_prob_ht_over15": 0.3485,
-    "ht_low_confidence": true
+    "ht_low_confidence": true,
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Southern League Central",
@@ -8367,7 +9295,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.2421,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Southern League Central",
@@ -8385,7 +9315,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.5715,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Southern League Central",
@@ -8403,7 +9335,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.2468,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Southern League Central",
@@ -8421,7 +9355,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.5142,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Southern League Central",
@@ -8439,7 +9375,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.5891,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Southern League Central",
@@ -8457,7 +9395,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.3541,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Southern League Central",
@@ -8475,7 +9415,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.1992,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Southern League Central",
@@ -8493,7 +9435,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.4141,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Southern League Central",
@@ -8511,7 +9455,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.2977,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Southern League Central",
@@ -8529,7 +9475,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.2425,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Southern League South",
@@ -8547,7 +9495,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.5449,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Southern League South",
@@ -8565,7 +9515,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.2142,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Southern League South",
@@ -8583,7 +9535,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.2982,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Southern League South",
@@ -8601,7 +9555,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.4435,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Southern League South",
@@ -8619,7 +9575,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.4843,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Southern League South",
@@ -8637,7 +9595,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.4892,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Southern League South",
@@ -8655,7 +9615,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.3252,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Southern League South",
@@ -8673,7 +9635,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.3589,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Southern League South",
@@ -8691,7 +9655,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.3229,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Southern League South",
@@ -8709,7 +9675,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.2961,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Southern League South",
@@ -8727,7 +9695,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.1752,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Southern League South",
@@ -8745,7 +9715,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "2026-09-04",
     "model_prob_ht_over15": 0.2885,
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Switzerland Super League",
@@ -8763,7 +9735,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Switzerland Super League",
@@ -8781,7 +9755,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Switzerland Super League",
@@ -8799,7 +9775,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Switzerland Super League",
@@ -8817,7 +9795,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Switzerland Super League",
@@ -8835,7 +9815,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Switzerland Super League",
@@ -8853,7 +9835,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Switzerland Super League",
@@ -8871,7 +9855,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Switzerland Super League",
@@ -8889,7 +9875,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Switzerland Super League",
@@ -8907,7 +9895,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "Switzerland Super League",
@@ -8925,7 +9915,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "USA MLS",
@@ -8943,7 +9935,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "USA MLS",
@@ -8961,7 +9955,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "USA MLS",
@@ -8979,7 +9975,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "USA MLS",
@@ -8997,7 +9995,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "USA MLS",
@@ -9015,7 +10015,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "USA MLS",
@@ -9033,7 +10035,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "USA MLS",
@@ -9051,7 +10055,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "USA MLS",
@@ -9069,7 +10075,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "USA MLS",
@@ -9087,7 +10095,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "USA MLS",
@@ -9105,7 +10115,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "USA MLS",
@@ -9123,7 +10135,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "USA MLS",
@@ -9141,7 +10155,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "USA MLS",
@@ -9159,7 +10175,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "USA MLS",
@@ -9177,7 +10195,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "USA MLS",
@@ -9195,7 +10215,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "USA MLS",
@@ -9213,7 +10235,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "USA MLS",
@@ -9231,7 +10255,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "USA MLS",
@@ -9249,7 +10275,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "USA MLS",
@@ -9267,7 +10295,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "USA MLS",
@@ -9285,7 +10315,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "USA MLS",
@@ -9303,7 +10335,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "USA MLS",
@@ -9321,7 +10355,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "USA MLS",
@@ -9339,7 +10375,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "USA MLS",
@@ -9357,7 +10395,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "USA MLS",
@@ -9375,7 +10415,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "USA MLS",
@@ -9393,7 +10435,9 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": "",
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   },
   {
     "league": "USA MLS",
@@ -9411,6 +10455,8 @@ const PENDING_PREDICTIONS = [
     "ft_low_confidence": false,
     "ht_date_logged": "",
     "model_prob_ht_over15": "",
-    "ht_low_confidence": ""
+    "ht_low_confidence": "",
+    "ft_first_seen": "",
+    "ht_first_seen": ""
   }
 ];

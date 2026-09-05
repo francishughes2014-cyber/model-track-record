@@ -618,14 +618,14 @@ function renderPending() {
   wrap.innerHTML = `
     <table>
       <thead><tr>
-        <th style="text-align:left">date</th>
+        <th style="text-align:left">first predicted</th>
         <th style="text-align:left">league</th>
         <th style="text-align:left">match</th>
         ${marketCols.map(([, label]) => `<th>${label}</th>`).join('')}
       </tr></thead>
       <tbody>
         ${preds.map(p => {
-          const dates = [p.ft_date_logged, p.ht_date_logged].filter(d => d);
+          const dates = [p.ft_first_seen, p.ht_first_seen].filter(d => d);
           const displayDate = dates.length ? dates.sort()[0] : '';
           const lowConf = isLowConf(p.ft_low_confidence) || isLowConf(p.ht_low_confidence);
           return `
