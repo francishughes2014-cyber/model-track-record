@@ -611,6 +611,10 @@ function renderPending() {
     ['model_prob_ht_over15', 'HT O1.5'],
   ];
 
+  function isLowConf(v) {
+    return v === true || v === 'True' || v === 'true';
+  }
+
   wrap.innerHTML = `
     <table>
       <thead><tr>
@@ -620,19 +624,23 @@ function renderPending() {
         ${marketCols.map(([, label]) => `<th>${label}</th>`).join('')}
       </tr></thead>
       <tbody>
-        ${preds.map(p => `
+        ${preds.map(p => {
+          const dates = [p.ft_date_logged, p.ht_date_logged].filter(d => d);
+          const displayDate = dates.length ? dates.sort()[0] : '';
+          const lowConf = isLowConf(p.ft_low_confidence) || isLowConf(p.ht_low_confidence);
+          return `
           <tr>
-            <td style="text-align:left">${p.date_logged || ''}</td>
+            <td style="text-align:left">${displayDate}</td>
             <td style="text-align:left">${p.league || ''}</td>
             <td style="text-align:left">${p.home_team} vs ${p.away_team}${
-              p.low_confidence === true || p.low_confidence === 'True'
-                ? '<span class="low-conf-tag">low n</span>' : ''}</td>
+              lowConf ? '<span class="low-conf-tag">low n</span>' : ''}</td>
             ${marketCols.map(([col]) => {
               const v = p[col];
-              return `<td>${v !== undefined && v !== '' ? (v * 100).toFixed(0) + '%' : '—'}</td>`;
+              return `<td>${v !== undefined && v !== '' && v !== null ? (v * 100).toFixed(0) + '%' : '—'}</td>`;
             }).join('')}
           </tr>
-        `).join('')}
+        `;
+        }).join('')}
       </tbody>
     </table>
   `;

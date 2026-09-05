@@ -14,7 +14,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3492,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -31,7 +36,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.2379,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -48,7 +58,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.2505,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -65,7 +80,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.24,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -82,7 +102,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3761,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -99,7 +124,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.2289,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -116,7 +146,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3128,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -133,7 +168,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3348,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -150,7 +190,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3439,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -167,7 +212,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3381,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -184,7 +234,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.1554,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -201,7 +256,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.2884,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -218,7 +278,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.1519,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -235,7 +300,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4352,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -252,7 +322,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.2442,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -269,7 +344,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4183,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -286,7 +366,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4033,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -303,7 +388,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4244,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -320,7 +410,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4356,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -337,7 +432,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3146,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -354,7 +454,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4044,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -371,7 +476,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3879,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -388,7 +498,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4575,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -405,7 +520,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3338,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -422,7 +542,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.2611,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -439,7 +564,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5206,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -456,7 +586,56 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3399,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
+  },
+  {
+    "date_logged": "2026-08-31",
+    "league": "Bundesliga",
+    "home_team": "Hoffenheim",
+    "away_team": "Dortmund",
+    "model_prob_over15": "",
+    "model_prob_over": 0.6239,
+    "model_prob_over35": "",
+    "model_prob_home": "",
+    "model_prob_draw": "",
+    "model_prob_away": "",
+    "model_prob_btts_yes": "",
+    "model_prob_btts_over25": "",
+    "market": "full-time",
+    "model_prob_ht_over15": "",
+    "settled": true,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
+  },
+  {
+    "date_logged": "2026-08-31",
+    "league": "Bundesliga",
+    "home_team": "Leverkusen",
+    "away_team": "Union Berlin",
+    "model_prob_over15": "",
+    "model_prob_over": 0.612,
+    "model_prob_over35": "",
+    "model_prob_home": "",
+    "model_prob_draw": "",
+    "model_prob_away": "",
+    "model_prob_btts_yes": "",
+    "model_prob_btts_over25": "",
+    "market": "full-time",
+    "model_prob_ht_over15": "",
+    "settled": true,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -473,7 +652,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3108,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -490,7 +674,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.1671,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -507,7 +696,34 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.2888,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
+  },
+  {
+    "date_logged": "2026-08-31",
+    "league": "Bundesliga",
+    "home_team": "Werder Bremen",
+    "away_team": "RB Leipzig",
+    "model_prob_over15": "",
+    "model_prob_over": 0.6668,
+    "model_prob_over35": "",
+    "model_prob_home": 0.2315,
+    "model_prob_draw": 0.2222,
+    "model_prob_away": 0.5464,
+    "model_prob_btts_yes": "",
+    "model_prob_btts_over25": "",
+    "market": "full-time",
+    "model_prob_ht_over15": "",
+    "settled": true,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -524,7 +740,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4779,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -541,7 +762,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4148,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -558,7 +784,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.6167,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -575,7 +806,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4893,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -592,7 +828,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5168,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -609,7 +850,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3742,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -626,7 +872,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3813,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -643,7 +894,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4163,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -660,7 +916,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5536,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -677,7 +938,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5936,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -694,7 +960,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.2873,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -711,7 +982,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3779,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -728,7 +1004,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.1811,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -745,7 +1026,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3296,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -762,7 +1048,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.2729,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -779,7 +1070,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4348,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -796,7 +1092,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4429,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -813,7 +1114,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3681,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -830,7 +1136,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3713,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -847,7 +1158,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3757,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -864,7 +1180,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5577,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -881,7 +1202,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.2956,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -898,7 +1224,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5631,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -915,7 +1246,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.171,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -932,7 +1268,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3882,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -949,7 +1290,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3147,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -966,7 +1312,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3275,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -983,7 +1334,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5154,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -1000,7 +1356,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3581,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -1017,7 +1378,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3465,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -1034,7 +1400,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3164,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -1051,7 +1422,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4261,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -1068,7 +1444,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.6015,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -1085,7 +1466,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5022,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -1102,7 +1488,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3189,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -1119,7 +1510,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.6471,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -1136,7 +1532,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3926,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -1153,7 +1554,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3588,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -1170,7 +1576,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5353,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -1187,7 +1598,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5106,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -1204,7 +1620,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4132,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -1221,7 +1642,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.7039,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -1238,7 +1664,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3837,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -1255,7 +1686,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.2907,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -1272,7 +1708,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.516,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -1289,7 +1730,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4798,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -1306,7 +1752,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5728,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -1323,7 +1774,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.6204,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -1340,7 +1796,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4915,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -1357,7 +1818,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3853,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -1374,7 +1840,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4097,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -1391,7 +1862,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3169,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -1408,7 +1884,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5172,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -1425,7 +1906,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5657,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -1442,7 +1928,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.354,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -1459,7 +1950,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.6297,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -1476,7 +1972,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.6183,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -1493,7 +1994,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4265,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -1510,7 +2016,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.6334,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -1527,7 +2038,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.446,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -1544,7 +2060,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.7677,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -1561,7 +2082,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5673,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -1578,7 +2104,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.1657,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -1595,7 +2126,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.547,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -1612,7 +2148,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.2862,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -1629,7 +2170,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3791,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -1646,7 +2192,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.358,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -1663,7 +2214,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.285,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -1680,7 +2236,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3379,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -1697,7 +2258,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5551,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -1714,7 +2280,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3953,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -1731,7 +2302,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3747,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -1748,7 +2324,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5095,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -1765,7 +2346,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4205,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -1782,7 +2368,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3028,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -1799,7 +2390,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.2785,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -1816,7 +2412,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.6162,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -1833,7 +2434,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.2591,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -1850,7 +2456,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3085,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -1867,7 +2478,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3845,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -1884,7 +2500,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4982,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -1901,7 +2522,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3994,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -1918,7 +2544,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4141,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -1935,7 +2566,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3817,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -1952,7 +2588,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3791,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -1969,7 +2610,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.1768,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -1986,7 +2632,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.2762,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -2003,7 +2654,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.2948,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -2020,7 +2676,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4472,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -2037,7 +2698,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3434,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -2054,7 +2720,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.2975,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -2071,7 +2742,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.2853,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -2088,7 +2764,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.2819,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -2105,7 +2786,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3982,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -2122,7 +2808,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4072,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -2139,7 +2830,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4821,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -2156,7 +2852,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4161,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -2173,7 +2874,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5172,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -2190,7 +2896,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.58,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -2207,7 +2918,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3607,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -2224,7 +2940,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3302,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -2241,7 +2962,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3447,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -2258,7 +2984,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3591,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -2275,7 +3006,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5763,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -2292,7 +3028,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3449,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -2309,7 +3050,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4287,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -2326,7 +3072,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4822,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -2343,7 +3094,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3495,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -2360,7 +3116,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3185,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -2377,7 +3138,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3507,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -2394,7 +3160,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.336,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -2411,7 +3182,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3722,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -2428,7 +3204,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.2947,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -2445,7 +3226,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3575,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -2462,7 +3248,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5288,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -2479,7 +3270,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3497,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -2496,7 +3292,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4475,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -2513,7 +3314,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.6327,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -2530,7 +3336,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.2361,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -2547,7 +3358,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.2286,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -2564,7 +3380,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3439,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -2581,7 +3402,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.6349,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -2598,7 +3424,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3058,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -2615,7 +3446,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.1555,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -2632,7 +3468,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5178,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -2649,7 +3490,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4369,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -2666,7 +3512,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.2052,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -2683,7 +3534,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3161,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -2700,7 +3556,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3115,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -2717,7 +3578,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3968,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -2734,7 +3600,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.462,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -2751,7 +3622,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3637,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -2768,7 +3644,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.7855,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -2785,7 +3666,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3681,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -2802,7 +3688,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.1212,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -2819,7 +3710,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.2688,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -2836,7 +3732,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.2856,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -2853,7 +3754,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.2478,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -2870,7 +3776,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3375,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -2887,7 +3798,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3647,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -2904,7 +3820,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4169,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -2921,7 +3842,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4733,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -2938,7 +3864,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4474,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -2955,7 +3886,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3172,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -2972,7 +3908,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3756,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -2989,7 +3930,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3726,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -3006,7 +3952,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.2917,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -3023,7 +3974,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4144,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -3040,7 +3996,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4244,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -3057,7 +4018,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4499,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -3074,7 +4040,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4145,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -3091,7 +4062,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4756,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -3108,7 +4084,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4515,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -3125,7 +4106,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4132,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -3142,7 +4128,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3701,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -3159,7 +4150,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5685,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -3176,7 +4172,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3529,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -3193,7 +4194,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4612,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -3210,7 +4216,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.6478,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -3227,7 +4238,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.522,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -3244,7 +4260,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5824,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -3261,7 +4282,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.2959,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -3278,7 +4304,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5756,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -3295,7 +4326,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5838,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -3312,7 +4348,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.444,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -3329,7 +4370,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4543,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -3346,7 +4392,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3056,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -3363,7 +4414,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4478,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -3380,7 +4436,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4719,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -3397,7 +4458,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4369,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -3414,7 +4480,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.2856,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -3431,7 +4502,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.7426,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -3448,7 +4524,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4573,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -3465,7 +4546,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5554,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -3482,7 +4568,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4466,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -3499,7 +4590,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4633,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -3516,7 +4612,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5472,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -3533,7 +4634,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4639,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -3550,7 +4656,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.442,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -3567,7 +4678,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4882,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -3584,7 +4700,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4305,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -3601,7 +4722,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.46,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -3618,7 +4744,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4367,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -3635,7 +4766,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.471,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -3652,7 +4788,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.444,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -3669,7 +4810,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4357,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -3686,7 +4832,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.6342,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -3703,7 +4854,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3411,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -3720,7 +4876,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3623,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -3737,7 +4898,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.579,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -3754,7 +4920,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.449,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -3771,7 +4942,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3869,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -3788,7 +4964,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.2309,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -3805,7 +4986,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.387,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -3822,7 +5008,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.1695,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -3839,7 +5030,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4983,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -3856,7 +5052,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4761,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -3873,7 +5074,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5771,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -3890,7 +5096,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.465,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -3907,7 +5118,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3625,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -3924,7 +5140,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4248,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -3941,7 +5162,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4274,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -3958,7 +5184,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4758,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -3975,7 +5206,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.2965,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -3992,7 +5228,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3144,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -4009,7 +5250,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5656,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -4026,7 +5272,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.1835,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -4043,7 +5294,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5915,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -4060,7 +5316,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.2909,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -4077,7 +5338,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3318,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -4094,7 +5360,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3129,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -4111,7 +5382,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.2966,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -4128,7 +5404,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5091,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -4145,7 +5426,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.7268,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -4162,7 +5448,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4376,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -4179,7 +5470,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.2893,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -4196,7 +5492,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.0813,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -4213,7 +5514,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.0728,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -4230,7 +5536,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3641,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -4247,7 +5558,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3486,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -4264,7 +5580,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4586,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -4281,7 +5602,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4762,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -4298,7 +5624,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3695,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -4315,7 +5646,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4599,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -4332,7 +5668,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.404,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -4349,7 +5690,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4394,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -4366,7 +5712,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5777,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -4383,7 +5734,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.36,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -4400,7 +5756,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4605,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -4417,7 +5778,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.2965,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -4434,7 +5800,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4812,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -4451,7 +5822,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4409,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -4468,7 +5844,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4664,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -4485,7 +5866,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3526,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -4502,7 +5888,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.6138,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -4519,7 +5910,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4093,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -4536,7 +5932,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5816,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -4553,7 +5954,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3667,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -4570,7 +5976,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.2991,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -4587,7 +5998,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.0505,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -4604,7 +6020,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5817,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -4621,7 +6042,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3987,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -4638,7 +6064,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.2838,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -4655,7 +6086,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.2829,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -4672,7 +6108,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.2924,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -4689,7 +6130,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.1227,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -4706,7 +6152,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.2814,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -4723,7 +6174,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.2041,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -4740,7 +6196,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3216,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -4757,7 +6218,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5595,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -4774,7 +6240,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5134,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -4791,7 +6262,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4749,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -4808,7 +6284,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.2848,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -4825,7 +6306,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3172,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -4842,7 +6328,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3258,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -4859,7 +6350,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3307,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -4876,7 +6372,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4025,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -4893,7 +6394,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3837,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -4910,7 +6416,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5189,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -4927,7 +6438,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5535,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -4944,7 +6460,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.2995,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -4961,7 +6482,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.1804,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -4978,7 +6504,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.2721,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -4995,7 +6526,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3629,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -5012,7 +6548,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5436,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -5029,7 +6570,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.2712,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -5046,7 +6592,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4104,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -5063,7 +6614,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3287,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -5080,7 +6636,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.355,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -5097,7 +6658,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4411,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -5114,7 +6680,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.2387,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -5131,7 +6702,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3504,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -5148,7 +6724,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3356,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -5165,7 +6746,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4518,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -5182,7 +6768,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5128,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -5199,7 +6790,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.2608,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -5216,7 +6812,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3429,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -5233,7 +6834,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4562,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -5250,7 +6856,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5401,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -5267,7 +6878,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4863,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -5284,7 +6900,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4853,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -5301,7 +6922,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.2908,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -5318,7 +6944,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5193,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -5335,7 +6966,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4121,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -5352,7 +6988,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.2915,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -5369,7 +7010,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5839,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -5386,7 +7032,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.2105,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -5403,7 +7054,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4703,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -5420,7 +7076,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.6252,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -5437,7 +7098,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4901,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -5454,7 +7120,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4325,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -5471,7 +7142,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4508,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -5488,7 +7164,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5722,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -5505,7 +7186,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3834,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -5522,7 +7208,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3888,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -5539,7 +7230,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3566,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -5556,7 +7252,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3929,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -5573,7 +7274,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4242,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -5590,7 +7296,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3427,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -5607,7 +7318,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3237,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -5624,7 +7340,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4963,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -5641,7 +7362,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5498,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -5658,7 +7384,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4931,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -5675,7 +7406,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5064,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -5692,7 +7428,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5052,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -5709,7 +7450,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3693,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -5726,7 +7472,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.484,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -5743,7 +7494,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5259,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -5760,7 +7516,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5568,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -5777,7 +7538,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.6084,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -5794,7 +7560,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -5811,7 +7582,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3453,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -5828,7 +7604,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5989,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -5845,7 +7626,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4677,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -5862,7 +7648,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5025,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -5879,7 +7670,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4134,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -5896,7 +7692,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4715,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -5913,7 +7714,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4763,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -5930,7 +7736,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.5019,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -5947,7 +7758,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3382,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -5964,7 +7780,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.4144,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -5981,7 +7802,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.4274,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -5998,7 +7824,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3385,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -6015,7 +7846,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3475,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -6032,7 +7868,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.43,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -6049,7 +7890,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3535,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -6066,7 +7912,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.5055,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -6083,7 +7934,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3986,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -6100,7 +7956,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.7067,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -6117,7 +7978,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.4365,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -6134,7 +8000,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.6815,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -6151,7 +8022,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3721,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -6168,7 +8044,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.352,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -6185,7 +8066,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.5021,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -6202,7 +8088,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.7994,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -6219,7 +8110,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.7375,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -6236,7 +8132,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.2858,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -6253,7 +8154,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.6189,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -6270,7 +8176,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3855,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -6287,7 +8198,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3736,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -6304,7 +8220,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3353,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -6321,7 +8242,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.4294,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -6338,7 +8264,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.2974,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -6355,7 +8286,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3192,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -6372,7 +8308,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3541,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -6389,7 +8330,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3509,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -6406,7 +8352,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.4074,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -6423,7 +8374,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3181,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -6440,7 +8396,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.5464,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -6457,7 +8418,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3485,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -6474,7 +8440,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.363,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -6491,7 +8462,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3699,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -6508,7 +8484,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3173,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -6525,7 +8506,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.4571,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -6542,7 +8528,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.4504,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -6559,7 +8550,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.4955,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -6576,7 +8572,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.4212,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -6593,7 +8594,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.2435,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -6610,7 +8616,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.454,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -6627,7 +8638,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.5126,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -6644,7 +8660,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.5227,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -6661,7 +8682,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.4711,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -6678,7 +8704,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.6798,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -6695,7 +8726,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3402,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -6712,7 +8748,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3513,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -6729,7 +8770,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.5489,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -6746,7 +8792,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.4788,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -6763,7 +8814,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.5553,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -6780,7 +8836,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.1244,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -6797,7 +8858,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.5513,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -6814,7 +8880,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.5753,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -6831,7 +8902,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.4628,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -6848,7 +8924,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.6616,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -6865,7 +8946,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.2196,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -6882,7 +8968,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.7649,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -6899,7 +8990,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.4738,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -6916,7 +9012,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.4147,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -6933,7 +9034,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.5044,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -6950,7 +9056,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.324,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -6967,7 +9078,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.4683,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -6984,7 +9100,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3652,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -7001,7 +9122,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3293,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -7018,7 +9144,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3241,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -7035,7 +9166,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.2992,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -7052,7 +9188,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.2331,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -7069,7 +9210,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3452,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -7086,7 +9232,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.457,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -7103,7 +9254,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3456,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -7120,7 +9276,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3667,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -7137,7 +9298,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.4071,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -7154,7 +9320,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.4307,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -7171,7 +9342,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.2435,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -7188,7 +9364,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3452,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -7205,7 +9386,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.6576,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -7222,7 +9408,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.5913,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -7239,7 +9430,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.34,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -7256,7 +9452,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.0766,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -7273,7 +9474,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3452,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -7290,7 +9496,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3495,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -7307,7 +9518,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.2622,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -7324,7 +9540,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.2653,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -7341,7 +9562,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3426,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -7358,7 +9584,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.4109,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -7375,7 +9606,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3175,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -7392,7 +9628,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.342,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -7409,7 +9650,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3265,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -7426,7 +9672,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3719,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -7443,7 +9694,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3817,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -7460,7 +9716,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3385,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -7477,7 +9738,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.469,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -7494,7 +9760,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.4744,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -7511,7 +9782,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.4439,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -7528,7 +9804,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.4329,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -7545,7 +9826,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3374,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -7562,7 +9848,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3588,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -7579,7 +9870,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.4232,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -7596,7 +9892,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3697,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -7613,7 +9914,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.4685,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -7630,7 +9936,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3616,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -7647,7 +9958,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.4089,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -7664,7 +9980,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.4682,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -7681,7 +10002,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3172,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -7698,7 +10024,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3248,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -7715,7 +10046,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3586,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -7732,7 +10068,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3701,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -7749,7 +10090,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3378,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -7766,7 +10112,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3165,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -7783,7 +10134,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.33,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -7800,7 +10156,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3439,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -7817,7 +10178,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3418,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -7834,7 +10200,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.4355,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -7851,7 +10222,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.6799,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -7868,7 +10244,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3621,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -7885,7 +10266,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.389,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -7902,7 +10288,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.4078,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -7919,7 +10310,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.4413,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -7936,7 +10332,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.1452,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -7953,7 +10354,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3619,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -7970,7 +10376,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.66,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -7987,7 +10398,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.398,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -8004,7 +10420,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.2012,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -8021,7 +10442,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.4264,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -8038,7 +10464,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.332,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -8055,7 +10486,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3567,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -8072,7 +10508,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3503,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -8089,7 +10530,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3109,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -8106,7 +10552,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3373,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -8123,7 +10574,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.4835,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -8140,7 +10596,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.2181,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -8157,7 +10618,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.095,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -8174,7 +10640,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.2459,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -8191,7 +10662,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.276,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -8208,7 +10684,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3657,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -8225,7 +10706,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.339,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -8242,7 +10728,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3813,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -8259,7 +10750,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.4179,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -8276,7 +10772,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3451,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -8293,7 +10794,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3638,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -8310,7 +10816,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.36,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -8327,7 +10838,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3457,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -8344,7 +10860,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.4054,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -8361,7 +10882,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.2593,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -8378,7 +10904,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.4514,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -8395,7 +10926,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3438,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -8412,7 +10948,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3855,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -8429,7 +10970,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.5247,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -8446,7 +10992,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3478,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -8463,7 +11014,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3846,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -8480,7 +11036,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.4652,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -8497,7 +11058,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.4728,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -8514,7 +11080,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.4119,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -8531,7 +11102,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3179,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -8548,7 +11124,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3059,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -8565,7 +11146,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3426,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -8582,7 +11168,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.326,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -8599,7 +11190,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.336,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -8616,7 +11212,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.2857,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -8633,7 +11234,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.2834,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -8650,7 +11256,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.4074,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -8667,7 +11278,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.1143,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -8684,7 +11300,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.1226,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -8701,7 +11322,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3727,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -8718,7 +11344,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3954,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -8735,7 +11366,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3426,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -8752,7 +11388,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3932,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -8769,7 +11410,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3439,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -8786,7 +11432,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3207,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -8803,7 +11454,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3708,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -8820,7 +11476,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.2837,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -8837,7 +11498,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.2757,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -8854,7 +11520,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.322,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -8871,7 +11542,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3802,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -8888,7 +11564,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.1019,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -8905,7 +11586,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3199,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -8922,7 +11608,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.4583,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -8939,7 +11630,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3264,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -8956,7 +11652,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.295,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -8973,7 +11674,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.0979,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -8990,7 +11696,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.1107,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -9007,7 +11718,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.121,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -9024,7 +11740,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.4937,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -9041,7 +11762,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3695,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -9058,7 +11784,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.7721,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -9075,7 +11806,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3448,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -9092,7 +11828,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3254,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -9109,7 +11850,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3501,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -9126,7 +11872,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.2938,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -9143,7 +11894,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.2869,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -9160,7 +11916,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3383,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -9177,7 +11938,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.2798,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -9194,7 +11960,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3879,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -9211,7 +11982,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.153,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -9228,7 +12004,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.4018,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -9245,7 +12026,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3227,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -9262,7 +12048,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3632,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -9279,7 +12070,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.349,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -9296,7 +12092,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3325,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -9313,7 +12114,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.4033,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -9330,7 +12136,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.4874,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -9347,7 +12158,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3754,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -9364,7 +12180,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3207,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -9381,7 +12202,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3632,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -9398,7 +12224,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.1857,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -9415,7 +12246,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.439,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-03",
@@ -9432,7 +12268,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3212,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -9449,7 +12290,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.4289,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -9466,7 +12312,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3203,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -9483,7 +12334,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3179,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -9500,7 +12356,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.2248,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -9517,7 +12378,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3294,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -9534,7 +12400,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3385,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -9551,7 +12422,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.5294,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -9568,7 +12444,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3777,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -9585,7 +12466,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3656,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -9602,7 +12488,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3171,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -9619,7 +12510,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3198,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -9636,7 +12532,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3182,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -9653,7 +12554,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3799,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -9670,7 +12576,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3723,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -9687,7 +12598,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.4025,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -9704,7 +12620,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.316,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -9721,7 +12642,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3278,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -9738,7 +12664,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3423,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -9755,7 +12686,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.2877,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -9772,7 +12708,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3958,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -9789,7 +12730,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.4208,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -9806,7 +12752,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.6719,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -9823,7 +12774,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3585,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -9840,7 +12796,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3378,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -9857,7 +12818,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.1902,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -9874,7 +12840,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.2816,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -9891,7 +12862,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.344,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -9908,7 +12884,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.374,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -9925,7 +12906,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.2514,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -9942,7 +12928,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3278,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -9959,7 +12950,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.0653,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -9976,7 +12972,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3341,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -9993,7 +12994,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.4354,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -10010,7 +13016,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3085,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -10027,7 +13038,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3173,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -10044,7 +13060,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3685,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -10061,7 +13082,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.36,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-02",
@@ -10078,7 +13104,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3767,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -10095,7 +13126,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.2421,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -10112,7 +13148,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.5715,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -10129,7 +13170,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.2468,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -10146,7 +13192,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.5142,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -10163,7 +13214,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.5891,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -10180,7 +13236,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3541,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -10197,7 +13258,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.1992,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -10214,7 +13280,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.4141,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -10231,7 +13302,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.2977,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -10248,7 +13324,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.2425,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -10265,7 +13346,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.5449,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -10282,7 +13368,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.2142,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -10299,7 +13390,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.2982,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -10316,7 +13412,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.4435,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -10333,7 +13434,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.4843,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -10350,7 +13456,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.4892,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -10367,7 +13478,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3252,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -10384,7 +13500,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3589,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -10401,7 +13522,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3229,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -10418,7 +13544,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.2961,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -10435,7 +13566,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.1752,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-04",
@@ -10452,7 +13588,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.2885,
-    "low_confidence": ""
+    "settled": false,
+    "low_confidence": "",
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -10469,7 +13610,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3691,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -10486,7 +13632,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.2955,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -10503,7 +13654,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.388,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -10520,7 +13676,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.2955,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -10537,7 +13698,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3834,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -10554,7 +13720,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3232,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -10571,7 +13742,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3363,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -10588,7 +13764,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4361,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -10605,7 +13786,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3964,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -10622,7 +13808,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4113,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -10639,7 +13830,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5206,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -10656,7 +13852,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3234,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -10673,7 +13874,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.6167,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": true
+    "settled": false,
+    "low_confidence": true,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -10690,7 +13896,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5168,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -10707,7 +13918,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4119,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -10724,7 +13940,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.6015,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": true
+    "settled": false,
+    "low_confidence": true,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -10741,7 +13962,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3065,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -10758,7 +13984,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4804,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -10775,7 +14006,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.412,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -10792,7 +14028,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5172,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -10809,7 +14050,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.298,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -10826,7 +14072,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4425,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -10843,7 +14094,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3305,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": true
+    "settled": false,
+    "low_confidence": true,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -10860,7 +14116,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.2929,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": true
+    "settled": false,
+    "low_confidence": true,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -10877,7 +14138,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.516,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -10894,7 +14160,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4798,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -10911,7 +14182,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4915,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": true
+    "settled": false,
+    "low_confidence": true,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -10928,7 +14204,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.547,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -10945,7 +14226,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.1559,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": true
+    "settled": false,
+    "low_confidence": true,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -10962,7 +14248,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5273,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -10979,7 +14270,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3368,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -10996,7 +14292,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5559,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -11013,7 +14314,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.2813,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -11030,7 +14336,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3033,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": true
+    "settled": false,
+    "low_confidence": true,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -11047,7 +14358,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.617,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -11064,7 +14380,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4982,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -11081,7 +14402,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3923,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -11098,7 +14424,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3718,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -11115,7 +14446,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.306,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -11132,7 +14468,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4481,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": true
+    "settled": false,
+    "low_confidence": true,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -11149,7 +14490,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.349,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -11166,7 +14512,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.2838,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": true
+    "settled": false,
+    "low_confidence": true,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -11183,7 +14534,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4358,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": true
+    "settled": false,
+    "low_confidence": true,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -11200,7 +14556,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3702,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -11217,7 +14578,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.2957,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -11234,7 +14600,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.2911,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -11251,7 +14622,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.786,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -11268,7 +14644,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.1211,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": true
+    "settled": false,
+    "low_confidence": true,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -11285,7 +14666,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4755,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -11302,7 +14688,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.338,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": true
+    "settled": false,
+    "low_confidence": true,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -11319,7 +14710,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4596,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -11336,7 +14732,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.2825,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -11353,7 +14754,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4228,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -11370,7 +14776,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5098,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -11387,7 +14798,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3464,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -11404,7 +14820,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4187,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -11421,7 +14842,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4443,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -11438,7 +14864,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.6138,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -11455,7 +14886,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3544,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -11472,7 +14908,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.1383,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": true
+    "settled": false,
+    "low_confidence": true,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -11489,7 +14930,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3519,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -11506,7 +14952,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5535,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -11523,7 +14974,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3925,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -11540,7 +14996,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5436,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -11557,7 +15018,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3105,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -11574,7 +15040,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4407,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -11591,7 +15062,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3398,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -11608,7 +15084,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3355,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -11625,7 +15106,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3184,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -11642,7 +15128,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5128,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": true
+    "settled": false,
+    "low_confidence": true,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -11659,7 +15150,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4278,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -11676,7 +15172,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4568,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -11693,7 +15194,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4495,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -11710,7 +15216,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.407,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -11727,7 +15238,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.3671,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -11744,7 +15260,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4277,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -11761,7 +15282,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4701,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -11778,7 +15304,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4174,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -11795,7 +15326,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.5198,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -11812,7 +15348,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4555,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -11829,7 +15370,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4813,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -11846,7 +15392,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4384,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -11863,7 +15414,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4462,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -11880,7 +15436,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4101,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -11897,7 +15458,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.4234,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -11914,7 +15480,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": 0.565,
     "market": "full-time",
     "model_prob_ht_over15": "",
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -11931,7 +15502,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.4172,
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -11948,7 +15524,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3272,
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -11965,7 +15546,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.7067,
-    "low_confidence": true
+    "settled": false,
+    "low_confidence": true,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -11982,7 +15568,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.6815,
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -11999,7 +15590,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.4173,
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -12016,7 +15612,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.7428,
-    "low_confidence": true
+    "settled": false,
+    "low_confidence": true,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -12033,7 +15634,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3386,
-    "low_confidence": true
+    "settled": false,
+    "low_confidence": true,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -12050,7 +15656,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3912,
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -12067,7 +15678,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.4229,
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -12084,7 +15700,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.6798,
-    "low_confidence": true
+    "settled": false,
+    "low_confidence": true,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -12101,7 +15722,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.4015,
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -12118,7 +15744,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3645,
-    "low_confidence": true
+    "settled": false,
+    "low_confidence": true,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -12135,7 +15766,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.4143,
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -12152,7 +15788,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3948,
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -12169,7 +15810,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3211,
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -12186,7 +15832,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3438,
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -12203,7 +15854,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3659,
-    "low_confidence": true
+    "settled": false,
+    "low_confidence": true,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -12220,7 +15876,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3792,
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -12237,7 +15898,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.4651,
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -12254,7 +15920,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3282,
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -12271,7 +15942,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.331,
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -12288,7 +15964,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3319,
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -12305,7 +15986,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.381,
-    "low_confidence": true
+    "settled": false,
+    "low_confidence": true,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -12322,7 +16008,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3553,
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -12339,7 +16030,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3689,
-    "low_confidence": true
+    "settled": false,
+    "low_confidence": true,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -12356,7 +16052,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3603,
-    "low_confidence": true
+    "settled": false,
+    "low_confidence": true,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -12373,7 +16074,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3516,
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -12390,7 +16096,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3759,
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -12407,7 +16118,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3244,
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -12424,7 +16140,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3274,
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -12441,7 +16162,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3463,
-    "low_confidence": true
+    "settled": false,
+    "low_confidence": true,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -12458,7 +16184,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3773,
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -12475,7 +16206,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3444,
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -12492,7 +16228,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3624,
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -12509,7 +16250,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3384,
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -12526,7 +16272,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.355,
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -12543,7 +16294,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.347,
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -12560,7 +16316,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3362,
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -12577,7 +16338,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.381,
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -12594,7 +16360,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3186,
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -12611,7 +16382,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3159,
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -12628,7 +16404,12 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.344,
-    "low_confidence": false
+    "settled": false,
+    "low_confidence": false,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   },
   {
     "date_logged": "2026-09-05",
@@ -12645,6 +16426,11 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_over25": "",
     "market": "half-time",
     "model_prob_ht_over15": 0.3485,
-    "low_confidence": true
+    "settled": false,
+    "low_confidence": true,
+    "ft_date_logged": "",
+    "ft_low_confidence": "",
+    "ht_date_logged": "",
+    "ht_low_confidence": ""
   }
 ];
