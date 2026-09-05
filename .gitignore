@@ -1,0 +1,19 @@
+# Deny-by-default safety net — protects proprietary model code and every
+# unrelated local file (diagnostics, xG spreadsheets, cached HTML, CSV
+# exports, Word docs, etc.) from ever being committed, even by an
+# ordinary "git add ." Only the specific public track-record files
+# below are ever allowed through; everything else stays local-only
+# regardless of what gets added.
+*
+
+# The actual public-facing site
+!track_record.html
+!chart.umd.min.js
+!track_record_data.js
+!track_record_data.json
+!public_predictions_log.csv
+!public_predictions_log.js
+
+# Real infrastructure files GitHub Pages itself needs
+!CNAME
+!.gitignore

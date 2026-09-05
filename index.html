@@ -8,6 +8,7 @@
 <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
 <script src="chart.umd.min.js"></script>
 <script src="track_record_data.js"></script>
+<script src="public_predictions_log.js"></script>
 <style>
   :root {
     --bg: #15181C;
@@ -136,6 +137,59 @@
     color: var(--text-dim);
     font-size: 13px;
     margin-top: 4px;
+  }
+
+  .pending-section {
+    border: 1px solid var(--border);
+    background: var(--panel);
+    margin-bottom: 28px;
+  }
+
+  .pending-head {
+    padding: 14px 20px;
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .pending-head h2 {
+    font-size: 15px;
+    font-weight: 600;
+    margin: 0;
+  }
+
+  .pending-sub {
+    font-weight: 400;
+    color: var(--text-dim);
+    font-size: 13px;
+  }
+
+  .pending-n {
+    font-size: 13px;
+    color: var(--text-dim);
+  }
+
+  #pending-table-wrap {
+    overflow-x: auto;
+    max-height: 420px;
+    overflow-y: auto;
+  }
+
+  .pending-empty {
+    padding: 24px 20px;
+    color: var(--text-dimmer);
+    font-size: 13px;
+  }
+
+  .low-conf-tag {
+    font-size: 10px;
+    color: var(--text-dimmer);
+    border: 1px solid var(--border);
+    padding: 1px 5px;
+    margin-left: 6px;
   }
 
   .market-status {
@@ -316,6 +370,15 @@
   </div>
 
   <div class="summary-strip" id="summary-strip"></div>
+
+  <section class="pending-section">
+    <div class="pending-head">
+      <h2>Pending Predictions <span class="pending-sub">— not yet settled, shown exactly as logged</span></h2>
+      <span class="pending-n mono" id="pending-count"></span>
+    </div>
+    <div id="pending-table-wrap"></div>
+  </section>
+
   <div class="market-status" id="market-status"></div>
 
   <div class="tier-select" id="tier-select"></div>
@@ -529,10 +592,57 @@ function renderMarkets(data) {
   });
 }
 
+function renderPending() {
+  const wrap = document.getElementById('pending-table-wrap');
+  const countEl = document.getElementById('pending-count');
+  const preds = typeof PENDING_PREDICTIONS !== 'undefined' ? PENDING_PREDICTIONS : [];
+
+  countEl.textContent = `n = ${preds.length}`;
+
+  if (preds.length === 0) {
+    wrap.innerHTML = '<div class="pending-empty">No pending predictions right now — check back once the next batch is logged.</div>';
+    return;
+  }
+
+  const marketCols = [
+    ['model_prob_over15', 'O 1.5'], ['model_prob_over', 'O 2.5'], ['model_prob_over35', 'O 3.5'],
+    ['model_prob_home', 'Home'], ['model_prob_draw', 'Draw'], ['model_prob_away', 'Away'],
+    ['model_prob_btts_yes', 'BTTS'], ['model_prob_btts_over25', 'BTTS+O2.5'],
+    ['model_prob_ht_over15', 'HT O1.5'],
+  ];
+
+  wrap.innerHTML = `
+    <table>
+      <thead><tr>
+        <th style="text-align:left">date</th>
+        <th style="text-align:left">league</th>
+        <th style="text-align:left">match</th>
+        ${marketCols.map(([, label]) => `<th>${label}</th>`).join('')}
+      </tr></thead>
+      <tbody>
+        ${preds.map(p => `
+          <tr>
+            <td style="text-align:left">${p.date_logged || ''}</td>
+            <td style="text-align:left">${p.league || ''}</td>
+            <td style="text-align:left">${p.home_team} vs ${p.away_team}${
+              p.low_confidence === true || p.low_confidence === 'True'
+                ? '<span class="low-conf-tag">low n</span>' : ''}</td>
+            ${marketCols.map(([col]) => {
+              const v = p[col];
+              return `<td>${v !== undefined && v !== '' ? (v * 100).toFixed(0) + '%' : '—'}</td>`;
+            }).join('')}
+          </tr>
+        `).join('')}
+      </tbody>
+    </table>
+  `;
+}
+
 function renderAll(data) {
   renderSummary(data);
   renderTierSelect(data);
   renderMarkets(data);
+  renderPending();
 }
 
 if (typeof TRACK_RECORD_DATA !== 'undefined') {
