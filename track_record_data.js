@@ -1,7 +1,7 @@
 const TRACK_RECORD_DATA = {
-  "generated_at": "2026-09-06T02:34:16.195525",
+  "generated_at": "2026-09-06T02:52:44.615845",
   "summary": {
-    "total_settled_ft": 297,
+    "total_settled_ft": 302,
     "total_settled_ht": 237,
     "date_range": {
       "earliest": "2026-08-31",
@@ -23,11 +23,11 @@ const TRACK_RECORD_DATA = {
   },
   "tiers": {
     "All leagues combined": {
-      "n_settled_ft": 297,
+      "n_settled_ft": 302,
       "n_settled_ht": 237,
       "markets": {
         "Over 1.5": {
-          "n": 143,
+          "n": 148,
           "buckets": [
             {
               "n": 1,
@@ -54,10 +54,10 @@ const TRACK_RECORD_DATA = {
               "gap_pts": 17.3
             },
             {
-              "n": 53,
-              "avg_predicted": 0.7515,
-              "observed_rate": 0.7925,
-              "gap_pts": 4.1
+              "n": 58,
+              "avg_predicted": 0.7532,
+              "observed_rate": 0.7759,
+              "gap_pts": 2.3
             },
             {
               "n": 23,
@@ -74,7 +74,7 @@ const TRACK_RECORD_DATA = {
           ]
         },
         "Over 2.5": {
-          "n": 297,
+          "n": 302,
           "buckets": [
             {
               "n": 2,
@@ -95,28 +95,28 @@ const TRACK_RECORD_DATA = {
               "gap_pts": 7.4
             },
             {
-              "n": 39,
-              "avg_predicted": 0.3617,
-              "observed_rate": 0.4103,
-              "gap_pts": 4.9
+              "n": 40,
+              "avg_predicted": 0.3624,
+              "observed_rate": 0.425,
+              "gap_pts": 6.3
             },
             {
-              "n": 56,
-              "avg_predicted": 0.4541,
-              "observed_rate": 0.5714,
-              "gap_pts": 11.7
+              "n": 55,
+              "avg_predicted": 0.4543,
+              "observed_rate": 0.5636,
+              "gap_pts": 10.9
             },
             {
-              "n": 63,
-              "avg_predicted": 0.5528,
-              "observed_rate": 0.6508,
-              "gap_pts": 9.8
+              "n": 62,
+              "avg_predicted": 0.5517,
+              "observed_rate": 0.629,
+              "gap_pts": 7.7
             },
             {
-              "n": 103,
-              "avg_predicted": 0.6334,
-              "observed_rate": 0.5728,
-              "gap_pts": -6.1
+              "n": 109,
+              "avg_predicted": 0.6323,
+              "observed_rate": 0.578,
+              "gap_pts": -5.4
             },
             {
               "n": 19,
@@ -139,19 +139,19 @@ const TRACK_RECORD_DATA = {
           ]
         },
         "Over 3.5": {
-          "n": 173,
+          "n": 178,
           "buckets": [
             {
-              "n": 12,
-              "avg_predicted": 0.0824,
-              "observed_rate": 0.25,
-              "gap_pts": 16.8
+              "n": 13,
+              "avg_predicted": 0.0836,
+              "observed_rate": 0.3077,
+              "gap_pts": 22.4
             },
             {
-              "n": 42,
-              "avg_predicted": 0.1436,
-              "observed_rate": 0.381,
-              "gap_pts": 23.7
+              "n": 43,
+              "avg_predicted": 0.1442,
+              "observed_rate": 0.3721,
+              "gap_pts": 22.8
             },
             {
               "n": 47,
@@ -160,10 +160,10 @@ const TRACK_RECORD_DATA = {
               "gap_pts": 14.3
             },
             {
-              "n": 49,
-              "avg_predicted": 0.3446,
-              "observed_rate": 0.3061,
-              "gap_pts": -3.8
+              "n": 52,
+              "avg_predicted": 0.3436,
+              "observed_rate": 0.2885,
+              "gap_pts": -5.5
             },
             {
               "n": 13,
@@ -198,7 +198,7 @@ const TRACK_RECORD_DATA = {
           ]
         },
         "Home Win": {
-          "n": 295,
+          "n": 300,
           "buckets": [
             {
               "n": 4,
@@ -219,16 +219,16 @@ const TRACK_RECORD_DATA = {
               "gap_pts": -1.6
             },
             {
-              "n": 78,
-              "avg_predicted": 0.3626,
-              "observed_rate": 0.3846,
-              "gap_pts": 2.2
+              "n": 79,
+              "avg_predicted": 0.3628,
+              "observed_rate": 0.3797,
+              "gap_pts": 1.7
             },
             {
-              "n": 99,
-              "avg_predicted": 0.4469,
-              "observed_rate": 0.3939,
-              "gap_pts": -5.3
+              "n": 102,
+              "avg_predicted": 0.4477,
+              "observed_rate": 0.402,
+              "gap_pts": -4.6
             },
             {
               "n": 56,
@@ -237,10 +237,10 @@ const TRACK_RECORD_DATA = {
               "gap_pts": -7.7
             },
             {
-              "n": 11,
-              "avg_predicted": 0.636,
-              "observed_rate": 0.6364,
-              "gap_pts": 0.0
+              "n": 12,
+              "avg_predicted": 0.6349,
+              "observed_rate": 0.6667,
+              "gap_pts": 3.2
             },
             {
               "n": 13,
@@ -257,7 +257,7 @@ const TRACK_RECORD_DATA = {
           ]
         },
         "Draw": {
-          "n": 295,
+          "n": 300,
           "buckets": [
             {
               "n": 1,
@@ -266,16 +266,16 @@ const TRACK_RECORD_DATA = {
               "gap_pts": -8.3
             },
             {
-              "n": 46,
-              "avg_predicted": 0.1623,
-              "observed_rate": 0.1522,
-              "gap_pts": -1.0
+              "n": 47,
+              "avg_predicted": 0.1627,
+              "observed_rate": 0.1489,
+              "gap_pts": -1.4
             },
             {
-              "n": 195,
-              "avg_predicted": 0.2558,
-              "observed_rate": 0.2923,
-              "gap_pts": 3.7
+              "n": 199,
+              "avg_predicted": 0.2557,
+              "observed_rate": 0.2965,
+              "gap_pts": 4.1
             },
             {
               "n": 50,
@@ -298,7 +298,7 @@ const TRACK_RECORD_DATA = {
           ]
         },
         "Away Win": {
-          "n": 295,
+          "n": 300,
           "buckets": [
             {
               "n": 8,
@@ -307,22 +307,22 @@ const TRACK_RECORD_DATA = {
               "gap_pts": 5.4
             },
             {
-              "n": 36,
-              "avg_predicted": 0.1705,
-              "observed_rate": 0.25,
-              "gap_pts": 8.0
+              "n": 37,
+              "avg_predicted": 0.1712,
+              "observed_rate": 0.2432,
+              "gap_pts": 7.2
             },
             {
-              "n": 116,
+              "n": 118,
               "avg_predicted": 0.2526,
-              "observed_rate": 0.1983,
-              "gap_pts": -5.4
+              "observed_rate": 0.1949,
+              "gap_pts": -5.8
             },
             {
-              "n": 79,
-              "avg_predicted": 0.348,
-              "observed_rate": 0.3797,
-              "gap_pts": 3.2
+              "n": 81,
+              "avg_predicted": 0.3482,
+              "observed_rate": 0.3704,
+              "gap_pts": 2.2
             },
             {
               "n": 43,
@@ -357,7 +357,7 @@ const TRACK_RECORD_DATA = {
           ]
         },
         "BTTS Yes": {
-          "n": 208,
+          "n": 213,
           "buckets": [
             {
               "n": 2,
@@ -378,22 +378,22 @@ const TRACK_RECORD_DATA = {
               "gap_pts": 20.0
             },
             {
-              "n": 65,
-              "avg_predicted": 0.4683,
-              "observed_rate": 0.5385,
-              "gap_pts": 7.0
+              "n": 66,
+              "avg_predicted": 0.4679,
+              "observed_rate": 0.5303,
+              "gap_pts": 6.2
             },
             {
-              "n": 72,
-              "avg_predicted": 0.5366,
-              "observed_rate": 0.5556,
-              "gap_pts": 1.9
+              "n": 75,
+              "avg_predicted": 0.5362,
+              "observed_rate": 0.5467,
+              "gap_pts": 1.1
             },
             {
-              "n": 26,
-              "avg_predicted": 0.6365,
-              "observed_rate": 0.5385,
-              "gap_pts": -9.8
+              "n": 27,
+              "avg_predicted": 0.6358,
+              "observed_rate": 0.5185,
+              "gap_pts": -11.7
             },
             {
               "n": 6,
@@ -410,7 +410,7 @@ const TRACK_RECORD_DATA = {
           ]
         },
         "BTTS & Over 2.5": {
-          "n": 208,
+          "n": 213,
           "buckets": [
             {
               "n": 2,
@@ -431,16 +431,16 @@ const TRACK_RECORD_DATA = {
               "gap_pts": 16.7
             },
             {
-              "n": 71,
-              "avg_predicted": 0.3541,
-              "observed_rate": 0.3944,
-              "gap_pts": 4.0
+              "n": 72,
+              "avg_predicted": 0.3543,
+              "observed_rate": 0.3889,
+              "gap_pts": 3.5
             },
             {
-              "n": 56,
+              "n": 60,
               "avg_predicted": 0.4417,
-              "observed_rate": 0.3929,
-              "gap_pts": -4.9
+              "observed_rate": 0.3833,
+              "gap_pts": -5.8
             },
             {
               "n": 19,
@@ -602,28 +602,28 @@ const TRACK_RECORD_DATA = {
               "gap_pts": 11.5
             },
             {
-              "n": 27,
-              "avg_predicted": 0.3587,
-              "observed_rate": 0.4815,
-              "gap_pts": 12.3
+              "n": 28,
+              "avg_predicted": 0.3598,
+              "observed_rate": 0.5,
+              "gap_pts": 14.0
             },
             {
-              "n": 42,
-              "avg_predicted": 0.4498,
-              "observed_rate": 0.5238,
-              "gap_pts": 7.4
+              "n": 41,
+              "avg_predicted": 0.4499,
+              "observed_rate": 0.5122,
+              "gap_pts": 6.2
             },
             {
-              "n": 47,
-              "avg_predicted": 0.5556,
-              "observed_rate": 0.6383,
-              "gap_pts": 8.3
+              "n": 43,
+              "avg_predicted": 0.5523,
+              "observed_rate": 0.6047,
+              "gap_pts": 5.2
             },
             {
-              "n": 58,
-              "avg_predicted": 0.628,
-              "observed_rate": 0.6207,
-              "gap_pts": -0.7
+              "n": 62,
+              "avg_predicted": 0.6268,
+              "observed_rate": 0.6452,
+              "gap_pts": 1.8
             },
             {
               "n": 13,
@@ -1531,11 +1531,11 @@ const TRACK_RECORD_DATA = {
       }
     },
     "xG, no HT data": {
-      "n_settled_ft": 49,
+      "n_settled_ft": 54,
       "n_settled_ht": 0,
       "markets": {
         "Over 1.5": {
-          "n": 28,
+          "n": 33,
           "buckets": [
             {
               "n": 1,
@@ -1556,10 +1556,10 @@ const TRACK_RECORD_DATA = {
               "gap_pts": 32.8
             },
             {
-              "n": 10,
-              "avg_predicted": 0.762,
-              "observed_rate": 0.8,
-              "gap_pts": 3.8
+              "n": 15,
+              "avg_predicted": 0.7648,
+              "observed_rate": 0.7333,
+              "gap_pts": -3.1
             },
             {
               "n": 5,
@@ -1570,7 +1570,7 @@ const TRACK_RECORD_DATA = {
           ]
         },
         "Over 2.5": {
-          "n": 49,
+          "n": 54,
           "buckets": [
             {
               "n": 1,
@@ -1597,16 +1597,16 @@ const TRACK_RECORD_DATA = {
               "gap_pts": 39.2
             },
             {
-              "n": 9,
-              "avg_predicted": 0.5413,
+              "n": 12,
+              "avg_predicted": 0.5515,
               "observed_rate": 0.6667,
-              "gap_pts": 12.5
+              "gap_pts": 11.5
             },
             {
-              "n": 23,
-              "avg_predicted": 0.649,
-              "observed_rate": 0.6087,
-              "gap_pts": -4.0
+              "n": 25,
+              "avg_predicted": 0.6467,
+              "observed_rate": 0.56,
+              "gap_pts": -8.7
             },
             {
               "n": 2,
@@ -1617,19 +1617,19 @@ const TRACK_RECORD_DATA = {
           ]
         },
         "Over 3.5": {
-          "n": 39,
+          "n": 44,
           "buckets": [
             {
-              "n": 5,
-              "avg_predicted": 0.0877,
-              "observed_rate": 0.4,
-              "gap_pts": 31.2
+              "n": 6,
+              "avg_predicted": 0.0895,
+              "observed_rate": 0.5,
+              "gap_pts": 41.1
             },
             {
-              "n": 2,
-              "avg_predicted": 0.1403,
-              "observed_rate": 0.5,
-              "gap_pts": 36.0
+              "n": 3,
+              "avg_predicted": 0.1494,
+              "observed_rate": 0.3333,
+              "gap_pts": 18.4
             },
             {
               "n": 14,
@@ -1638,10 +1638,10 @@ const TRACK_RECORD_DATA = {
               "gap_pts": 23.3
             },
             {
-              "n": 14,
-              "avg_predicted": 0.3427,
-              "observed_rate": 0.1429,
-              "gap_pts": -20.0
+              "n": 17,
+              "avg_predicted": 0.34,
+              "observed_rate": 0.1176,
+              "gap_pts": -22.2
             },
             {
               "n": 3,
@@ -1658,7 +1658,7 @@ const TRACK_RECORD_DATA = {
           ]
         },
         "Home Win": {
-          "n": 49,
+          "n": 54,
           "buckets": [
             {
               "n": 4,
@@ -1667,16 +1667,16 @@ const TRACK_RECORD_DATA = {
               "gap_pts": -2.4
             },
             {
-              "n": 10,
-              "avg_predicted": 0.3612,
-              "observed_rate": 0.3,
-              "gap_pts": -6.1
+              "n": 11,
+              "avg_predicted": 0.3623,
+              "observed_rate": 0.2727,
+              "gap_pts": -9.0
             },
             {
-              "n": 19,
-              "avg_predicted": 0.4529,
-              "observed_rate": 0.4737,
-              "gap_pts": 2.1
+              "n": 22,
+              "avg_predicted": 0.4554,
+              "observed_rate": 0.5,
+              "gap_pts": 4.5
             },
             {
               "n": 11,
@@ -1685,10 +1685,10 @@ const TRACK_RECORD_DATA = {
               "gap_pts": -18.1
             },
             {
-              "n": 3,
-              "avg_predicted": 0.6329,
-              "observed_rate": 0.3333,
-              "gap_pts": -30.0
+              "n": 4,
+              "avg_predicted": 0.6304,
+              "observed_rate": 0.5,
+              "gap_pts": -13.0
             },
             {
               "n": 2,
@@ -1699,19 +1699,19 @@ const TRACK_RECORD_DATA = {
           ]
         },
         "Draw": {
-          "n": 49,
+          "n": 54,
           "buckets": [
             {
-              "n": 7,
-              "avg_predicted": 0.1642,
-              "observed_rate": 0.4286,
-              "gap_pts": 26.4
+              "n": 8,
+              "avg_predicted": 0.1662,
+              "observed_rate": 0.375,
+              "gap_pts": 20.9
             },
             {
-              "n": 33,
-              "avg_predicted": 0.2618,
-              "observed_rate": 0.2727,
-              "gap_pts": 1.1
+              "n": 37,
+              "avg_predicted": 0.2605,
+              "observed_rate": 0.2973,
+              "gap_pts": 3.7
             },
             {
               "n": 9,
@@ -1722,7 +1722,7 @@ const TRACK_RECORD_DATA = {
           ]
         },
         "Away Win": {
-          "n": 49,
+          "n": 54,
           "buckets": [
             {
               "n": 1,
@@ -1731,22 +1731,22 @@ const TRACK_RECORD_DATA = {
               "gap_pts": -8.0
             },
             {
-              "n": 8,
-              "avg_predicted": 0.1765,
-              "observed_rate": 0.375,
-              "gap_pts": 19.8
+              "n": 9,
+              "avg_predicted": 0.1788,
+              "observed_rate": 0.3333,
+              "gap_pts": 15.5
             },
             {
-              "n": 24,
-              "avg_predicted": 0.2448,
-              "observed_rate": 0.0417,
-              "gap_pts": -20.3
+              "n": 26,
+              "avg_predicted": 0.2453,
+              "observed_rate": 0.0385,
+              "gap_pts": -20.7
             },
             {
-              "n": 11,
-              "avg_predicted": 0.3367,
-              "observed_rate": 0.6364,
-              "gap_pts": 30.0
+              "n": 13,
+              "avg_predicted": 0.3397,
+              "observed_rate": 0.5385,
+              "gap_pts": 19.9
             },
             {
               "n": 4,
@@ -1763,7 +1763,7 @@ const TRACK_RECORD_DATA = {
           ]
         },
         "BTTS Yes": {
-          "n": 46,
+          "n": 51,
           "buckets": [
             {
               "n": 2,
@@ -1778,22 +1778,22 @@ const TRACK_RECORD_DATA = {
               "gap_pts": -15.3
             },
             {
-              "n": 13,
-              "avg_predicted": 0.4726,
-              "observed_rate": 0.5385,
-              "gap_pts": 6.6
+              "n": 14,
+              "avg_predicted": 0.4707,
+              "observed_rate": 0.5,
+              "gap_pts": 2.9
             },
             {
-              "n": 16,
-              "avg_predicted": 0.5477,
-              "observed_rate": 0.625,
-              "gap_pts": 7.7
+              "n": 19,
+              "avg_predicted": 0.5444,
+              "observed_rate": 0.5789,
+              "gap_pts": 3.5
             },
             {
-              "n": 9,
-              "avg_predicted": 0.6318,
-              "observed_rate": 0.5556,
-              "gap_pts": -7.6
+              "n": 10,
+              "avg_predicted": 0.6305,
+              "observed_rate": 0.5,
+              "gap_pts": -13.0
             },
             {
               "n": 1,
@@ -1804,7 +1804,7 @@ const TRACK_RECORD_DATA = {
           ]
         },
         "BTTS & Over 2.5": {
-          "n": 46,
+          "n": 51,
           "buckets": [
             {
               "n": 3,
@@ -1819,16 +1819,16 @@ const TRACK_RECORD_DATA = {
               "gap_pts": -7.4
             },
             {
-              "n": 13,
-              "avg_predicted": 0.3461,
-              "observed_rate": 0.6154,
-              "gap_pts": 26.9
+              "n": 14,
+              "avg_predicted": 0.3476,
+              "observed_rate": 0.5714,
+              "gap_pts": 22.4
             },
             {
-              "n": 20,
-              "avg_predicted": 0.4454,
-              "observed_rate": 0.45,
-              "gap_pts": 0.5
+              "n": 24,
+              "avg_predicted": 0.445,
+              "observed_rate": 0.4167,
+              "gap_pts": -2.8
             },
             {
               "n": 3,
