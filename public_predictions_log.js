@@ -17,7 +17,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": "",
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-02",
-    "ht_first_seen": ""
+    "ht_first_seen": "",
+    "match_date": ""
   },
   {
     "league": "Mexico Liga MX",
@@ -37,7 +38,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": "",
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-02",
-    "ht_first_seen": ""
+    "ht_first_seen": "",
+    "match_date": ""
   },
   {
     "league": "Mexico Liga MX",
@@ -57,7 +59,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": "",
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-02",
-    "ht_first_seen": ""
+    "ht_first_seen": "",
+    "match_date": ""
   },
   {
     "league": "Mexico Liga MX",
@@ -77,7 +80,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": "",
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-02",
-    "ht_first_seen": ""
+    "ht_first_seen": "",
+    "match_date": ""
   },
   {
     "league": "Argentina Primera Division",
@@ -97,7 +101,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": "",
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-03",
-    "ht_first_seen": ""
+    "ht_first_seen": "",
+    "match_date": ""
   },
   {
     "league": "National League North",
@@ -117,7 +122,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.4937,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-03",
-    "ht_first_seen": "2026-09-03"
+    "ht_first_seen": "2026-09-03",
+    "match_date": ""
   },
   {
     "league": "National League North",
@@ -137,7 +143,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.295,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-03",
-    "ht_first_seen": "2026-09-03"
+    "ht_first_seen": "2026-09-03",
+    "match_date": ""
   },
   {
     "league": "National League North",
@@ -157,7 +164,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.0979,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-03",
-    "ht_first_seen": "2026-09-03"
+    "ht_first_seen": "2026-09-03",
+    "match_date": ""
   },
   {
     "league": "Argentina Primera Division",
@@ -177,7 +185,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": "",
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-03",
-    "ht_first_seen": ""
+    "ht_first_seen": "",
+    "match_date": ""
   },
   {
     "league": "National League North",
@@ -197,7 +206,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.2757,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-03",
-    "ht_first_seen": "2026-09-03"
+    "ht_first_seen": "2026-09-03",
+    "match_date": ""
   },
   {
     "league": "National League North",
@@ -217,7 +227,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.121,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-03",
-    "ht_first_seen": "2026-09-03"
+    "ht_first_seen": "2026-09-03",
+    "match_date": ""
   },
   {
     "league": "National League North",
@@ -237,7 +248,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.2837,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-03",
-    "ht_first_seen": "2026-09-03"
+    "ht_first_seen": "2026-09-03",
+    "match_date": ""
   },
   {
     "league": "National League North",
@@ -257,7 +269,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.4583,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-03",
-    "ht_first_seen": "2026-09-03"
+    "ht_first_seen": "2026-09-03",
+    "match_date": ""
   },
   {
     "league": "National League South",
@@ -277,7 +290,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3212,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-03",
-    "ht_first_seen": "2026-09-03"
+    "ht_first_seen": "2026-09-03",
+    "match_date": ""
   },
   {
     "league": "Championship",
@@ -297,7 +311,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.4504,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-03",
-    "ht_first_seen": "2026-09-03"
+    "ht_first_seen": "2026-09-03",
+    "match_date": ""
   },
   {
     "league": "National League North",
@@ -317,7 +332,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.2834,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-03",
-    "ht_first_seen": "2026-09-03"
+    "ht_first_seen": "2026-09-03",
+    "match_date": ""
   },
   {
     "league": "National League South",
@@ -337,7 +353,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.4018,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-03",
-    "ht_first_seen": "2026-09-03"
+    "ht_first_seen": "2026-09-03",
+    "match_date": ""
   },
   {
     "league": "Championship",
@@ -357,7 +374,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3699,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-03",
-    "ht_first_seen": "2026-09-03"
+    "ht_first_seen": "2026-09-03",
+    "match_date": ""
   },
   {
     "league": "National League South",
@@ -377,7 +395,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.153,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-03",
-    "ht_first_seen": "2026-09-03"
+    "ht_first_seen": "2026-09-03",
+    "match_date": ""
   },
   {
     "league": "League One",
@@ -397,7 +416,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.4439,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-03",
-    "ht_first_seen": "2026-09-03"
+    "ht_first_seen": "2026-09-03",
+    "match_date": ""
   },
   {
     "league": "National League South",
@@ -417,7 +437,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.349,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-03",
-    "ht_first_seen": "2026-09-03"
+    "ht_first_seen": "2026-09-03",
+    "match_date": ""
   },
   {
     "league": "National League South",
@@ -437,7 +458,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.4033,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-03",
-    "ht_first_seen": "2026-09-03"
+    "ht_first_seen": "2026-09-03",
+    "match_date": ""
   },
   {
     "league": "National League North",
@@ -457,7 +479,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.1226,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-03",
-    "ht_first_seen": "2026-09-03"
+    "ht_first_seen": "2026-09-03",
+    "match_date": ""
   },
   {
     "league": "National League North",
@@ -477,7 +500,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3727,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-03",
-    "ht_first_seen": "2026-09-03"
+    "ht_first_seen": "2026-09-03",
+    "match_date": ""
   },
   {
     "league": "National League South",
@@ -497,7 +521,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3754,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-03",
-    "ht_first_seen": "2026-09-03"
+    "ht_first_seen": "2026-09-03",
+    "match_date": ""
   },
   {
     "league": "Championship",
@@ -517,7 +542,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3353,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-03",
-    "ht_first_seen": "2026-09-03"
+    "ht_first_seen": "2026-09-03",
+    "match_date": ""
   },
   {
     "league": "Brazil Serie A",
@@ -537,7 +563,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": "",
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-03",
-    "ht_first_seen": ""
+    "ht_first_seen": "",
+    "match_date": ""
   },
   {
     "league": "Championship",
@@ -557,7 +584,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.6189,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-03",
-    "ht_first_seen": "2026-09-03"
+    "ht_first_seen": "2026-09-03",
+    "match_date": ""
   },
   {
     "league": "Championship",
@@ -577,7 +605,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.2858,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-03",
-    "ht_first_seen": "2026-09-03"
+    "ht_first_seen": "2026-09-03",
+    "match_date": ""
   },
   {
     "league": "Championship",
@@ -597,7 +626,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.5464,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-03",
-    "ht_first_seen": "2026-09-03"
+    "ht_first_seen": "2026-09-03",
+    "match_date": ""
   },
   {
     "league": "Eredivisie",
@@ -617,7 +647,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.5227,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-03",
-    "ht_first_seen": "2026-09-03"
+    "ht_first_seen": "2026-09-03",
+    "match_date": ""
   },
   {
     "league": "National League North",
@@ -637,7 +668,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3932,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-03",
-    "ht_first_seen": "2026-09-03"
+    "ht_first_seen": "2026-09-03",
+    "match_date": ""
   },
   {
     "league": "National League South",
@@ -657,7 +689,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.2798,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-03",
-    "ht_first_seen": "2026-09-03"
+    "ht_first_seen": "2026-09-03",
+    "match_date": ""
   },
   {
     "league": "National League North",
@@ -677,7 +710,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3954,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-03",
-    "ht_first_seen": "2026-09-03"
+    "ht_first_seen": "2026-09-03",
+    "match_date": ""
   },
   {
     "league": "National League South",
@@ -697,7 +731,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.2869,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-03",
-    "ht_first_seen": "2026-09-03"
+    "ht_first_seen": "2026-09-03",
+    "match_date": ""
   },
   {
     "league": "National League South",
@@ -717,7 +752,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.2938,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-03",
-    "ht_first_seen": "2026-09-03"
+    "ht_first_seen": "2026-09-03",
+    "match_date": ""
   },
   {
     "league": "National League South",
@@ -737,7 +773,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3501,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-03",
-    "ht_first_seen": "2026-09-03"
+    "ht_first_seen": "2026-09-03",
+    "match_date": ""
   },
   {
     "league": "National League South",
@@ -757,7 +794,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.1857,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": "2026-09-04"
+    "ht_first_seen": "2026-09-04",
+    "match_date": ""
   },
   {
     "league": "Scottish Championship",
@@ -777,7 +815,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3198,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": "2026-09-04"
+    "ht_first_seen": "2026-09-04",
+    "match_date": ""
   },
   {
     "league": "Poland Ekstraklasa",
@@ -797,7 +836,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": "",
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": ""
+    "ht_first_seen": "",
+    "match_date": ""
   },
   {
     "league": "National League South",
@@ -817,7 +857,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.7721,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": "2026-09-04"
+    "ht_first_seen": "2026-09-04",
+    "match_date": ""
   },
   {
     "league": "National League",
@@ -837,7 +878,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.4119,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": "2026-09-04"
+    "ht_first_seen": "2026-09-04",
+    "match_date": ""
   },
   {
     "league": "Scottish Premiership",
@@ -857,7 +899,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3423,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": "2026-09-04"
+    "ht_first_seen": "2026-09-04",
+    "match_date": ""
   },
   {
     "league": "Southern League South",
@@ -877,7 +920,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.4892,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": "2026-09-04"
+    "ht_first_seen": "2026-09-04",
+    "match_date": ""
   },
   {
     "league": "Southern League South",
@@ -897,7 +941,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.4843,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": "2026-09-04"
+    "ht_first_seen": "2026-09-04",
+    "match_date": ""
   },
   {
     "league": "Southern League South",
@@ -917,7 +962,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.4435,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": "2026-09-04"
+    "ht_first_seen": "2026-09-04",
+    "match_date": ""
   },
   {
     "league": "Championship",
@@ -937,7 +983,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.2974,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": "2026-09-04"
+    "ht_first_seen": "2026-09-04",
+    "match_date": ""
   },
   {
     "league": "Southern League South",
@@ -957,7 +1004,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.2982,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": "2026-09-04"
+    "ht_first_seen": "2026-09-04",
+    "match_date": ""
   },
   {
     "league": "Southern League South",
@@ -977,7 +1025,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.2142,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": "2026-09-04"
+    "ht_first_seen": "2026-09-04",
+    "match_date": ""
   },
   {
     "league": "Southern League South",
@@ -997,7 +1046,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.5449,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": "2026-09-04"
+    "ht_first_seen": "2026-09-04",
+    "match_date": ""
   },
   {
     "league": "Southern League South",
@@ -1017,7 +1067,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3252,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": "2026-09-04"
+    "ht_first_seen": "2026-09-04",
+    "match_date": ""
   },
   {
     "league": "Southern League Central",
@@ -1037,7 +1088,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.2425,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": "2026-09-04"
+    "ht_first_seen": "2026-09-04",
+    "match_date": ""
   },
   {
     "league": "Southern League Central",
@@ -1057,7 +1109,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.4141,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": "2026-09-04"
+    "ht_first_seen": "2026-09-04",
+    "match_date": ""
   },
   {
     "league": "Southern League Central",
@@ -1077,7 +1130,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.1992,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": "2026-09-04"
+    "ht_first_seen": "2026-09-04",
+    "match_date": ""
   },
   {
     "league": "Southern League Central",
@@ -1097,7 +1151,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3541,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": "2026-09-04"
+    "ht_first_seen": "2026-09-04",
+    "match_date": ""
   },
   {
     "league": "Southern League Central",
@@ -1117,7 +1172,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.5891,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": "2026-09-04"
+    "ht_first_seen": "2026-09-04",
+    "match_date": ""
   },
   {
     "league": "Southern League Central",
@@ -1137,7 +1193,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.5142,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": "2026-09-04"
+    "ht_first_seen": "2026-09-04",
+    "match_date": ""
   },
   {
     "league": "La Liga",
@@ -1157,7 +1214,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.2435,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": "2026-09-04"
+    "ht_first_seen": "2026-09-04",
+    "match_date": ""
   },
   {
     "league": "Southern League Central",
@@ -1177,7 +1235,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.5715,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": "2026-09-04"
+    "ht_first_seen": "2026-09-04",
+    "match_date": ""
   },
   {
     "league": "Southern League Central",
@@ -1197,7 +1256,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.2977,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": "2026-09-04"
+    "ht_first_seen": "2026-09-04",
+    "match_date": ""
   },
   {
     "league": "Southern League South",
@@ -1217,7 +1277,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3589,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": "2026-09-04"
+    "ht_first_seen": "2026-09-04",
+    "match_date": ""
   },
   {
     "league": "Southern League South",
@@ -1237,7 +1298,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3229,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": "2026-09-04"
+    "ht_first_seen": "2026-09-04",
+    "match_date": ""
   },
   {
     "league": "Championship",
@@ -1257,7 +1319,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3855,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": "2026-09-04"
+    "ht_first_seen": "2026-09-04",
+    "match_date": ""
   },
   {
     "league": "Argentina Primera Division",
@@ -1277,7 +1340,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": "",
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": ""
+    "ht_first_seen": "",
+    "match_date": ""
   },
   {
     "league": "Argentina Primera Division",
@@ -1297,7 +1361,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": "",
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": ""
+    "ht_first_seen": "",
+    "match_date": ""
   },
   {
     "league": "Argentina Primera Division",
@@ -1317,7 +1382,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": "",
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": ""
+    "ht_first_seen": "",
+    "match_date": ""
   },
   {
     "league": "National League",
@@ -1337,7 +1403,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.4728,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": "2026-09-04"
+    "ht_first_seen": "2026-09-04",
+    "match_date": ""
   },
   {
     "league": "Argentina Primera Division",
@@ -1357,7 +1424,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": "",
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": ""
+    "ht_first_seen": "",
+    "match_date": ""
   },
   {
     "league": "National League",
@@ -1377,7 +1445,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3059,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": "2026-09-04"
+    "ht_first_seen": "2026-09-04",
+    "match_date": ""
   },
   {
     "league": "Brazil Serie A",
@@ -1397,7 +1466,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": "",
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": ""
+    "ht_first_seen": "",
+    "match_date": ""
   },
   {
     "league": "National League",
@@ -1417,7 +1487,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.326,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": "2026-09-04"
+    "ht_first_seen": "2026-09-04",
+    "match_date": ""
   },
   {
     "league": "National League",
@@ -1437,7 +1508,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.5247,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": "2026-09-04"
+    "ht_first_seen": "2026-09-04",
+    "match_date": ""
   },
   {
     "league": "National League",
@@ -1457,7 +1529,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.2857,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": "2026-09-04"
+    "ht_first_seen": "2026-09-04",
+    "match_date": ""
   },
   {
     "league": "Switzerland Super League",
@@ -1477,7 +1550,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": "",
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": ""
+    "ht_first_seen": "",
+    "match_date": ""
   },
   {
     "league": "National League",
@@ -1497,7 +1571,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.4514,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": "2026-09-04"
+    "ht_first_seen": "2026-09-04",
+    "match_date": ""
   },
   {
     "league": "Southern League South",
@@ -1517,7 +1592,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.2885,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": "2026-09-04"
+    "ht_first_seen": "2026-09-04",
+    "match_date": ""
   },
   {
     "league": "Southern League South",
@@ -1537,7 +1613,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.1752,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": "2026-09-04"
+    "ht_first_seen": "2026-09-04",
+    "match_date": ""
   },
   {
     "league": "Southern League South",
@@ -1557,7 +1634,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.2961,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": "2026-09-04"
+    "ht_first_seen": "2026-09-04",
+    "match_date": ""
   },
   {
     "league": "Southern League Central",
@@ -1577,7 +1655,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.2421,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": "2026-09-04"
+    "ht_first_seen": "2026-09-04",
+    "match_date": ""
   },
   {
     "league": "National League",
@@ -1597,7 +1676,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.2593,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": "2026-09-04"
+    "ht_first_seen": "2026-09-04",
+    "match_date": ""
   },
   {
     "league": "Southern League Central",
@@ -1617,7 +1697,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.2468,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": "2026-09-04"
+    "ht_first_seen": "2026-09-04",
+    "match_date": ""
   },
   {
     "league": "Mexico Liga MX",
@@ -1637,7 +1718,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": "",
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": ""
+    "ht_first_seen": "",
+    "match_date": ""
   },
   {
     "league": "Isthmian League",
@@ -1657,7 +1739,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.7649,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": "2026-09-04"
+    "ht_first_seen": "2026-09-04",
+    "match_date": ""
   },
   {
     "league": "Isthmian League",
@@ -1677,7 +1760,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.2196,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": "2026-09-04"
+    "ht_first_seen": "2026-09-04",
+    "match_date": ""
   },
   {
     "league": "Isthmian League",
@@ -1697,7 +1781,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.6616,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": "2026-09-04"
+    "ht_first_seen": "2026-09-04",
+    "match_date": ""
   },
   {
     "league": "Isthmian League",
@@ -1717,7 +1802,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.4628,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": "2026-09-04"
+    "ht_first_seen": "2026-09-04",
+    "match_date": ""
   },
   {
     "league": "Isthmian League",
@@ -1737,7 +1823,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.5753,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": "2026-09-04"
+    "ht_first_seen": "2026-09-04",
+    "match_date": ""
   },
   {
     "league": "Isthmian League",
@@ -1757,7 +1844,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.1244,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": "2026-09-04"
+    "ht_first_seen": "2026-09-04",
+    "match_date": ""
   },
   {
     "league": "La Liga",
@@ -1777,7 +1865,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.2331,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": "2026-09-04"
+    "ht_first_seen": "2026-09-04",
+    "match_date": ""
   },
   {
     "league": "Isthmian League",
@@ -1797,7 +1886,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.5553,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": "2026-09-04"
+    "ht_first_seen": "2026-09-04",
+    "match_date": ""
   },
   {
     "league": "Isthmian League",
@@ -1817,7 +1907,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.5513,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": "2026-09-04"
+    "ht_first_seen": "2026-09-04",
+    "match_date": ""
   },
   {
     "league": "La Liga",
@@ -1837,7 +1928,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.457,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": "2026-09-04"
+    "ht_first_seen": "2026-09-04",
+    "match_date": ""
   },
   {
     "league": "Scottish Premiership",
@@ -1857,7 +1949,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.2877,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": "2026-09-04"
+    "ht_first_seen": "2026-09-04",
+    "match_date": ""
   },
   {
     "league": "National League",
@@ -1877,7 +1970,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.36,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": "2026-09-04"
+    "ht_first_seen": "2026-09-04",
+    "match_date": ""
   },
   {
     "league": "National League",
@@ -1897,7 +1991,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3638,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": "2026-09-04"
+    "ht_first_seen": "2026-09-04",
+    "match_date": ""
   },
   {
     "league": "La Liga",
@@ -1917,7 +2012,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3456,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": "2026-09-04"
+    "ht_first_seen": "2026-09-04",
+    "match_date": ""
   },
   {
     "league": "Isthmian League",
@@ -1937,7 +2033,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.5489,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": "2026-09-04"
+    "ht_first_seen": "2026-09-04",
+    "match_date": ""
   },
   {
     "league": "Isthmian League",
@@ -1957,7 +2054,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.4788,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": "2026-09-04"
+    "ht_first_seen": "2026-09-04",
+    "match_date": ""
   },
   {
     "league": "Eredivisie",
@@ -1977,7 +2075,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.4212,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
-    "ht_first_seen": "2026-09-04"
+    "ht_first_seen": "2026-09-04",
+    "match_date": ""
   },
   {
     "league": "National League",
@@ -1997,7 +2096,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3426,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "National League",
@@ -2017,7 +2117,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.336,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "Norway Eliteserien",
@@ -2037,7 +2138,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": "",
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": ""
+    "ht_first_seen": "",
+    "match_date": ""
   },
   {
     "league": "Serie B",
@@ -2057,7 +2159,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3159,
     "ht_low_confidence": false,
     "ft_first_seen": "2026-09-02",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "Serie B",
@@ -2077,7 +2180,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3186,
     "ht_low_confidence": false,
     "ft_first_seen": "2026-09-02",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "Serie B",
@@ -2097,7 +2201,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.381,
     "ht_low_confidence": false,
     "ft_first_seen": "2026-09-02",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "Serie A",
@@ -2117,7 +2222,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3362,
     "ht_low_confidence": false,
     "ft_first_seen": "2026-09-02",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "Serie A",
@@ -2137,7 +2243,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.347,
     "ht_low_confidence": false,
     "ft_first_seen": "2026-09-02",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "Serie A",
@@ -2157,7 +2264,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.355,
     "ht_low_confidence": false,
     "ft_first_seen": "2026-09-02",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "USA MLS",
@@ -2177,7 +2285,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": "",
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": ""
+    "ht_first_seen": "",
+    "match_date": ""
   },
   {
     "league": "USA MLS",
@@ -2197,7 +2306,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": "",
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": ""
+    "ht_first_seen": "",
+    "match_date": ""
   },
   {
     "league": "USA MLS",
@@ -2217,7 +2327,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": "",
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": ""
+    "ht_first_seen": "",
+    "match_date": ""
   },
   {
     "league": "USA MLS",
@@ -2237,7 +2348,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": "",
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": ""
+    "ht_first_seen": "",
+    "match_date": ""
   },
   {
     "league": "USA MLS",
@@ -2257,7 +2369,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": "",
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": ""
+    "ht_first_seen": "",
+    "match_date": ""
   },
   {
     "league": "USA MLS",
@@ -2277,7 +2390,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": "",
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": ""
+    "ht_first_seen": "",
+    "match_date": ""
   },
   {
     "league": "USA MLS",
@@ -2297,7 +2411,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": "",
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": ""
+    "ht_first_seen": "",
+    "match_date": ""
   },
   {
     "league": "USA MLS",
@@ -2317,7 +2432,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": "",
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": ""
+    "ht_first_seen": "",
+    "match_date": ""
   },
   {
     "league": "USA MLS",
@@ -2337,7 +2453,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": "",
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": ""
+    "ht_first_seen": "",
+    "match_date": ""
   },
   {
     "league": "USA MLS",
@@ -2357,7 +2474,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": "",
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": ""
+    "ht_first_seen": "",
+    "match_date": ""
   },
   {
     "league": "USA MLS",
@@ -2377,7 +2495,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": "",
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": ""
+    "ht_first_seen": "",
+    "match_date": ""
   },
   {
     "league": "USA MLS",
@@ -2397,7 +2516,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": "",
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": ""
+    "ht_first_seen": "",
+    "match_date": ""
   },
   {
     "league": "USA MLS",
@@ -2417,7 +2537,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": "",
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": ""
+    "ht_first_seen": "",
+    "match_date": ""
   },
   {
     "league": "Switzerland Super League",
@@ -2437,7 +2558,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": "",
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": ""
+    "ht_first_seen": "",
+    "match_date": ""
   },
   {
     "league": "Switzerland Super League",
@@ -2457,7 +2579,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": "",
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": ""
+    "ht_first_seen": "",
+    "match_date": ""
   },
   {
     "league": "Switzerland Super League",
@@ -2477,7 +2600,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": "",
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": ""
+    "ht_first_seen": "",
+    "match_date": ""
   },
   {
     "league": "Serie B",
@@ -2497,7 +2621,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3485,
     "ht_low_confidence": true,
     "ft_first_seen": "2026-09-02",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "Serie B",
@@ -2517,7 +2642,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.344,
     "ht_low_confidence": false,
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "Norway Eliteserien",
@@ -2537,7 +2663,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": "",
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": ""
+    "ht_first_seen": "",
+    "match_date": ""
   },
   {
     "league": "Premier League",
@@ -2557,7 +2684,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3444,
     "ht_low_confidence": false,
     "ft_first_seen": "2026-09-02",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "Premier League",
@@ -2577,7 +2705,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3773,
     "ht_low_confidence": false,
     "ft_first_seen": "2026-09-02",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "Poland Ekstraklasa",
@@ -2597,7 +2726,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": "",
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": ""
+    "ht_first_seen": "",
+    "match_date": ""
   },
   {
     "league": "Poland Ekstraklasa",
@@ -2617,7 +2747,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": "",
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": ""
+    "ht_first_seen": "",
+    "match_date": ""
   },
   {
     "league": "Poland Ekstraklasa",
@@ -2637,7 +2768,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": "",
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": ""
+    "ht_first_seen": "",
+    "match_date": ""
   },
   {
     "league": "Norway Eliteserien",
@@ -2657,7 +2789,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": "",
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": ""
+    "ht_first_seen": "",
+    "match_date": ""
   },
   {
     "league": "Serie A",
@@ -2677,7 +2810,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3384,
     "ht_low_confidence": false,
     "ft_first_seen": "2026-09-02",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "Scottish Premiership",
@@ -2697,7 +2831,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.6719,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "Scottish Premiership",
@@ -2717,7 +2852,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3624,
     "ht_low_confidence": false,
     "ft_first_seen": "2026-09-02",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "National League",
@@ -2737,7 +2873,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3179,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "Scottish Premiership",
@@ -2757,7 +2894,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3278,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "Scottish Premiership",
@@ -2777,7 +2915,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.316,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "Scottish League Two",
@@ -2797,7 +2936,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.4025,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "Scottish League Two",
@@ -2817,7 +2957,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3723,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "Scottish League One",
@@ -2837,7 +2978,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3799,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "Scottish League One",
@@ -2857,7 +2999,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3182,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "Romania Superliga",
@@ -2877,7 +3020,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": "",
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": ""
+    "ht_first_seen": "",
+    "match_date": ""
   },
   {
     "league": "Scottish Premiership",
@@ -2897,7 +3041,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3958,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "Eredivisie",
@@ -2917,7 +3062,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.4229,
     "ht_low_confidence": false,
     "ft_first_seen": "2026-09-02",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "Eredivisie",
@@ -2937,7 +3083,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3912,
     "ht_low_confidence": false,
     "ft_first_seen": "2026-09-02",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "Eredivisie",
@@ -2957,7 +3104,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3386,
     "ht_low_confidence": true,
     "ft_first_seen": "2026-09-02",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "Denmark Superliga",
@@ -2977,7 +3125,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": "",
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": ""
+    "ht_first_seen": "",
+    "match_date": ""
   },
   {
     "league": "Denmark Superliga",
@@ -2997,7 +3146,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": "",
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": ""
+    "ht_first_seen": "",
+    "match_date": ""
   },
   {
     "league": "Denmark Superliga",
@@ -3017,7 +3167,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": "",
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": ""
+    "ht_first_seen": "",
+    "match_date": ""
   },
   {
     "league": "China Super League",
@@ -3037,7 +3188,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": "",
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": ""
+    "ht_first_seen": "",
+    "match_date": ""
   },
   {
     "league": "China Super League",
@@ -3057,7 +3209,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": "",
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": ""
+    "ht_first_seen": "",
+    "match_date": ""
   },
   {
     "league": "China Super League",
@@ -3077,7 +3230,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": "",
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": ""
+    "ht_first_seen": "",
+    "match_date": ""
   },
   {
     "league": "China Super League",
@@ -3097,7 +3251,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": "",
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": ""
+    "ht_first_seen": "",
+    "match_date": ""
   },
   {
     "league": "Eredivisie",
@@ -3117,7 +3272,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.6798,
     "ht_low_confidence": true,
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "La Liga",
@@ -3137,7 +3293,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3438,
     "ht_low_confidence": false,
     "ft_first_seen": "2026-09-02",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "La Liga",
@@ -3157,7 +3314,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3452,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "La Liga",
@@ -3177,7 +3335,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3211,
     "ht_low_confidence": false,
     "ft_first_seen": "2026-09-02",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "Jupiler League",
@@ -3197,7 +3356,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3948,
     "ht_low_confidence": false,
     "ft_first_seen": "2026-09-02",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "Jupiler League",
@@ -3217,7 +3377,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.4143,
     "ht_low_confidence": false,
     "ft_first_seen": "2026-09-02",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "Jupiler League",
@@ -3237,7 +3398,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3645,
     "ht_low_confidence": true,
     "ft_first_seen": "2026-09-02",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "Jupiler League",
@@ -3257,7 +3419,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.4015,
     "ht_low_confidence": false,
     "ft_first_seen": "2026-09-02",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "Eredivisie",
@@ -3277,7 +3440,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3402,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "Bundesliga",
@@ -3297,7 +3461,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3272,
     "ht_low_confidence": false,
     "ft_first_seen": "2026-09-02",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "Bundesliga",
@@ -3317,7 +3482,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.4172,
     "ht_low_confidence": false,
     "ft_first_seen": "2026-09-02",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "Brazil Serie A",
@@ -3337,7 +3503,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": "",
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": ""
+    "ht_first_seen": "",
+    "match_date": ""
   },
   {
     "league": "Brazil Serie A",
@@ -3357,7 +3524,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": "",
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": ""
+    "ht_first_seen": "",
+    "match_date": ""
   },
   {
     "league": "Brazil Serie A",
@@ -3377,7 +3545,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": "",
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": ""
+    "ht_first_seen": "",
+    "match_date": ""
   },
   {
     "league": "Brazil Serie A",
@@ -3397,7 +3566,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": "",
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": ""
+    "ht_first_seen": "",
+    "match_date": ""
   },
   {
     "league": "Brazil Serie A",
@@ -3417,7 +3587,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": "",
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": ""
+    "ht_first_seen": "",
+    "match_date": ""
   },
   {
     "league": "Brazil Serie A",
@@ -3437,7 +3608,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": "",
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": ""
+    "ht_first_seen": "",
+    "match_date": ""
   },
   {
     "league": "Argentina Primera Division",
@@ -3457,7 +3629,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": "",
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": ""
+    "ht_first_seen": "",
+    "match_date": ""
   },
   {
     "league": "Argentina Primera Division",
@@ -3477,7 +3650,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": "",
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": ""
+    "ht_first_seen": "",
+    "match_date": ""
   },
   {
     "league": "Argentina Primera Division",
@@ -3497,7 +3671,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": "",
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": ""
+    "ht_first_seen": "",
+    "match_date": ""
   },
   {
     "league": "Championship",
@@ -3517,7 +3692,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.7428,
     "ht_low_confidence": true,
     "ft_first_seen": "2026-09-02",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "Bundesliga 2",
@@ -3537,7 +3713,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.4173,
     "ht_low_confidence": false,
     "ft_first_seen": "2026-09-02",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "Bundesliga 2",
@@ -3557,7 +3734,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.6815,
     "ht_low_confidence": false,
     "ft_first_seen": "2026-09-02",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "Bundesliga 2",
@@ -3577,7 +3755,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.7067,
     "ht_low_confidence": true,
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "La Liga",
@@ -3597,7 +3776,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3792,
     "ht_low_confidence": false,
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "La Liga",
@@ -3617,7 +3797,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3659,
     "ht_low_confidence": true,
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "La Liga",
@@ -3637,7 +3818,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.6576,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "Ligue 1",
@@ -3657,7 +3839,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3244,
     "ht_low_confidence": false,
     "ft_first_seen": "2026-09-02",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "Ligi 1",
@@ -3677,7 +3860,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3759,
     "ht_low_confidence": false,
     "ft_first_seen": "2026-09-02",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "Ligi 1",
@@ -3697,7 +3881,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3516,
     "ht_low_confidence": false,
     "ft_first_seen": "2026-09-02",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "Ligi 1",
@@ -3717,7 +3902,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3603,
     "ht_low_confidence": true,
     "ft_first_seen": "2026-09-02",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "Ligi 1",
@@ -3737,7 +3923,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3689,
     "ht_low_confidence": true,
     "ft_first_seen": "2026-09-02",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "Liga I",
@@ -3757,7 +3944,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3553,
     "ht_low_confidence": false,
     "ft_first_seen": "2026-09-02",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "Liga I",
@@ -3777,7 +3965,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.381,
     "ht_low_confidence": true,
     "ft_first_seen": "2026-09-02",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "National League",
@@ -3797,7 +3986,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.4652,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "National League",
@@ -3817,7 +4007,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3846,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "National League",
@@ -3837,7 +4028,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3478,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "National League",
@@ -3857,7 +4049,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3855,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "National League",
@@ -3877,7 +4070,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3438,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "National League",
@@ -3897,7 +4091,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.4054,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "National League",
@@ -3917,7 +4112,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3457,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "National League",
@@ -3937,7 +4133,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3451,
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "Mexico Liga MX",
@@ -3957,7 +4154,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": "",
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": ""
+    "ht_first_seen": "",
+    "match_date": ""
   },
   {
     "league": "Mexico Liga MX",
@@ -3977,27 +4175,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": "",
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
-    "ht_first_seen": ""
-  },
-  {
-    "league": "Mexico Liga MX",
-    "home_team": "Atl. San Luis",
-    "away_team": "Guadalajara Chivas",
-    "ft_date_logged": "2026-09-05",
-    "model_prob_over15": 0.7983,
-    "model_prob_over": 0.6181,
-    "model_prob_over35": 0.3368,
-    "model_prob_home": 0.4281,
-    "model_prob_draw": 0.2472,
-    "model_prob_away": 0.3247,
-    "model_prob_btts_yes": 0.614,
-    "model_prob_btts_over25": 0.4755,
-    "ft_low_confidence": false,
-    "ht_date_logged": "",
-    "model_prob_ht_over15": "",
-    "ht_low_confidence": "",
-    "ft_first_seen": "2026-09-05",
-    "ht_first_seen": ""
+    "ht_first_seen": "",
+    "match_date": ""
   },
   {
     "league": "Ligue 1",
@@ -4017,7 +4196,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3463,
     "ht_low_confidence": true,
     "ft_first_seen": "2026-09-02",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "Ligue 1",
@@ -4037,7 +4217,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3274,
     "ht_low_confidence": false,
     "ft_first_seen": "2026-09-02",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "La Liga 2",
@@ -4057,7 +4238,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3319,
     "ht_low_confidence": false,
     "ft_first_seen": "2026-09-02",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "La Liga 2",
@@ -4077,7 +4259,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.331,
     "ht_low_confidence": false,
     "ft_first_seen": "2026-09-02",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "La Liga 2",
@@ -4097,7 +4280,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3282,
     "ht_low_confidence": false,
     "ft_first_seen": "2026-09-02",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "La Liga 2",
@@ -4117,7 +4301,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.4651,
     "ht_low_confidence": false,
     "ft_first_seen": "2026-09-02",
-    "ht_first_seen": "2026-09-05"
+    "ht_first_seen": "2026-09-05",
+    "match_date": ""
   },
   {
     "league": "Ligue 2",
@@ -4137,7 +4322,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.4679,
     "ht_low_confidence": true,
     "ft_first_seen": "2026-09-06",
-    "ht_first_seen": "2026-09-06"
+    "ht_first_seen": "2026-09-06",
+    "match_date": ""
   },
   {
     "league": "Serie A",
@@ -4157,7 +4343,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3467,
     "ht_low_confidence": false,
     "ft_first_seen": "2026-09-06",
-    "ht_first_seen": "2026-09-06"
+    "ht_first_seen": "2026-09-06",
+    "match_date": ""
   },
   {
     "league": "Liga I",
@@ -4177,7 +4364,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3777,
     "ht_low_confidence": false,
     "ft_first_seen": "2026-09-06",
-    "ht_first_seen": "2026-09-06"
+    "ht_first_seen": "2026-09-06",
+    "match_date": ""
   },
   {
     "league": "Serie A",
@@ -4197,7 +4385,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3244,
     "ht_low_confidence": false,
     "ft_first_seen": "2026-09-06",
-    "ht_first_seen": "2026-09-06"
+    "ht_first_seen": "2026-09-06",
+    "match_date": ""
   },
   {
     "league": "La Liga 2",
@@ -4217,7 +4406,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.0148,
     "ht_low_confidence": true,
     "ft_first_seen": "2026-09-06",
-    "ht_first_seen": "2026-09-06"
+    "ht_first_seen": "2026-09-06",
+    "match_date": ""
   },
   {
     "league": "La Liga",
@@ -4237,7 +4427,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.329,
     "ht_low_confidence": false,
     "ft_first_seen": "2026-09-06",
-    "ht_first_seen": "2026-09-06"
+    "ht_first_seen": "2026-09-06",
+    "match_date": ""
   },
   {
     "league": "La Liga",
@@ -4257,7 +4448,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3259,
     "ht_low_confidence": false,
     "ft_first_seen": "2026-09-06",
-    "ht_first_seen": "2026-09-06"
+    "ht_first_seen": "2026-09-06",
+    "match_date": ""
   },
   {
     "league": "League One",
@@ -4277,7 +4469,8 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3477,
     "ht_low_confidence": true,
     "ft_first_seen": "2026-09-06",
-    "ht_first_seen": "2026-09-06"
+    "ht_first_seen": "2026-09-06",
+    "match_date": ""
   },
   {
     "league": "Serie B",
@@ -4297,6 +4490,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_ht_over15": 0.3336,
     "ht_low_confidence": false,
     "ft_first_seen": "2026-09-06",
-    "ht_first_seen": "2026-09-06"
+    "ht_first_seen": "2026-09-06",
+    "match_date": ""
   }
 ];
