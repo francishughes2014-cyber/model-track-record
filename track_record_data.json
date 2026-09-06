@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T01:20:36.384906",
+  "generated_at": "2026-09-06T02:06:09.399619",
   "summary": {
     "total_settled_ft": 296,
     "total_settled_ht": 237,
@@ -102,13 +102,13 @@
             },
             {
               "n": 57,
-              "avg_predicted": 0.4558,
+              "avg_predicted": 0.455,
               "observed_rate": 0.5614,
               "gap_pts": 10.6
             },
             {
               "n": 66,
-              "avg_predicted": 0.5546,
+              "avg_predicted": 0.5542,
               "observed_rate": 0.6515,
               "gap_pts": 9.7
             },
@@ -603,15 +603,15 @@
             },
             {
               "n": 43,
-              "avg_predicted": 0.4521,
+              "avg_predicted": 0.451,
               "observed_rate": 0.5116,
-              "gap_pts": 6.0
+              "gap_pts": 6.1
             },
             {
               "n": 50,
-              "avg_predicted": 0.5578,
+              "avg_predicted": 0.5574,
               "observed_rate": 0.64,
-              "gap_pts": 8.2
+              "gap_pts": 8.3
             },
             {
               "n": 55,
