@@ -7,12 +7,13 @@
 *
 
 # The actual public-facing site
-!track_record.html
+!index.html
 !chart.umd.min.js
 !track_record_data.js
 !track_record_data.json
 !public_predictions_log.csv
 !public_predictions_log.js
+!recent_results.js
 
 # Real infrastructure files GitHub Pages itself needs
 !CNAME
