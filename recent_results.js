@@ -4725,6 +4725,104 @@ const RECENT_RESULTS = [
   },
   {
     "league": "La Liga",
+    "home_team": "Alaves",
+    "away_team": "Osasuna",
+    "match_date": "2026-09-06",
+    "score": "5-2",
+    "over15": {
+      "pred": 0.7792,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.6286,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.2869,
+      "hit": false,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.5158,
+      "is_result": true
+    },
+    "draw": {
+      "pred": 0.2254,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.2588,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.5743,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.5616,
+      "hit": true,
+      "label": "BTTS+O2.5"
+    },
+    "ht_over15": {
+      "pred": 0.3367,
+      "hit": false,
+      "label": "HT O1.5"
+    }
+  },
+  {
+    "league": "La Liga",
+    "home_team": "Ath Bilbao",
+    "away_team": "Ath Madrid",
+    "match_date": NaN,
+    "score": "3-0",
+    "over15": {
+      "pred": 0.7261,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.5896,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.1614,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.3912,
+      "is_result": true
+    },
+    "draw": {
+      "pred": 0.1999,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.4088,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.4445,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.3747,
+      "hit": true,
+      "label": "BTTS+O2.5"
+    },
+    "ht_over15": {
+      "pred": 0.3452,
+      "hit": true,
+      "label": "HT O1.5"
+    }
+  },
+  {
+    "league": "La Liga",
     "home_team": "Barcelona",
     "away_team": "Vallecano",
     "match_date": NaN,
@@ -4748,6 +4846,153 @@ const RECENT_RESULTS = [
     },
     "ht_over15": {
       "pred": 0.6309,
+      "hit": true,
+      "label": "HT O1.5"
+    }
+  },
+  {
+    "league": "La Liga",
+    "home_team": "Betis",
+    "away_team": "Real Madrid",
+    "match_date": NaN,
+    "score": "1-0",
+    "over15": {
+      "pred": 0.8178,
+      "hit": false,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.6427,
+      "hit": false,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.3786,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.3017,
+      "is_result": true
+    },
+    "draw": {
+      "pred": 0.2341,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.4642,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.6159,
+      "hit": false,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.5095,
+      "hit": false,
+      "label": "BTTS+O2.5"
+    },
+    "ht_over15": {
+      "pred": 0.457,
+      "hit": true,
+      "label": "HT O1.5"
+    }
+  },
+  {
+    "league": "La Liga",
+    "home_team": "Espanol",
+    "away_team": "Sevilla",
+    "match_date": "2026-09-06",
+    "score": "1-1",
+    "over15": {
+      "pred": 0.7721,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.4626,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.3524,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.4565,
+      "is_result": false
+    },
+    "draw": {
+      "pred": 0.3005,
+      "is_result": true
+    },
+    "away": {
+      "pred": 0.243,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.5147,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.3883,
+      "hit": true,
+      "label": "BTTS+O2.5"
+    },
+    "ht_over15": {
+      "pred": 0.3755,
+      "hit": true,
+      "label": "HT O1.5"
+    }
+  },
+  {
+    "league": "La Liga",
+    "home_team": "Malaga",
+    "away_team": "Levante",
+    "match_date": "2026-09-06",
+    "score": "0-0",
+    "over15": {
+      "pred": 0.7511,
+      "hit": false,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.4066,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.3552,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.3706,
+      "is_result": false
+    },
+    "draw": {
+      "pred": 0.3121,
+      "is_result": true
+    },
+    "away": {
+      "pred": 0.3173,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.5101,
+      "hit": false,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.366,
+      "hit": true,
+      "label": "BTTS+O2.5"
+    },
+    "ht_over15": {
+      "pred": 0.3955,
       "hit": true,
       "label": "HT O1.5"
     }
@@ -4827,6 +5072,55 @@ const RECENT_RESULTS = [
   },
   {
     "league": "La Liga",
+    "home_team": "Valencia",
+    "away_team": "Barcelona",
+    "match_date": "2026-09-06",
+    "score": "0-5",
+    "over15": {
+      "pred": 0.9243,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.8556,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.2541,
+      "hit": false,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.2986,
+      "is_result": false
+    },
+    "draw": {
+      "pred": 0.1142,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.5872,
+      "is_result": true
+    },
+    "btts": {
+      "pred": 0.6706,
+      "hit": false,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.6682,
+      "hit": false,
+      "label": "BTTS+O2.5"
+    },
+    "ht_over15": {
+      "pred": 0.4077,
+      "hit": false,
+      "label": "HT O1.5"
+    }
+  },
+  {
+    "league": "La Liga",
     "home_team": "Vallecano",
     "away_team": "Santander",
     "match_date": NaN,
@@ -4871,6 +5165,55 @@ const RECENT_RESULTS = [
     "ht_over15": {
       "pred": 0.3452,
       "hit": false,
+      "label": "HT O1.5"
+    }
+  },
+  {
+    "league": "La Liga",
+    "home_team": "Villarreal",
+    "away_team": "La Coruna",
+    "match_date": NaN,
+    "score": "2-3",
+    "over15": {
+      "pred": 0.7491,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.6203,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.1061,
+      "hit": false,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.5908,
+      "is_result": false
+    },
+    "draw": {
+      "pred": 0.1979,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.2114,
+      "is_result": true
+    },
+    "btts": {
+      "pred": 0.4453,
+      "hit": false,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.3845,
+      "hit": false,
+      "label": "BTTS+O2.5"
+    },
+    "ht_over15": {
+      "pred": 0.6576,
+      "hit": true,
       "label": "HT O1.5"
     }
   },
