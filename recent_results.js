@@ -5894,7 +5894,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "4-0",
     "over25": {
-      "pred": 0.6013,
+      "pred": 0.6019,
       "hit": true,
       "label": "O 2.5"
     },
@@ -6143,7 +6143,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "1-2",
     "over25": {
-      "pred": 0.6013,
+      "pred": 0.6003,
       "hit": true,
       "label": "O 2.5"
     },
@@ -6436,7 +6436,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "1-3",
     "over25": {
-      "pred": 0.573,
+      "pred": 0.5718,
       "hit": true,
       "label": "O 2.5"
     },
@@ -6558,7 +6558,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "5-2",
     "over25": {
-      "pred": 0.6013,
+      "pred": 0.6004,
       "hit": true,
       "label": "O 2.5"
     },
@@ -6587,7 +6587,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "0-0",
     "over25": {
-      "pred": 0.4428,
+      "pred": 0.4426,
       "hit": true,
       "label": "O 2.5"
     },
@@ -6616,7 +6616,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "2-1",
     "over25": {
-      "pred": 0.5269,
+      "pred": 0.5261,
       "hit": true,
       "label": "O 2.5"
     },
@@ -6733,7 +6733,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "2-0",
     "over25": {
-      "pred": 0.4866,
+      "pred": 0.4861,
       "hit": true,
       "label": "O 2.5"
     },
@@ -6855,7 +6855,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "7-2",
     "over25": {
-      "pred": 0.6013,
+      "pred": 0.6008,
       "hit": true,
       "label": "O 2.5"
     },
@@ -6913,7 +6913,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "5-1",
     "over25": {
-      "pred": 0.5995,
+      "pred": 0.5981,
       "hit": true,
       "label": "O 2.5"
     },
@@ -10255,6 +10255,55 @@ const RECENT_RESULTS = [
   {
     "league": "National League",
     "home_team": "Aldershot",
+    "away_team": "Halifax",
+    "match_date": NaN,
+    "score": "1-0",
+    "over15": {
+      "pred": 0.7923,
+      "hit": false,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.6278,
+      "hit": false,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.3362,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.3961,
+      "is_result": true
+    },
+    "draw": {
+      "pred": 0.2266,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.3773,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.6042,
+      "hit": false,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.4756,
+      "hit": true,
+      "label": "BTTS+O2.5"
+    },
+    "ht_over15": {
+      "pred": 0.3451,
+      "hit": true,
+      "label": "HT O1.5"
+    }
+  },
+  {
+    "league": "National League",
+    "home_team": "Aldershot",
     "away_team": "Harrogate",
     "match_date": NaN,
     "score": "3-1",
@@ -10274,6 +10323,55 @@ const RECENT_RESULTS = [
     "away": {
       "pred": 0.4558,
       "is_result": false
+    }
+  },
+  {
+    "league": "National League",
+    "home_team": "Altrincham",
+    "away_team": "Eastleigh",
+    "match_date": NaN,
+    "score": "2-1",
+    "over15": {
+      "pred": 0.7542,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.6151,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.2859,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.4918,
+      "is_result": true
+    },
+    "draw": {
+      "pred": 0.2537,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.2545,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.5339,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.4132,
+      "hit": false,
+      "label": "BTTS+O2.5"
+    },
+    "ht_over15": {
+      "pred": 0.36,
+      "hit": false,
+      "label": "HT O1.5"
     }
   },
   {
@@ -10303,6 +10401,55 @@ const RECENT_RESULTS = [
   {
     "league": "National League",
     "home_team": "Barrow",
+    "away_team": "Sutton",
+    "match_date": NaN,
+    "score": "3-0",
+    "over15": {
+      "pred": 0.7201,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.5767,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.1808,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.4567,
+      "is_result": true
+    },
+    "draw": {
+      "pred": 0.2746,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.2686,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.4483,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.3701,
+      "hit": true,
+      "label": "BTTS+O2.5"
+    },
+    "ht_over15": {
+      "pred": 0.3457,
+      "hit": true,
+      "label": "HT O1.5"
+    }
+  },
+  {
+    "league": "National League",
+    "home_team": "Barrow",
     "away_team": "Yeovil",
     "match_date": NaN,
     "score": "1-2",
@@ -10322,6 +10469,55 @@ const RECENT_RESULTS = [
     "away": {
       "pred": 0.2787,
       "is_result": true
+    }
+  },
+  {
+    "league": "National League",
+    "home_team": "Boreham Wood",
+    "away_team": "Carlisle",
+    "match_date": NaN,
+    "score": "2-1",
+    "over15": {
+      "pred": 0.8542,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.6407,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.4391,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.4489,
+      "is_result": true
+    },
+    "draw": {
+      "pred": 0.2015,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.3496,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.6676,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.5685,
+      "hit": true,
+      "label": "BTTS+O2.5"
+    },
+    "ht_over15": {
+      "pred": 0.4054,
+      "hit": true,
+      "label": "HT O1.5"
     }
   },
   {
@@ -10466,6 +10662,104 @@ const RECENT_RESULTS = [
   },
   {
     "league": "National League",
+    "home_team": "Fylde",
+    "away_team": "Worthing",
+    "match_date": NaN,
+    "score": "2-2",
+    "over15": {
+      "pred": 0.8973,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.7364,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.5332,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.4206,
+      "is_result": false
+    },
+    "draw": {
+      "pred": 0.1747,
+      "is_result": true
+    },
+    "away": {
+      "pred": 0.4047,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.7292,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.6478,
+      "hit": true,
+      "label": "BTTS+O2.5"
+    },
+    "ht_over15": {
+      "pred": 0.3438,
+      "hit": true,
+      "label": "HT O1.5"
+    }
+  },
+  {
+    "league": "National League",
+    "home_team": "Gateshead",
+    "away_team": "Solihull",
+    "match_date": NaN,
+    "score": "1-1",
+    "over15": {
+      "pred": 0.8249,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.6344,
+      "hit": false,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.3867,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.4425,
+      "is_result": false
+    },
+    "draw": {
+      "pred": 0.216,
+      "is_result": true
+    },
+    "away": {
+      "pred": 0.3415,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.6305,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.522,
+      "hit": false,
+      "label": "BTTS+O2.5"
+    },
+    "ht_over15": {
+      "pred": 0.3855,
+      "hit": true,
+      "label": "HT O1.5"
+    }
+  },
+  {
+    "league": "National League",
     "home_team": "Gateshead",
     "away_team": "Sutton",
     "match_date": NaN,
@@ -10582,6 +10876,104 @@ const RECENT_RESULTS = [
   },
   {
     "league": "National League",
+    "home_team": "Hartlepool",
+    "away_team": "Woking",
+    "match_date": NaN,
+    "score": "1-0",
+    "over15": {
+      "pred": 0.654,
+      "hit": false,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.4842,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.3106,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.3844,
+      "is_result": true
+    },
+    "draw": {
+      "pred": 0.2898,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.3258,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.4836,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.2959,
+      "hit": true,
+      "label": "BTTS+O2.5"
+    },
+    "ht_over15": {
+      "pred": 0.3478,
+      "hit": true,
+      "label": "HT O1.5"
+    }
+  },
+  {
+    "league": "National League",
+    "home_team": "Hornchurch",
+    "away_team": "Forest Green",
+    "match_date": NaN,
+    "score": "0-1",
+    "over15": {
+      "pred": 0.8619,
+      "hit": false,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.6715,
+      "hit": false,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.4545,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.5088,
+      "is_result": false
+    },
+    "draw": {
+      "pred": 0.1968,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.2944,
+      "is_result": true
+    },
+    "btts": {
+      "pred": 0.6704,
+      "hit": false,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.5756,
+      "hit": false,
+      "label": "BTTS+O2.5"
+    },
+    "ht_over15": {
+      "pred": 0.3846,
+      "hit": true,
+      "label": "HT O1.5"
+    }
+  },
+  {
+    "league": "National League",
     "home_team": "Hornchurch",
     "away_team": "Woking",
     "match_date": NaN,
@@ -10630,6 +11022,55 @@ const RECENT_RESULTS = [
     "ht_over15": {
       "pred": 0.1095,
       "hit": false,
+      "label": "HT O1.5"
+    }
+  },
+  {
+    "league": "National League",
+    "home_team": "Scunthorpe",
+    "away_team": "Harrogate",
+    "match_date": NaN,
+    "score": "0-2",
+    "over15": {
+      "pred": 0.8636,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.6743,
+      "hit": false,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.4577,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.4614,
+      "is_result": false
+    },
+    "draw": {
+      "pred": 0.197,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.3416,
+      "is_result": true
+    },
+    "btts": {
+      "pred": 0.6793,
+      "hit": false,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.5838,
+      "hit": false,
+      "label": "BTTS+O2.5"
+    },
+    "ht_over15": {
+      "pred": 0.4652,
+      "hit": true,
       "label": "HT O1.5"
     }
   },
@@ -10712,6 +11153,55 @@ const RECENT_RESULTS = [
   },
   {
     "league": "National League",
+    "home_team": "Southend",
+    "away_team": "Yeovil",
+    "match_date": NaN,
+    "score": "3-2",
+    "over15": {
+      "pred": 0.7081,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.5596,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.2061,
+      "hit": false,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.6489,
+      "is_result": true
+    },
+    "draw": {
+      "pred": 0.1993,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.1518,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.4954,
+      "hit": false,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.3056,
+      "hit": false,
+      "label": "BTTS+O2.5"
+    },
+    "ht_over15": {
+      "pred": 0.3179,
+      "hit": true,
+      "label": "HT O1.5"
+    }
+  },
+  {
+    "league": "National League",
     "home_team": "Sutton",
     "away_team": "Wealdstone",
     "match_date": NaN,
@@ -10736,6 +11226,55 @@ const RECENT_RESULTS = [
     "ht_over15": {
       "pred": 0.3708,
       "hit": true,
+      "label": "HT O1.5"
+    }
+  },
+  {
+    "league": "National League",
+    "home_team": "Tamworth",
+    "away_team": "Boston Utd",
+    "match_date": NaN,
+    "score": "2-2",
+    "over15": {
+      "pred": 0.7906,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.6275,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.3338,
+      "hit": false,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.4454,
+      "is_result": false
+    },
+    "draw": {
+      "pred": 0.2326,
+      "is_result": true
+    },
+    "away": {
+      "pred": 0.322,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.5973,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.4719,
+      "hit": false,
+      "label": "BTTS+O2.5"
+    },
+    "ht_over15": {
+      "pred": 0.3426,
+      "hit": false,
       "label": "HT O1.5"
     }
   },
@@ -10785,6 +11324,55 @@ const RECENT_RESULTS = [
     "away": {
       "pred": 0.538,
       "is_result": false
+    }
+  },
+  {
+    "league": "National League",
+    "home_team": "Wealdstone",
+    "away_team": "Kidderminster",
+    "match_date": NaN,
+    "score": "1-4",
+    "over15": {
+      "pred": 0.6481,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.4765,
+      "hit": false,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.3208,
+      "hit": false,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.4328,
+      "is_result": false
+    },
+    "draw": {
+      "pred": 0.2973,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.2699,
+      "is_result": true
+    },
+    "btts": {
+      "pred": 0.491,
+      "hit": false,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.2856,
+      "hit": false,
+      "label": "BTTS+O2.5"
+    },
+    "ht_over15": {
+      "pred": 0.336,
+      "hit": false,
+      "label": "HT O1.5"
     }
   },
   {
@@ -13613,6 +14201,300 @@ const RECENT_RESULTS = [
     }
   },
   {
+    "league": "Scottish Championship",
+    "home_team": "Livingston",
+    "away_team": "Stenhousemuir",
+    "match_date": NaN,
+    "score": "0-1",
+    "over15": {
+      "pred": 0.5476,
+      "hit": false,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.2566,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.1011,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.3746,
+      "is_result": false
+    },
+    "draw": {
+      "pred": 0.3804,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.245,
+      "is_result": true
+    },
+    "btts": {
+      "pred": 0.3596,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.2041,
+      "hit": true,
+      "label": "BTTS+O2.5"
+    },
+    "ht_over15": {
+      "pred": 0.3198,
+      "hit": true,
+      "label": "HT O1.5"
+    }
+  },
+  {
+    "league": "Scottish League One",
+    "home_team": "East Fife",
+    "away_team": "Ross County",
+    "match_date": NaN,
+    "score": "2-2",
+    "over15": {
+      "pred": 0.6477,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.4636,
+      "hit": false,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.3374,
+      "hit": false,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.4294,
+      "is_result": false
+    },
+    "draw": {
+      "pred": 0.1912,
+      "is_result": true
+    },
+    "away": {
+      "pred": 0.3794,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.5334,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.3216,
+      "hit": false,
+      "label": "BTTS+O2.5"
+    },
+    "ht_over15": {
+      "pred": 0.3182,
+      "hit": true,
+      "label": "HT O1.5"
+    }
+  },
+  {
+    "league": "Scottish League One",
+    "home_team": "Peterhead",
+    "away_team": "Montrose",
+    "match_date": NaN,
+    "score": "0-3",
+    "over15": {
+      "pred": 0.8582,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.6396,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.43,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.452,
+      "is_result": false
+    },
+    "draw": {
+      "pred": 0.2303,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.3177,
+      "is_result": true
+    },
+    "btts": {
+      "pred": 0.6687,
+      "hit": false,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.5595,
+      "hit": false,
+      "label": "BTTS+O2.5"
+    },
+    "ht_over15": {
+      "pred": 0.3799,
+      "hit": false,
+      "label": "HT O1.5"
+    }
+  },
+  {
+    "league": "Scottish League Two",
+    "home_team": "Clyde",
+    "away_team": "Edinburgh City",
+    "match_date": NaN,
+    "score": "3-2",
+    "over15": {
+      "pred": 0.8509,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.6393,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.4274,
+      "hit": false,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.6623,
+      "is_result": true
+    },
+    "draw": {
+      "pred": 0.1478,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.1899,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.6306,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.5134,
+      "hit": true,
+      "label": "BTTS+O2.5"
+    },
+    "ht_over15": {
+      "pred": 0.3723,
+      "hit": true,
+      "label": "HT O1.5"
+    }
+  },
+  {
+    "league": "Scottish League Two",
+    "home_team": "Kelty Hearts",
+    "away_team": "Annan Athletic",
+    "match_date": NaN,
+    "score": "2-1",
+    "over15": {
+      "pred": 0.7999,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.6286,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.3416,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.479,
+      "is_result": true
+    },
+    "draw": {
+      "pred": 0.2411,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.2799,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.6052,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.4749,
+      "hit": false,
+      "label": "BTTS+O2.5"
+    },
+    "ht_over15": {
+      "pred": 0.4025,
+      "hit": true,
+      "label": "HT O1.5"
+    }
+  },
+  {
+    "league": "Scottish Premiership",
+    "home_team": "Aberdeen",
+    "away_team": "Kilmarnock",
+    "match_date": NaN,
+    "score": "0-0",
+    "over15": {
+      "pred": 0.6495,
+      "hit": false,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.479,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.3175,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.4737,
+      "is_result": false
+    },
+    "draw": {
+      "pred": 0.2874,
+      "is_result": true
+    },
+    "away": {
+      "pred": 0.2388,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.5004,
+      "hit": false,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.2848,
+      "hit": true,
+      "label": "BTTS+O2.5"
+    },
+    "ht_over15": {
+      "pred": 0.316,
+      "hit": true,
+      "label": "HT O1.5"
+    }
+  },
+  {
     "league": "Scottish Premiership",
     "home_team": "Aberdeen",
     "away_team": "Rangers",
@@ -13783,6 +14665,55 @@ const RECENT_RESULTS = [
     },
     "ht_over15": {
       "pred": 0.4108,
+      "hit": true,
+      "label": "HT O1.5"
+    }
+  },
+  {
+    "league": "Scottish Premiership",
+    "home_team": "Dundee United",
+    "away_team": "Falkirk",
+    "match_date": NaN,
+    "score": "1-1",
+    "over15": {
+      "pred": 0.6121,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.4321,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.3768,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.4727,
+      "is_result": false
+    },
+    "draw": {
+      "pred": 0.2968,
+      "is_result": true
+    },
+    "away": {
+      "pred": 0.2305,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.5269,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.3172,
+      "hit": true,
+      "label": "BTTS+O2.5"
+    },
+    "ht_over15": {
+      "pred": 0.3278,
       "hit": true,
       "label": "HT O1.5"
     }
@@ -13974,6 +14905,153 @@ const RECENT_RESULTS = [
     "ht_over15": {
       "pred": 0.4134,
       "hit": true,
+      "label": "HT O1.5"
+    }
+  },
+  {
+    "league": "Scottish Premiership",
+    "home_team": "Rangers",
+    "away_team": "Motherwell",
+    "match_date": NaN,
+    "score": "1-0",
+    "over15": {
+      "pred": 0.766,
+      "hit": false,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.623,
+      "hit": false,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.3014,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.603,
+      "is_result": true
+    },
+    "draw": {
+      "pred": 0.1917,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.2053,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.4684,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.4025,
+      "hit": true,
+      "label": "BTTS+O2.5"
+    },
+    "ht_over15": {
+      "pred": 0.3958,
+      "hit": true,
+      "label": "HT O1.5"
+    }
+  },
+  {
+    "league": "Scottish Premiership",
+    "home_team": "St Johnstone",
+    "away_team": "Hibernian",
+    "match_date": "2026-09-06",
+    "score": "2-1",
+    "over15": {
+      "pred": 0.7975,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.5418,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.3482,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.3059,
+      "is_result": true
+    },
+    "draw": {
+      "pred": 0.2461,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.4481,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.5338,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.4065,
+      "hit": false,
+      "label": "BTTS+O2.5"
+    },
+    "ht_over15": {
+      "pred": 0.3924,
+      "hit": false,
+      "label": "HT O1.5"
+    }
+  },
+  {
+    "league": "Scottish Premiership",
+    "home_team": "St Mirren",
+    "away_team": "Celtic",
+    "match_date": NaN,
+    "score": "1-2",
+    "over15": {
+      "pred": 0.8611,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.6709,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.4537,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.4452,
+      "is_result": false
+    },
+    "draw": {
+      "pred": 0.0878,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.467,
+      "is_result": true
+    },
+    "btts": {
+      "pred": 0.6203,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.5189,
+      "hit": true,
+      "label": "BTTS+O2.5"
+    },
+    "ht_over15": {
+      "pred": 0.6719,
+      "hit": false,
       "label": "HT O1.5"
     }
   },
