@@ -9,6 +9,7 @@
 <script src="chart.umd.min.js"></script>
 <script src="track_record_data.js"></script>
 <script src="public_predictions_log.js"></script>
+<script src="recent_results.js"></script>
 <style>
   :root {
     --bg: #15181C;
@@ -408,6 +409,14 @@
     <div id="pending-table-wrap"></div>
   </section>
 
+  <section class="pending-section">
+    <div class="pending-head">
+      <h2>Recent Results <span class="pending-sub">— last 7 days, every market, hits and misses shown alike</span></h2>
+      <span class="pending-n mono" id="recent-count"></span>
+    </div>
+    <div id="recent-table-wrap"></div>
+  </section>
+
   <div class="market-status" id="market-status"></div>
 
   <div class="tier-select" id="tier-select"></div>
@@ -765,11 +774,68 @@ function renderPending() {
   }
 }
 
+function renderRecentResults() {
+  const wrap = document.getElementById('recent-table-wrap');
+  const countEl = document.getElementById('recent-count');
+  const results = typeof RECENT_RESULTS !== 'undefined' ? RECENT_RESULTS : [];
+
+  countEl.textContent = `n = ${results.length}`;
+
+  if (results.length === 0) {
+    wrap.innerHTML = '<div class="pending-empty">No settled results in the last 7 days yet.</div>';
+    return;
+  }
+
+  const marketKeys = [
+    ['over15', 'binary'], ['over25', 'binary'], ['over35', 'binary'],
+    ['home', '1x2'], ['draw', '1x2'], ['away', '1x2'],
+    ['btts', 'binary'], ['btts_over25', 'binary'], ['ht_over15', 'binary'],
+  ];
+  const labels = { over15: 'O 1.5', over25: 'O 2.5', over35: 'O 3.5', home: 'Home',
+                    draw: 'Draw', away: 'Away', btts: 'BTTS', btts_over25: 'BTTS+O2.5',
+                    ht_over15: 'HT O1.5' };
+
+  const sorted = [...results].sort((a, b) => (b.match_date || '').localeCompare(a.match_date || ''));
+
+  wrap.innerHTML = `
+    <table>
+      <thead><tr>
+        <th style="text-align:left">match date</th>
+        <th style="text-align:left">league</th>
+        <th style="text-align:left">match</th>
+        <th>score</th>
+        ${marketKeys.map(([k]) => `<th>${labels[k]}</th>`).join('')}
+      </tr></thead>
+      <tbody>
+        ${sorted.map(r => `
+          <tr>
+            <td style="text-align:left">${r.match_date || ''}</td>
+            <td style="text-align:left">${r.league || ''}</td>
+            <td style="text-align:left">${r.home_team} vs ${r.away_team}</td>
+            <td class="mono">${r.score || ''}</td>
+            ${marketKeys.map(([k, type]) => {
+              const m = r[k];
+              if (!m) return '<td>—</td>';
+              const pct = (m.pred * 100).toFixed(0) + '%';
+              if (type === 'binary') {
+                return `<td class="${m.hit ? 'gap-neg' : 'gap-pos'}">${pct}</td>`;
+              } else {
+                return `<td class="${m.is_result ? 'gap-neg' : ''}">${pct}</td>`;
+              }
+            }).join('')}
+          </tr>
+        `).join('')}
+      </tbody>
+    </table>
+  `;
+}
+
 function renderAll(data) {
   renderSummary(data);
   renderTierSelect(data);
   renderMarkets(data);
   renderPending();
+  renderRecentResults();
 }
 
 if (typeof TRACK_RECORD_DATA !== 'undefined') {

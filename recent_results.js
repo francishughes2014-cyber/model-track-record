@@ -1,0 +1,1 @@
+const RECENT_RESULTS = [];
