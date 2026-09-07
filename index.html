@@ -192,6 +192,35 @@
     margin-left: 6px;
   }
 
+  .sortable-th {
+    cursor: pointer;
+    user-select: none;
+    white-space: nowrap;
+  }
+
+  .sortable-th:hover {
+    color: var(--text);
+  }
+
+  .sort-active {
+    color: var(--good);
+  }
+
+  .lowconf-toggle {
+    display: flex;
+    align-items: center;
+    gap: 7px;
+    padding: 10px 20px;
+    border-bottom: 1px solid var(--border);
+    font-size: 13px;
+    color: var(--text-dim);
+    cursor: pointer;
+  }
+
+  .lowconf-toggle input {
+    cursor: pointer;
+  }
+
   .market-status {
     display: flex;
     gap: 24px;
@@ -592,17 +621,13 @@ function renderMarkets(data) {
   });
 }
 
+let pendingSort = { col: 'first_seen', dir: 'desc' };
+let pendingHideLowConf = false;
+
 function renderPending() {
   const wrap = document.getElementById('pending-table-wrap');
   const countEl = document.getElementById('pending-count');
-  const preds = typeof PENDING_PREDICTIONS !== 'undefined' ? PENDING_PREDICTIONS : [];
-
-  countEl.textContent = `n = ${preds.length}`;
-
-  if (preds.length === 0) {
-    wrap.innerHTML = '<div class="pending-empty">No pending predictions right now — check back once the next batch is logged.</div>';
-    return;
-  }
+  const allPreds = typeof PENDING_PREDICTIONS !== 'undefined' ? PENDING_PREDICTIONS : [];
 
   const marketCols = [
     ['model_prob_over15', 'O 1.5'], ['model_prob_over', 'O 2.5'], ['model_prob_over35', 'O 3.5'],
@@ -615,29 +640,87 @@ function renderPending() {
     return v === true || v === 'True' || v === 'true';
   }
 
+  function rowIsLowConf(p) {
+    return isLowConf(p.ft_low_confidence) || isLowConf(p.ht_low_confidence);
+  }
+
   function firstSeenOf(p) {
     const dates = [p.ft_first_seen, p.ht_first_seen].filter(d => d);
     return dates.length ? dates.sort()[0] : '';
   }
 
-  // Newest predictions first — so a fresh run's fixtures are immediately
-  // visible at the top, rather than buried somewhere in an
-  // alphabetical-by-league list.
-  const sortedPreds = [...preds].sort((a, b) => firstSeenOf(b).localeCompare(firstSeenOf(a)));
+  const preds = pendingHideLowConf ? allPreds.filter(p => !rowIsLowConf(p)) : allPreds;
+  countEl.textContent = `n = ${preds.length}` + (pendingHideLowConf && preds.length !== allPreds.length
+    ? ` (of ${allPreds.length})` : '');
 
-  wrap.innerHTML = `
+  const toggleHtml = `
+    <label class="lowconf-toggle">
+      <input type="checkbox" id="hide-lowconf-checkbox" ${pendingHideLowConf ? 'checked' : ''}>
+      Hide low-confidence predictions
+    </label>
+  `;
+
+  if (allPreds.length === 0) {
+    wrap.innerHTML = toggleHtml + '<div class="pending-empty">No pending predictions right now — check back once the next batch is logged.</div>';
+    attachToggleHandler();
+    return;
+  }
+  if (preds.length === 0) {
+    wrap.innerHTML = toggleHtml + '<div class="pending-empty">All current predictions are low-confidence — uncheck the box above to see them.</div>';
+    attachToggleHandler();
+    return;
+  }
+
+  // Real sort — defaults to newest-first by first_seen, but any column
+  // header is clickable to sort by that column instead. Numeric market
+  // columns sort numerically (blanks always last, regardless of
+  // direction, since "no prediction" isn't meaningfully high or low);
+  // date/text columns sort as strings.
+  const numericCols = new Set(marketCols.map(([col]) => col));
+  function sortValue(p, col) {
+    if (col === 'first_seen') return firstSeenOf(p);
+    if (col === 'match_date') return p.match_date || '';
+    if (col === 'league') return p.league || '';
+    if (col === 'match') return `${p.home_team} vs ${p.away_team}`;
+    return p[col];
+  }
+  const sortedPreds = [...preds].sort((a, b) => {
+    const va = sortValue(a, pendingSort.col);
+    const vb = sortValue(b, pendingSort.col);
+    const aBlank = va === undefined || va === '' || va === null;
+    const bBlank = vb === undefined || vb === '' || vb === null;
+    if (aBlank && bBlank) return 0;
+    if (aBlank) return 1;   // blanks always sort last
+    if (bBlank) return -1;
+    let cmp;
+    if (numericCols.has(pendingSort.col)) {
+      cmp = Number(va) - Number(vb);
+    } else {
+      cmp = String(va).localeCompare(String(vb));
+    }
+    return pendingSort.dir === 'asc' ? cmp : -cmp;
+  });
+
+  function headerCell(col, label, alignLeft) {
+    const active = pendingSort.col === col;
+    const arrow = active ? (pendingSort.dir === 'asc' ? ' ▲' : ' ▼') : '';
+    const style = alignLeft ? ' style="text-align:left"' : '';
+    return `<th${style} class="sortable-th${active ? ' sort-active' : ''}" data-sort-col="${col}">${label}${arrow}</th>`;
+  }
+
+  wrap.innerHTML = toggleHtml + `
     <table>
       <thead><tr>
-        <th style="text-align:left">first predicted</th>
-        <th style="text-align:left">match date</th>
-        <th style="text-align:left">league</th>
-        <th style="text-align:left">match</th>
-        ${marketCols.map(([, label]) => `<th>${label}</th>`).join('')}
+        ${headerCell('first_seen', 'first predicted', true)}
+        ${headerCell('match_date', 'match date', true)}
+        ${headerCell('league', 'league', true)}
+        ${headerCell('match', 'match', true)}
+        ${marketCols.map(([col, label]) => headerCell(col, label, false)).join('')}
       </tr></thead>
       <tbody>
         ${sortedPreds.map(p => {
           const displayDate = firstSeenOf(p);
-          const lowConf = isLowConf(p.ft_low_confidence) || isLowConf(p.ht_low_confidence);
+          const lowConf = rowIsLowConf(p);
           return `
           <tr>
             <td style="text-align:left">${displayDate}</td>
@@ -655,6 +738,31 @@ function renderPending() {
       </tbody>
     </table>
   `;
+
+  document.querySelectorAll('.sortable-th').forEach(th => {
+    th.addEventListener('click', () => {
+      const col = th.dataset.sortCol;
+      if (pendingSort.col === col) {
+        pendingSort.dir = pendingSort.dir === 'asc' ? 'desc' : 'asc';
+      } else {
+        // Sensible default direction per column type: dates/percentages
+        // start descending (newest / highest first), text starts ascending
+        pendingSort = { col, dir: numericCols.has(col) || col === 'first_seen' || col === 'match_date' ? 'desc' : 'asc' };
+      }
+      renderPending();
+    });
+  });
+  attachToggleHandler();
+
+  function attachToggleHandler() {
+    const cb = document.getElementById('hide-lowconf-checkbox');
+    if (cb) {
+      cb.addEventListener('change', () => {
+        pendingHideLowConf = cb.checked;
+        renderPending();
+      });
+    }
+  }
 }
 
 function renderAll(data) {
