@@ -39,7 +39,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-02",
     "ht_first_seen": "",
-    "match_date": ""
+    "match_date": "2026-09-16"
   },
   {
     "league": "Mexico Liga MX",
@@ -81,7 +81,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-02",
     "ht_first_seen": "",
-    "match_date": ""
+    "match_date": "2026-09-11"
   },
   {
     "league": "Argentina Primera Division",
@@ -102,7 +102,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-03",
     "ht_first_seen": "",
-    "match_date": ""
+    "match_date": "2026-09-08"
   },
   {
     "league": "National League North",
@@ -186,7 +186,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-03",
     "ht_first_seen": "",
-    "match_date": ""
+    "match_date": "2026-09-08"
   },
   {
     "league": "National League North",
@@ -564,7 +564,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-03",
     "ht_first_seen": "",
-    "match_date": ""
+    "match_date": "2026-09-08"
   },
   {
     "league": "Championship",
@@ -795,7 +795,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
     "ht_first_seen": "2026-09-04",
-    "match_date": ""
+    "match_date": "2026-09-15"
   },
   {
     "league": "Scottish Championship",
@@ -837,7 +837,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
     "ht_first_seen": "",
-    "match_date": ""
+    "match_date": "2026-09-15"
   },
   {
     "league": "National League South",
@@ -858,7 +858,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
     "ht_first_seen": "2026-09-04",
-    "match_date": ""
+    "match_date": "2026-09-15"
   },
   {
     "league": "National League",
@@ -879,7 +879,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
     "ht_first_seen": "2026-09-04",
-    "match_date": ""
+    "match_date": "2026-09-15"
   },
   {
     "league": "Scottish Premiership",
@@ -900,7 +900,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
     "ht_first_seen": "2026-09-04",
-    "match_date": ""
+    "match_date": "2026-09-15"
   },
   {
     "league": "Southern League South",
@@ -921,7 +921,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
     "ht_first_seen": "2026-09-04",
-    "match_date": ""
+    "match_date": "2026-09-22"
   },
   {
     "league": "Southern League South",
@@ -942,7 +942,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
     "ht_first_seen": "2026-09-04",
-    "match_date": ""
+    "match_date": "2026-09-22"
   },
   {
     "league": "Southern League South",
@@ -963,7 +963,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
     "ht_first_seen": "2026-09-04",
-    "match_date": ""
+    "match_date": "2026-09-22"
   },
   {
     "league": "Championship",
@@ -984,7 +984,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
     "ht_first_seen": "2026-09-04",
-    "match_date": ""
+    "match_date": "2026-09-15"
   },
   {
     "league": "Southern League South",
@@ -1005,7 +1005,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
     "ht_first_seen": "2026-09-04",
-    "match_date": ""
+    "match_date": "2026-09-15"
   },
   {
     "league": "Southern League South",
@@ -1026,7 +1026,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
     "ht_first_seen": "2026-09-04",
-    "match_date": ""
+    "match_date": "2026-09-22"
   },
   {
     "league": "Southern League South",
@@ -1047,7 +1047,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
     "ht_first_seen": "2026-09-04",
-    "match_date": ""
+    "match_date": "2026-09-22"
   },
   {
     "league": "Southern League South",
@@ -1068,7 +1068,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
     "ht_first_seen": "2026-09-04",
-    "match_date": ""
+    "match_date": "2026-09-22"
   },
   {
     "league": "Southern League Central",
@@ -1089,7 +1089,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
     "ht_first_seen": "2026-09-04",
-    "match_date": ""
+    "match_date": "2026-09-22"
   },
   {
     "league": "Southern League Central",
@@ -1110,7 +1110,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
     "ht_first_seen": "2026-09-04",
-    "match_date": ""
+    "match_date": "2026-09-22"
   },
   {
     "league": "Southern League Central",
@@ -1131,7 +1131,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
     "ht_first_seen": "2026-09-04",
-    "match_date": ""
+    "match_date": "2026-09-22"
   },
   {
     "league": "Southern League Central",
@@ -1152,7 +1152,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
     "ht_first_seen": "2026-09-04",
-    "match_date": ""
+    "match_date": "2026-09-22"
   },
   {
     "league": "Southern League Central",
@@ -1173,7 +1173,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
     "ht_first_seen": "2026-09-04",
-    "match_date": ""
+    "match_date": "2026-09-22"
   },
   {
     "league": "Southern League Central",
@@ -1194,7 +1194,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
     "ht_first_seen": "2026-09-04",
-    "match_date": ""
+    "match_date": "2026-09-22"
   },
   {
     "league": "La Liga",
@@ -1215,7 +1215,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
     "ht_first_seen": "2026-09-04",
-    "match_date": ""
+    "match_date": "2026-09-15"
   },
   {
     "league": "Southern League Central",
@@ -1236,7 +1236,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
     "ht_first_seen": "2026-09-04",
-    "match_date": ""
+    "match_date": "2026-09-22"
   },
   {
     "league": "Southern League Central",
@@ -1257,7 +1257,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
     "ht_first_seen": "2026-09-04",
-    "match_date": ""
+    "match_date": "2026-09-22"
   },
   {
     "league": "Southern League South",
@@ -1278,7 +1278,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
     "ht_first_seen": "2026-09-04",
-    "match_date": ""
+    "match_date": "2026-09-22"
   },
   {
     "league": "Southern League South",
@@ -1299,7 +1299,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
     "ht_first_seen": "2026-09-04",
-    "match_date": ""
+    "match_date": "2026-09-22"
   },
   {
     "league": "Championship",
@@ -1320,7 +1320,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
     "ht_first_seen": "2026-09-04",
-    "match_date": ""
+    "match_date": "2026-09-15"
   },
   {
     "league": "Argentina Primera Division",
@@ -1341,7 +1341,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
     "ht_first_seen": "",
-    "match_date": ""
+    "match_date": "2026-09-15"
   },
   {
     "league": "Argentina Primera Division",
@@ -1362,7 +1362,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
     "ht_first_seen": "",
-    "match_date": ""
+    "match_date": "2026-09-22"
   },
   {
     "league": "Argentina Primera Division",
@@ -1383,7 +1383,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
     "ht_first_seen": "",
-    "match_date": ""
+    "match_date": "2026-09-15"
   },
   {
     "league": "National League",
@@ -1404,7 +1404,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
     "ht_first_seen": "2026-09-04",
-    "match_date": ""
+    "match_date": "2026-09-15"
   },
   {
     "league": "Argentina Primera Division",
@@ -1425,7 +1425,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
     "ht_first_seen": "",
-    "match_date": ""
+    "match_date": "2026-09-22"
   },
   {
     "league": "National League",
@@ -1446,7 +1446,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
     "ht_first_seen": "2026-09-04",
-    "match_date": ""
+    "match_date": "2026-09-15"
   },
   {
     "league": "Brazil Serie A",
@@ -1467,7 +1467,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
     "ht_first_seen": "",
-    "match_date": ""
+    "match_date": "2026-09-15"
   },
   {
     "league": "National League",
@@ -1488,7 +1488,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
     "ht_first_seen": "2026-09-04",
-    "match_date": ""
+    "match_date": "2026-09-15"
   },
   {
     "league": "National League",
@@ -1509,7 +1509,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
     "ht_first_seen": "2026-09-04",
-    "match_date": ""
+    "match_date": "2026-09-15"
   },
   {
     "league": "National League",
@@ -1530,7 +1530,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
     "ht_first_seen": "2026-09-04",
-    "match_date": ""
+    "match_date": "2026-09-15"
   },
   {
     "league": "Switzerland Super League",
@@ -1551,7 +1551,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
     "ht_first_seen": "",
-    "match_date": ""
+    "match_date": "2026-09-15"
   },
   {
     "league": "National League",
@@ -1572,7 +1572,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
     "ht_first_seen": "2026-09-04",
-    "match_date": ""
+    "match_date": "2026-09-15"
   },
   {
     "league": "Southern League South",
@@ -1593,7 +1593,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
     "ht_first_seen": "2026-09-04",
-    "match_date": ""
+    "match_date": "2026-09-22"
   },
   {
     "league": "Southern League South",
@@ -1614,7 +1614,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
     "ht_first_seen": "2026-09-04",
-    "match_date": ""
+    "match_date": "2026-09-22"
   },
   {
     "league": "Southern League South",
@@ -1635,7 +1635,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
     "ht_first_seen": "2026-09-04",
-    "match_date": ""
+    "match_date": "2026-09-22"
   },
   {
     "league": "Southern League Central",
@@ -1656,7 +1656,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
     "ht_first_seen": "2026-09-04",
-    "match_date": ""
+    "match_date": "2026-09-22"
   },
   {
     "league": "National League",
@@ -1677,7 +1677,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
     "ht_first_seen": "2026-09-04",
-    "match_date": ""
+    "match_date": "2026-09-15"
   },
   {
     "league": "Southern League Central",
@@ -1698,7 +1698,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
     "ht_first_seen": "2026-09-04",
-    "match_date": ""
+    "match_date": "2026-09-22"
   },
   {
     "league": "Mexico Liga MX",
@@ -1719,7 +1719,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
     "ht_first_seen": "",
-    "match_date": ""
+    "match_date": "2026-09-15"
   },
   {
     "league": "Isthmian League",
@@ -1740,7 +1740,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
     "ht_first_seen": "2026-09-04",
-    "match_date": ""
+    "match_date": "2026-09-15"
   },
   {
     "league": "Isthmian League",
@@ -1761,7 +1761,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
     "ht_first_seen": "2026-09-04",
-    "match_date": ""
+    "match_date": "2026-09-15"
   },
   {
     "league": "Isthmian League",
@@ -1782,7 +1782,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
     "ht_first_seen": "2026-09-04",
-    "match_date": ""
+    "match_date": "2026-09-15"
   },
   {
     "league": "Isthmian League",
@@ -1803,7 +1803,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
     "ht_first_seen": "2026-09-04",
-    "match_date": ""
+    "match_date": "2026-09-15"
   },
   {
     "league": "Isthmian League",
@@ -1824,7 +1824,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
     "ht_first_seen": "2026-09-04",
-    "match_date": ""
+    "match_date": "2026-09-15"
   },
   {
     "league": "Isthmian League",
@@ -1845,7 +1845,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
     "ht_first_seen": "2026-09-04",
-    "match_date": ""
+    "match_date": "2026-09-15"
   },
   {
     "league": "La Liga",
@@ -1866,7 +1866,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
     "ht_first_seen": "2026-09-04",
-    "match_date": ""
+    "match_date": "2026-09-15"
   },
   {
     "league": "Isthmian League",
@@ -1887,7 +1887,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
     "ht_first_seen": "2026-09-04",
-    "match_date": ""
+    "match_date": "2026-09-15"
   },
   {
     "league": "Isthmian League",
@@ -1908,7 +1908,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
     "ht_first_seen": "2026-09-04",
-    "match_date": ""
+    "match_date": "2026-09-15"
   },
   {
     "league": "Scottish Premiership",
@@ -1929,7 +1929,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
     "ht_first_seen": "2026-09-04",
-    "match_date": ""
+    "match_date": "2026-09-15"
   },
   {
     "league": "National League",
@@ -1971,7 +1971,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
     "ht_first_seen": "2026-09-04",
-    "match_date": ""
+    "match_date": "2026-09-15"
   },
   {
     "league": "La Liga",
@@ -1992,7 +1992,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
     "ht_first_seen": "2026-09-04",
-    "match_date": ""
+    "match_date": "2026-09-15"
   },
   {
     "league": "Isthmian League",
@@ -2013,7 +2013,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
     "ht_first_seen": "2026-09-04",
-    "match_date": ""
+    "match_date": "2026-09-15"
   },
   {
     "league": "Isthmian League",
@@ -2034,7 +2034,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
     "ht_first_seen": "2026-09-04",
-    "match_date": ""
+    "match_date": "2026-09-15"
   },
   {
     "league": "Eredivisie",
@@ -2055,7 +2055,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-04",
     "ht_first_seen": "2026-09-04",
-    "match_date": ""
+    "match_date": "2026-09-15"
   },
   {
     "league": "National League",
@@ -2118,7 +2118,7 @@ const PENDING_PREDICTIONS = [
     "ht_low_confidence": "",
     "ft_first_seen": "2026-09-05",
     "ht_first_seen": "",
-    "match_date": ""
+    "match_date": "2026-09-06"
   },
   {
     "league": "Scottish Premiership",
