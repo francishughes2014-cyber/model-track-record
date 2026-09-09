@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T14:55:02.336199",
+  "generated_at": "2026-09-09T15:11:24.653633",
   "summary": {
     "total_settled_ft": 446,
     "total_settled_ht": 343,
@@ -107,34 +107,34 @@
               "gap_pts": 10.3
             },
             {
-              "n": 51,
-              "avg_predicted": 0.3599,
-              "observed_rate": 0.4314,
-              "gap_pts": 7.1
+              "n": 53,
+              "avg_predicted": 0.3612,
+              "observed_rate": 0.434,
+              "gap_pts": 7.3
             },
             {
-              "n": 87,
-              "avg_predicted": 0.4526,
-              "observed_rate": 0.5402,
-              "gap_pts": 8.8
+              "n": 86,
+              "avg_predicted": 0.4533,
+              "observed_rate": 0.5465,
+              "gap_pts": 9.3
             },
             {
-              "n": 108,
-              "avg_predicted": 0.5579,
-              "observed_rate": 0.6481,
-              "gap_pts": 9.0
+              "n": 111,
+              "avg_predicted": 0.5587,
+              "observed_rate": 0.6306,
+              "gap_pts": 7.2
             },
             {
-              "n": 154,
-              "avg_predicted": 0.6308,
-              "observed_rate": 0.5909,
-              "gap_pts": -4.0
+              "n": 150,
+              "avg_predicted": 0.6307,
+              "observed_rate": 0.6,
+              "gap_pts": -3.1
             },
             {
               "n": 24,
-              "avg_predicted": 0.7328,
+              "avg_predicted": 0.7341,
               "observed_rate": 0.75,
-              "gap_pts": 1.7
+              "gap_pts": 1.6
             },
             {
               "n": 4,
@@ -632,28 +632,28 @@
               "gap_pts": 18.2
             },
             {
-              "n": 34,
-              "avg_predicted": 0.3585,
-              "observed_rate": 0.5294,
-              "gap_pts": 17.1
+              "n": 36,
+              "avg_predicted": 0.3605,
+              "observed_rate": 0.5278,
+              "gap_pts": 16.7
             },
             {
-              "n": 60,
-              "avg_predicted": 0.4472,
+              "n": 58,
+              "avg_predicted": 0.4481,
               "observed_rate": 0.5,
-              "gap_pts": 5.3
+              "gap_pts": 5.2
             },
             {
-              "n": 66,
-              "avg_predicted": 0.5559,
-              "observed_rate": 0.6515,
-              "gap_pts": 9.6
+              "n": 68,
+              "avg_predicted": 0.5565,
+              "observed_rate": 0.6471,
+              "gap_pts": 9.1
             },
             {
-              "n": 74,
-              "avg_predicted": 0.628,
-              "observed_rate": 0.6351,
-              "gap_pts": 0.7
+              "n": 72,
+              "avg_predicted": 0.6287,
+              "observed_rate": 0.6389,
+              "gap_pts": 1.0
             },
             {
               "n": 16,
@@ -1109,28 +1109,28 @@
               "gap_pts": -34.6
             },
             {
+              "n": 8,
+              "avg_predicted": 0.4628,
+              "observed_rate": 0.75,
+              "gap_pts": 28.7
+            },
+            {
               "n": 7,
-              "avg_predicted": 0.4654,
-              "observed_rate": 0.7143,
-              "gap_pts": 24.9
+              "avg_predicted": 0.5605,
+              "observed_rate": 0.5714,
+              "gap_pts": 1.1
             },
             {
-              "n": 6,
-              "avg_predicted": 0.5521,
-              "observed_rate": 0.8333,
-              "gap_pts": 28.1
-            },
-            {
-              "n": 21,
-              "avg_predicted": 0.6369,
-              "observed_rate": 0.5238,
-              "gap_pts": -11.3
+              "n": 19,
+              "avg_predicted": 0.6331,
+              "observed_rate": 0.5789,
+              "gap_pts": -5.4
             },
             {
               "n": 3,
-              "avg_predicted": 0.7304,
+              "avg_predicted": 0.7405,
               "observed_rate": 1.0,
-              "gap_pts": 27.0
+              "gap_pts": 25.9
             }
           ]
         },

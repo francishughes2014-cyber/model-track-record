@@ -1645,7 +1645,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "1-2",
     "over25": {
-      "pred": 0.4547,
+      "pred": 0.4428,
       "hit": false,
       "label": "O 2.5"
     },
@@ -1723,7 +1723,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "0-1",
     "over25": {
-      "pred": 0.3436,
+      "pred": 0.3367,
       "hit": true,
       "label": "O 2.5"
     },
@@ -1801,7 +1801,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "2-1",
     "over25": {
-      "pred": 0.4117,
+      "pred": 0.3998,
       "hit": false,
       "label": "O 2.5"
     },
@@ -1879,7 +1879,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "2-2",
     "over25": {
-      "pred": 0.562,
+      "pred": 0.5523,
       "hit": true,
       "label": "O 2.5"
     },
@@ -1957,7 +1957,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "1-0",
     "over25": {
-      "pred": 0.4064,
+      "pred": 0.3948,
       "hit": true,
       "label": "O 2.5"
     },
@@ -1986,7 +1986,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "0-3",
     "over25": {
-      "pred": 0.5191,
+      "pred": 0.5085,
       "hit": true,
       "label": "O 2.5"
     },
@@ -2064,7 +2064,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "3-1",
     "over25": {
-      "pred": 0.5528,
+      "pred": 0.5429,
       "hit": true,
       "label": "O 2.5"
     },
@@ -2142,7 +2142,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "4-1",
     "over25": {
-      "pred": 0.4839,
+      "pred": 0.4726,
       "hit": false,
       "label": "O 2.5"
     },
@@ -2367,7 +2367,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "5-1",
     "over25": {
-      "pred": 0.6031,
+      "pred": 0.6057,
       "hit": true,
       "label": "O 2.5"
     },
@@ -2592,7 +2592,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "1-1",
     "over25": {
-      "pred": 0.6013,
+      "pred": 0.5916,
       "hit": false,
       "label": "O 2.5"
     },
@@ -2719,7 +2719,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "4-1",
     "over25": {
-      "pred": 0.6028,
+      "pred": 0.6038,
       "hit": true,
       "label": "O 2.5"
     },
@@ -2748,7 +2748,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "1-2",
     "over25": {
-      "pred": 0.6019,
+      "pred": 0.5965,
       "hit": true,
       "label": "O 2.5"
     },
@@ -8930,7 +8930,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "3-1",
     "over25": {
-      "pred": 0.6966,
+      "pred": 0.6969,
       "hit": true,
       "label": "O 2.5"
     },
@@ -9003,7 +9003,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "2-1",
     "over25": {
-      "pred": 0.5778,
+      "pred": 0.5373,
       "hit": true,
       "label": "O 2.5"
     },
@@ -9076,8 +9076,8 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "1-2",
     "over25": {
-      "pred": 0.5162,
-      "hit": true,
+      "pred": 0.4788,
+      "hit": false,
       "label": "O 2.5"
     },
     "home": {
@@ -9149,7 +9149,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "2-0",
     "over25": {
-      "pred": 0.6314,
+      "pred": 0.6022,
       "hit": false,
       "label": "O 2.5"
     },
@@ -9271,7 +9271,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "0-1",
     "over25": {
-      "pred": 0.6278,
+      "pred": 0.5982,
       "hit": false,
       "label": "O 2.5"
     },
@@ -9295,7 +9295,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "0-1",
     "over25": {
-      "pred": 0.6112,
+      "pred": 0.5691,
       "hit": false,
       "label": "O 2.5"
     },
@@ -9417,7 +9417,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "1-0",
     "over25": {
-      "pred": 0.6386,
+      "pred": 0.6101,
       "hit": false,
       "label": "O 2.5"
     },
@@ -9490,7 +9490,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "3-1",
     "over25": {
-      "pred": 0.6647,
+      "pred": 0.644,
       "hit": true,
       "label": "O 2.5"
     },
@@ -9514,7 +9514,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "1-3",
     "over25": {
-      "pred": 0.4594,
+      "pred": 0.4248,
       "hit": false,
       "label": "O 2.5"
     },
@@ -9636,7 +9636,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "3-2",
     "over25": {
-      "pred": 0.7421,
+      "pred": 0.7725,
       "hit": true,
       "label": "O 2.5"
     },
@@ -9660,7 +9660,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "1-1",
     "over25": {
-      "pred": 0.6346,
+      "pred": 0.6057,
       "hit": false,
       "label": "O 2.5"
     },
