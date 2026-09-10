@@ -442,7 +442,8 @@ const TIER_ORDER = [
 const MARKET_ORDER = [
   "Over 1.5", "Over 2.5", "Over 3.5",
   "Home Win", "Draw", "Away Win",
-  "BTTS Yes", "BTTS & Over 2.5", "HT Over 1.5"
+  "BTTS Yes", "BTTS & Over 2.5", "BTTS & Home Win", "BTTS & Draw", "BTTS & Away Win",
+  "HT Over 1.5"
 ];
 
 let currentTier = "All leagues combined";
@@ -643,6 +644,8 @@ function renderPending() {
     ['model_prob_over15', 'O 1.5'], ['model_prob_over', 'O 2.5'], ['model_prob_over35', 'O 3.5'],
     ['model_prob_home', 'Home'], ['model_prob_draw', 'Draw'], ['model_prob_away', 'Away'],
     ['model_prob_btts_yes', 'BTTS'], ['model_prob_btts_over25', 'BTTS+O2.5'],
+    ['model_prob_btts_home', 'BTTS+Home'], ['model_prob_btts_draw', 'BTTS+Draw'],
+    ['model_prob_btts_away', 'BTTS+Away'],
     ['model_prob_ht_over15', 'HT O1.5'],
   ];
 
@@ -790,10 +793,13 @@ function renderRecentResults() {
   const marketKeys = [
     ['over15', 'binary'], ['over25', 'binary'], ['over35', 'binary'],
     ['home', '1x2'], ['draw', '1x2'], ['away', '1x2'],
-    ['btts', 'binary'], ['btts_over25', 'binary'], ['ht_over15', 'binary'],
+    ['btts', 'binary'], ['btts_over25', 'binary'],
+    ['btts_home', 'binary'], ['btts_draw', 'binary'], ['btts_away', 'binary'],
+    ['ht_over15', 'binary'],
   ];
   const labels = { over15: 'O 1.5', over25: 'O 2.5', over35: 'O 3.5', home: 'Home',
                     draw: 'Draw', away: 'Away', btts: 'BTTS', btts_over25: 'BTTS+O2.5',
+                    btts_home: 'BTTS+Home', btts_draw: 'BTTS+Draw', btts_away: 'BTTS+Away',
                     ht_over15: 'HT O1.5' };
 
   const sorted = [...results].sort((a, b) => (b.match_date || '').localeCompare(a.match_date || ''));
