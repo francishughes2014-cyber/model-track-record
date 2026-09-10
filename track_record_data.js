@@ -1,5 +1,5 @@
 const TRACK_RECORD_DATA = {
-  "generated_at": "2026-09-10T20:56:57.625936",
+  "generated_at": "2026-09-10T21:04:32.787944",
   "summary": {
     "total_settled_ft": 466,
     "total_settled_ht": 350,
@@ -106,39 +106,39 @@ const TRACK_RECORD_DATA = {
             },
             {
               "n": 48,
-              "avg_predicted": 0.4052,
+              "avg_predicted": 0.4045,
               "observed_rate": 0.4792,
-              "gap_pts": 7.4
+              "gap_pts": 7.5
             },
             {
               "n": 45,
-              "avg_predicted": 0.4592,
+              "avg_predicted": 0.459,
               "observed_rate": 0.4667,
-              "gap_pts": 0.7
+              "gap_pts": 0.8
             },
             {
               "n": 47,
-              "avg_predicted": 0.5045,
+              "avg_predicted": 0.5044,
               "observed_rate": 0.766,
-              "gap_pts": 26.1
+              "gap_pts": 26.2
             },
             {
               "n": 46,
-              "avg_predicted": 0.5535,
+              "avg_predicted": 0.5536,
               "observed_rate": 0.6087,
               "gap_pts": 5.5
             },
             {
-              "n": 48,
-              "avg_predicted": 0.5921,
-              "observed_rate": 0.6458,
-              "gap_pts": 5.4
+              "n": 47,
+              "avg_predicted": 0.5926,
+              "observed_rate": 0.6383,
+              "gap_pts": 4.6
             },
             {
-              "n": 45,
-              "avg_predicted": 0.6046,
-              "observed_rate": 0.6222,
-              "gap_pts": 1.8
+              "n": 46,
+              "avg_predicted": 0.6047,
+              "observed_rate": 0.6304,
+              "gap_pts": 2.6
             },
             {
               "n": 47,
@@ -718,21 +718,21 @@ const TRACK_RECORD_DATA = {
             },
             {
               "n": 27,
-              "avg_predicted": 0.3888,
-              "observed_rate": 0.3704,
-              "gap_pts": -1.8
+              "avg_predicted": 0.388,
+              "observed_rate": 0.4074,
+              "gap_pts": 1.9
             },
             {
               "n": 28,
-              "avg_predicted": 0.4324,
-              "observed_rate": 0.5357,
-              "gap_pts": 10.3
+              "avg_predicted": 0.4318,
+              "observed_rate": 0.4643,
+              "gap_pts": 3.2
             },
             {
               "n": 27,
-              "avg_predicted": 0.4779,
-              "observed_rate": 0.5556,
-              "gap_pts": 7.8
+              "avg_predicted": 0.4775,
+              "observed_rate": 0.5926,
+              "gap_pts": 11.5
             },
             {
               "n": 28,
@@ -742,21 +742,21 @@ const TRACK_RECORD_DATA = {
             },
             {
               "n": 27,
-              "avg_predicted": 0.5714,
-              "observed_rate": 0.6296,
-              "gap_pts": 5.8
+              "avg_predicted": 0.572,
+              "observed_rate": 0.5556,
+              "gap_pts": -1.6
             },
             {
               "n": 27,
-              "avg_predicted": 0.5992,
-              "observed_rate": 0.7037,
-              "gap_pts": 10.5
+              "avg_predicted": 0.6001,
+              "observed_rate": 0.7778,
+              "gap_pts": 17.8
             },
             {
               "n": 28,
-              "avg_predicted": 0.6142,
+              "avg_predicted": 0.6143,
               "observed_rate": 0.5357,
-              "gap_pts": -7.8
+              "gap_pts": -7.9
             },
             {
               "n": 28,
