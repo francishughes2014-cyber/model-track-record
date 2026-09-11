@@ -21,7 +21,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "Mexico Liga MX",
@@ -45,7 +46,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-16",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "Mexico Liga MX",
@@ -69,7 +71,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "Mexico Liga MX",
@@ -93,7 +96,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-11",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "League One",
@@ -117,7 +121,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "National League South",
@@ -141,7 +146,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-15",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "Poland Ekstraklasa",
@@ -165,7 +171,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-15",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "National League South",
@@ -189,7 +196,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-15",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "National League",
@@ -213,7 +221,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-15",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "Scottish Premiership",
@@ -237,7 +246,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-15",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "Southern League South",
@@ -261,7 +271,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-22",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "Southern League South",
@@ -285,7 +296,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-22",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "Southern League South",
@@ -309,7 +321,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-22",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "Championship",
@@ -333,7 +346,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-15",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "Southern League South",
@@ -357,7 +371,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-15",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "Southern League South",
@@ -381,7 +396,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-22",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "Southern League South",
@@ -405,7 +421,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-22",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "Southern League South",
@@ -429,7 +446,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-22",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "Southern League Central",
@@ -453,7 +471,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-22",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "Southern League Central",
@@ -477,7 +496,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-22",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "Southern League Central",
@@ -501,7 +521,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-22",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "Southern League Central",
@@ -525,7 +546,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-22",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "Southern League Central",
@@ -549,7 +571,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-22",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "Southern League Central",
@@ -573,7 +596,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-22",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "La Liga",
@@ -597,7 +621,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-15",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "Southern League Central",
@@ -621,7 +646,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-22",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "Southern League Central",
@@ -645,7 +671,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-22",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "Southern League South",
@@ -669,7 +696,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-22",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "Southern League South",
@@ -693,7 +721,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-22",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "Championship",
@@ -717,7 +746,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-15",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "Argentina Primera Division",
@@ -741,7 +771,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-15",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "Argentina Primera Division",
@@ -765,7 +796,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-22",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "Argentina Primera Division",
@@ -789,7 +821,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-15",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "National League",
@@ -813,7 +846,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-15",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "Argentina Primera Division",
@@ -837,7 +871,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-22",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "National League",
@@ -861,7 +896,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-15",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "Brazil Serie A",
@@ -885,7 +921,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-15",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "National League",
@@ -909,7 +946,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-15",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "National League",
@@ -933,7 +971,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-15",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "National League",
@@ -957,7 +996,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-15",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "Switzerland Super League",
@@ -981,7 +1021,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-15",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "National League",
@@ -1005,7 +1046,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-15",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "Southern League South",
@@ -1029,7 +1071,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-22",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "Southern League South",
@@ -1053,7 +1096,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-22",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "Southern League South",
@@ -1077,7 +1121,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-22",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "Southern League Central",
@@ -1101,7 +1146,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-22",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "National League",
@@ -1125,7 +1171,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-15",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "Southern League Central",
@@ -1149,7 +1196,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-22",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "Mexico Liga MX",
@@ -1173,7 +1221,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-15",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "Isthmian League",
@@ -1197,7 +1246,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-15",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "Isthmian League",
@@ -1221,7 +1271,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-15",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "Isthmian League",
@@ -1245,7 +1296,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-15",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "Isthmian League",
@@ -1269,7 +1321,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-15",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "Isthmian League",
@@ -1293,7 +1346,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-15",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "Isthmian League",
@@ -1317,7 +1371,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-15",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "La Liga",
@@ -1341,7 +1396,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-15",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "Isthmian League",
@@ -1365,7 +1421,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-15",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "Isthmian League",
@@ -1389,7 +1446,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-15",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "Scottish Premiership",
@@ -1413,7 +1471,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-15",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "National League",
@@ -1437,7 +1496,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-15",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "La Liga",
@@ -1461,7 +1521,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-15",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "Isthmian League",
@@ -1485,7 +1546,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-15",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "Isthmian League",
@@ -1509,7 +1571,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-15",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "Eredivisie",
@@ -1533,7 +1596,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-15",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "USA MLS",
@@ -1557,7 +1621,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-06",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "Bundesliga 2",
@@ -1581,31 +1646,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-11",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
-  },
-  {
-    "league": "National League",
-    "home_team": "Kidderminster",
-    "away_team": "Hartlepool",
-    "ft_date_logged": "2026-09-09",
-    "model_prob_over15": 0.7244,
-    "model_prob_over": 0.3806,
-    "model_prob_over35": 0.3476,
-    "model_prob_home": 0.3719,
-    "model_prob_draw": 0.3194,
-    "model_prob_away": 0.3087,
-    "model_prob_btts_yes": 0.5064,
-    "model_prob_btts_over25": 0.3358,
-    "ft_low_confidence": false,
-    "ht_date_logged": "2026-09-09",
-    "model_prob_ht_over15": 0.3145,
-    "ht_low_confidence": false,
-    "ft_first_seen": "2026-09-09",
-    "ht_first_seen": "2026-09-09",
-    "match_date": "2026-09-11",
-    "model_prob_btts_home": "",
-    "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "Bundesliga 2",
@@ -1629,151 +1671,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-11",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
-  },
-  {
-    "league": "Bundesliga",
-    "home_team": "Union Berlin",
-    "away_team": "Schalke 04",
-    "ft_date_logged": "2026-09-09",
-    "model_prob_over15": 0.4378,
-    "model_prob_over": 0.2928,
-    "model_prob_over35": 0.0611,
-    "model_prob_home": 0.4244,
-    "model_prob_draw": 0.3391,
-    "model_prob_away": 0.2365,
-    "model_prob_btts_yes": 0.2551,
-    "model_prob_btts_over25": 0.1338,
-    "ft_low_confidence": true,
-    "ht_date_logged": "2026-09-09",
-    "model_prob_ht_over15": 0.3018,
-    "ht_low_confidence": true,
-    "ft_first_seen": "2026-09-09",
-    "ht_first_seen": "2026-09-09",
-    "match_date": "2026-09-11",
-    "model_prob_btts_home": "",
-    "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
-  },
-  {
-    "league": "Ligue 2",
-    "home_team": "Rodez",
-    "away_team": "Grenoble",
-    "ft_date_logged": "2026-09-09",
-    "model_prob_over15": 0.7353,
-    "model_prob_over": 0.4083,
-    "model_prob_over35": 0.3497,
-    "model_prob_home": 0.4824,
-    "model_prob_draw": 0.2966,
-    "model_prob_away": 0.221,
-    "model_prob_btts_yes": 0.5038,
-    "model_prob_btts_over25": 0.3427,
-    "ft_low_confidence": false,
-    "ht_date_logged": "2026-09-09",
-    "model_prob_ht_over15": 0.3205,
-    "ht_low_confidence": false,
-    "ft_first_seen": "2026-09-09",
-    "ht_first_seen": "2026-09-09",
-    "match_date": "2026-09-11",
-    "model_prob_btts_home": "",
-    "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
-  },
-  {
-    "league": "Ligue 1",
-    "home_team": "Rennes",
-    "away_team": "Marseille",
-    "ft_date_logged": "2026-09-09",
-    "model_prob_over15": 0.8999,
-    "model_prob_over": 0.764,
-    "model_prob_over35": 0.3731,
-    "model_prob_home": 0.5837,
-    "model_prob_draw": 0.1913,
-    "model_prob_away": 0.225,
-    "model_prob_btts_yes": 0.6651,
-    "model_prob_btts_over25": 0.6514,
-    "ft_low_confidence": false,
-    "ht_date_logged": "2026-09-09",
-    "model_prob_ht_over15": 0.3953,
-    "ht_low_confidence": false,
-    "ft_first_seen": "2026-09-09",
-    "ht_first_seen": "2026-09-09",
-    "match_date": "2026-09-11",
-    "model_prob_btts_home": "",
-    "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
-  },
-  {
-    "league": "Ligue 2",
-    "home_team": "Clermont",
-    "away_team": "Boulogne",
-    "ft_date_logged": "2026-09-09",
-    "model_prob_over15": 0.4887,
-    "model_prob_over": 0.3234,
-    "model_prob_over35": 0.0841,
-    "model_prob_home": 0.3514,
-    "model_prob_draw": 0.3168,
-    "model_prob_away": 0.3317,
-    "model_prob_btts_yes": 0.3139,
-    "model_prob_btts_over25": 0.2761,
-    "ft_low_confidence": false,
-    "ht_date_logged": "2026-09-09",
-    "model_prob_ht_over15": 0.2661,
-    "ht_low_confidence": false,
-    "ft_first_seen": "2026-09-09",
-    "ht_first_seen": "2026-09-09",
-    "match_date": "2026-09-11",
-    "model_prob_btts_home": "",
-    "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
-  },
-  {
-    "league": "Ligue 2",
-    "home_team": "Dijon",
-    "away_team": "Laval",
-    "ft_date_logged": "2026-09-09",
-    "model_prob_over15": 0.7383,
-    "model_prob_over": 0.4194,
-    "model_prob_over35": 0.3503,
-    "model_prob_home": 0.3527,
-    "model_prob_draw": 0.3071,
-    "model_prob_away": 0.3402,
-    "model_prob_btts_yes": 0.5218,
-    "model_prob_btts_over25": 0.3714,
-    "ft_low_confidence": true,
-    "ht_date_logged": "2026-09-09",
-    "model_prob_ht_over15": 0.0909,
-    "ht_low_confidence": true,
-    "ft_first_seen": "2026-09-09",
-    "ht_first_seen": "2026-09-09",
-    "match_date": "2026-09-11",
-    "model_prob_btts_home": "",
-    "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
-  },
-  {
-    "league": "Ligue 2",
-    "home_team": "Nancy",
-    "away_team": "Reims",
-    "ft_date_logged": "2026-09-09",
-    "model_prob_over15": 0.7884,
-    "model_prob_over": 0.5952,
-    "model_prob_over35": 0.3631,
-    "model_prob_home": 0.3158,
-    "model_prob_draw": 0.2306,
-    "model_prob_away": 0.4537,
-    "model_prob_btts_yes": 0.5597,
-    "model_prob_btts_over25": 0.4467,
-    "ft_low_confidence": false,
-    "ht_date_logged": "2026-09-09",
-    "model_prob_ht_over15": 0.3996,
-    "ht_low_confidence": false,
-    "ft_first_seen": "2026-09-09",
-    "ht_first_seen": "2026-09-09",
-    "match_date": "2026-09-11",
-    "model_prob_btts_home": "",
-    "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "Championship",
@@ -1797,7 +1696,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-11",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "La Liga 2",
@@ -1821,31 +1721,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-11",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
-  },
-  {
-    "league": "La Liga",
-    "home_team": "Sevilla",
-    "away_team": "Valencia",
-    "ft_date_logged": "2026-09-09",
-    "model_prob_over15": 0.7727,
-    "model_prob_over": 0.5671,
-    "model_prob_over35": 0.3593,
-    "model_prob_home": 0.528,
-    "model_prob_draw": 0.2496,
-    "model_prob_away": 0.2224,
-    "model_prob_btts_yes": 0.5462,
-    "model_prob_btts_over25": 0.4218,
-    "ft_low_confidence": false,
-    "ht_date_logged": "2026-09-09",
-    "model_prob_ht_over15": 0.3221,
-    "ht_low_confidence": false,
-    "ft_first_seen": "2026-09-09",
-    "ht_first_seen": "2026-09-09",
-    "match_date": "2026-09-11",
-    "model_prob_btts_home": "",
-    "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "Eredivisie",
@@ -1869,7 +1746,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-11",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "Jupiler League",
@@ -1893,7 +1771,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-11",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "Serie B",
@@ -1917,31 +1796,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-11",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
-  },
-  {
-    "league": "Serie A",
-    "home_team": "Venezia",
-    "away_team": "Fiorentina",
-    "ft_date_logged": "2026-09-09",
-    "model_prob_over15": 0.491,
-    "model_prob_over": 0.3247,
-    "model_prob_over35": 0.0852,
-    "model_prob_home": 0.3507,
-    "model_prob_draw": 0.3159,
-    "model_prob_away": 0.3334,
-    "model_prob_btts_yes": 0.3156,
-    "model_prob_btts_over25": 0.2775,
-    "ft_low_confidence": false,
-    "ht_date_logged": "2026-09-09",
-    "model_prob_ht_over15": 0.2899,
-    "ht_low_confidence": false,
-    "ft_first_seen": "2026-09-09",
-    "ht_first_seen": "2026-09-09",
-    "match_date": "2026-09-11",
-    "model_prob_btts_home": "",
-    "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "Serie B",
@@ -1965,7 +1821,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-11",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "Ligi 1",
@@ -1989,7 +1846,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-11",
     "model_prob_btts_home": "",
     "model_prob_btts_draw": "",
-    "model_prob_btts_away": ""
+    "model_prob_btts_away": "",
+    "kickoff_utc": ""
   },
   {
     "league": "Premier League",
@@ -2013,7 +1871,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.0889,
     "model_prob_btts_draw": 0.1756,
-    "model_prob_btts_away": 0.0929
+    "model_prob_btts_away": 0.0929,
+    "kickoff_utc": "2026-09-12T14:00:00+00:00"
   },
   {
     "league": "Scottish League One",
@@ -2037,7 +1896,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1904,
     "model_prob_btts_draw": 0.205,
-    "model_prob_btts_away": 0.2087
+    "model_prob_btts_away": 0.2087,
+    "kickoff_utc": ""
   },
   {
     "league": "Championship",
@@ -2061,7 +1921,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.0865,
     "model_prob_btts_draw": 0.1757,
-    "model_prob_btts_away": 0.1431
+    "model_prob_btts_away": 0.1431,
+    "kickoff_utc": "2026-09-12T14:00:00+00:00"
   },
   {
     "league": "Championship",
@@ -2085,7 +1946,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2176,
     "model_prob_btts_draw": 0.1966,
-    "model_prob_btts_away": 0.1619
+    "model_prob_btts_away": 0.1619,
+    "kickoff_utc": "2026-09-12T14:00:00+00:00"
   },
   {
     "league": "Bundesliga 2",
@@ -2109,7 +1971,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.1413,
     "model_prob_btts_draw": 0.1854,
-    "model_prob_btts_away": 0.2666
+    "model_prob_btts_away": 0.2666,
+    "kickoff_utc": ""
   },
   {
     "league": "Championship",
@@ -2133,7 +1996,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1491,
     "model_prob_btts_draw": 0.1906,
-    "model_prob_btts_away": 0.1321
+    "model_prob_btts_away": 0.1321,
+    "kickoff_utc": "2026-09-12T11:30:00+00:00"
   },
   {
     "league": "Championship",
@@ -2157,7 +2021,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1239,
     "model_prob_btts_draw": 0.1856,
-    "model_prob_btts_away": 0.1242
+    "model_prob_btts_away": 0.1242,
+    "kickoff_utc": "2026-09-12T14:00:00+00:00"
   },
   {
     "league": "Scottish League Two",
@@ -2181,7 +2046,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1897,
     "model_prob_btts_draw": 0.1795,
-    "model_prob_btts_away": 0.0966
+    "model_prob_btts_away": 0.0966,
+    "kickoff_utc": ""
   },
   {
     "league": "Premier League",
@@ -2205,7 +2071,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2957,
     "model_prob_btts_draw": 0.1956,
-    "model_prob_btts_away": 0.1787
+    "model_prob_btts_away": 0.1787,
+    "kickoff_utc": "2026-09-12T14:00:00+00:00"
   },
   {
     "league": "Scottish League Two",
@@ -2229,7 +2096,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.3154,
     "model_prob_btts_draw": 0.1776,
-    "model_prob_btts_away": 0.1303
+    "model_prob_btts_away": 0.1303,
+    "kickoff_utc": ""
   },
   {
     "league": "Premier League",
@@ -2253,7 +2121,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.0687,
     "model_prob_btts_draw": 0.1501,
-    "model_prob_btts_away": 0.0526
+    "model_prob_btts_away": 0.0526,
+    "kickoff_utc": "2026-09-12T14:00:00+00:00"
   },
   {
     "league": "Premier League",
@@ -2277,7 +2146,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.069,
     "model_prob_btts_draw": 0.1676,
-    "model_prob_btts_away": 0.1948
+    "model_prob_btts_away": 0.1948,
+    "kickoff_utc": ""
   },
   {
     "league": "Scottish League One",
@@ -2301,7 +2171,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.3134,
     "model_prob_btts_draw": 0.1777,
-    "model_prob_btts_away": 0.1172
+    "model_prob_btts_away": 0.1172,
+    "kickoff_utc": ""
   },
   {
     "league": "Premier League",
@@ -2325,7 +2196,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2175,
     "model_prob_btts_draw": 0.1776,
-    "model_prob_btts_away": 0.0872
+    "model_prob_btts_away": 0.0872,
+    "kickoff_utc": "2026-09-12T14:00:00+00:00"
   },
   {
     "league": "Championship",
@@ -2349,7 +2221,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1724,
     "model_prob_btts_draw": 0.1799,
-    "model_prob_btts_away": 0.0954
+    "model_prob_btts_away": 0.0954,
+    "kickoff_utc": "2026-09-12T11:30:00+00:00"
   },
   {
     "league": "Premier League",
@@ -2373,7 +2246,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1263,
     "model_prob_btts_draw": 0.1965,
-    "model_prob_btts_away": 0.168
+    "model_prob_btts_away": 0.168,
+    "kickoff_utc": "2026-09-12T19:00:00+00:00"
   },
   {
     "league": "Premier League",
@@ -2397,7 +2271,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1099,
     "model_prob_btts_draw": 0.1913,
-    "model_prob_btts_away": 0.1515
+    "model_prob_btts_away": 0.1515,
+    "kickoff_utc": "2026-09-12T16:30:00+00:00"
   },
   {
     "league": "Bundesliga 2",
@@ -2421,7 +2296,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2205,
     "model_prob_btts_draw": 0.1783,
-    "model_prob_btts_away": 0.1059
+    "model_prob_btts_away": 0.1059,
+    "kickoff_utc": "2026-09-12T11:00:00+00:00"
   },
   {
     "league": "Bundesliga 2",
@@ -2445,7 +2321,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2589,
     "model_prob_btts_draw": 0.1951,
-    "model_prob_btts_away": 0.21
+    "model_prob_btts_away": 0.21,
+    "kickoff_utc": "2026-09-12T18:30:00+00:00"
   },
   {
     "league": "Premier League",
@@ -2469,7 +2346,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.267,
     "model_prob_btts_draw": 0.1673,
-    "model_prob_btts_away": 0.0831
+    "model_prob_btts_away": 0.0831,
+    "kickoff_utc": "2026-09-12T14:00:00+00:00"
   },
   {
     "league": "Premier League",
@@ -2493,7 +2371,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.2157,
     "model_prob_btts_draw": 0.1986,
-    "model_prob_btts_away": 0.2902
+    "model_prob_btts_away": 0.2902,
+    "kickoff_utc": ""
   },
   {
     "league": "League One",
@@ -2517,7 +2396,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2272,
     "model_prob_btts_draw": 0.1785,
-    "model_prob_btts_away": 0.1193
+    "model_prob_btts_away": 0.1193,
+    "kickoff_utc": "2026-09-12T14:00:00+00:00"
   },
   {
     "league": "Serie A",
@@ -2541,7 +2421,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1897,
     "model_prob_btts_draw": 0.1353,
-    "model_prob_btts_away": 0.0458
+    "model_prob_btts_away": 0.0458,
+    "kickoff_utc": "2026-09-12T18:45:00+00:00"
   },
   {
     "league": "Argentina Primera Division",
@@ -2565,7 +2446,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.1558,
     "model_prob_btts_draw": 0.1944,
-    "model_prob_btts_away": 0.1256
+    "model_prob_btts_away": 0.1256,
+    "kickoff_utc": ""
   },
   {
     "league": "Argentina Primera Division",
@@ -2589,7 +2471,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.1227,
     "model_prob_btts_draw": 0.1885,
-    "model_prob_btts_away": 0.116
+    "model_prob_btts_away": 0.116,
+    "kickoff_utc": ""
   },
   {
     "league": "Switzerland Super League",
@@ -2613,7 +2496,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.2017,
     "model_prob_btts_draw": 0.1948,
-    "model_prob_btts_away": 0.2738
+    "model_prob_btts_away": 0.2738,
+    "kickoff_utc": ""
   },
   {
     "league": "Austria Bundesliga",
@@ -2637,7 +2521,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.3509,
     "model_prob_btts_draw": 0.1878,
-    "model_prob_btts_away": 0.2018
+    "model_prob_btts_away": 0.2018,
+    "kickoff_utc": ""
   },
   {
     "league": "Austria Bundesliga",
@@ -2661,7 +2546,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.121,
     "model_prob_btts_draw": 0.1838,
-    "model_prob_btts_away": 0.098
+    "model_prob_btts_away": 0.098,
+    "kickoff_utc": ""
   },
   {
     "league": "Austria Bundesliga",
@@ -2685,7 +2571,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1974,
     "model_prob_btts_draw": 0.2002,
-    "model_prob_btts_away": 0.1489
+    "model_prob_btts_away": 0.1489,
+    "kickoff_utc": "2026-09-12T17:30:00+00:00"
   },
   {
     "league": "Switzerland Super League",
@@ -2709,7 +2596,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.213,
     "model_prob_btts_draw": 0.1637,
-    "model_prob_btts_away": 0.0755
+    "model_prob_btts_away": 0.0755,
+    "kickoff_utc": "2026-09-12T16:00:00+00:00"
   },
   {
     "league": "Switzerland Super League",
@@ -2733,7 +2621,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1939,
     "model_prob_btts_draw": 0.1963,
-    "model_prob_btts_away": 0.1673
+    "model_prob_btts_away": 0.1673,
+    "kickoff_utc": "2026-09-12T16:00:00+00:00"
   },
   {
     "league": "Brazil Serie A",
@@ -2757,7 +2646,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1838,
     "model_prob_btts_draw": 0.1847,
-    "model_prob_btts_away": 0.1182
+    "model_prob_btts_away": 0.1182,
+    "kickoff_utc": "2026-09-12T19:00:00+00:00"
   },
   {
     "league": "Brazil Serie A",
@@ -2781,7 +2671,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.2456,
     "model_prob_btts_draw": 0.1738,
-    "model_prob_btts_away": 0.1022
+    "model_prob_btts_away": 0.1022,
+    "kickoff_utc": ""
   },
   {
     "league": "Switzerland Super League",
@@ -2805,7 +2696,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.2395,
     "model_prob_btts_draw": 0.1958,
-    "model_prob_btts_away": 0.1765
+    "model_prob_btts_away": 0.1765,
+    "kickoff_utc": ""
   },
   {
     "league": "Switzerland Super League",
@@ -2829,7 +2721,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2824,
     "model_prob_btts_draw": 0.1945,
-    "model_prob_btts_away": 0.2216
+    "model_prob_btts_away": 0.2216,
+    "kickoff_utc": "2026-09-12T17:00:00+00:00"
   },
   {
     "league": "Switzerland Super League",
@@ -2853,7 +2746,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.1476,
     "model_prob_btts_draw": 0.1935,
-    "model_prob_btts_away": 0.1955
+    "model_prob_btts_away": 0.1955,
+    "kickoff_utc": ""
   },
   {
     "league": "Brazil Serie A",
@@ -2877,7 +2771,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1531,
     "model_prob_btts_draw": 0.1886,
-    "model_prob_btts_away": 0.1393
+    "model_prob_btts_away": 0.1393,
+    "kickoff_utc": "2026-09-12T00:00:00+00:00"
   },
   {
     "league": "Brazil Serie A",
@@ -2901,7 +2796,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.2626,
     "model_prob_btts_draw": 0.1367,
-    "model_prob_btts_away": 0.0554
+    "model_prob_btts_away": 0.0554,
+    "kickoff_utc": ""
   },
   {
     "league": "USA MLS",
@@ -2925,7 +2821,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.2576,
     "model_prob_btts_draw": 0.1923,
-    "model_prob_btts_away": 0.154
+    "model_prob_btts_away": 0.154,
+    "kickoff_utc": ""
   },
   {
     "league": "USA MLS",
@@ -2949,7 +2846,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.2138,
     "model_prob_btts_draw": 0.1841,
-    "model_prob_btts_away": 0.1104
+    "model_prob_btts_away": 0.1104,
+    "kickoff_utc": ""
   },
   {
     "league": "USA MLS",
@@ -2973,7 +2871,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.1637,
     "model_prob_btts_draw": 0.1907,
-    "model_prob_btts_away": 0.1272
+    "model_prob_btts_away": 0.1272,
+    "kickoff_utc": ""
   },
   {
     "league": "Argentina Primera Division",
@@ -2997,7 +2896,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.1823,
     "model_prob_btts_draw": 0.1783,
-    "model_prob_btts_away": 0.0846
+    "model_prob_btts_away": 0.0846,
+    "kickoff_utc": ""
   },
   {
     "league": "USA MLS",
@@ -3021,7 +2921,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.1999,
     "model_prob_btts_draw": 0.1989,
-    "model_prob_btts_away": 0.1775
+    "model_prob_btts_away": 0.1775,
+    "kickoff_utc": ""
   },
   {
     "league": "USA MLS",
@@ -3045,7 +2946,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.1123,
     "model_prob_btts_draw": 0.1862,
-    "model_prob_btts_away": 0.1931
+    "model_prob_btts_away": 0.1931,
+    "kickoff_utc": ""
   },
   {
     "league": "USA MLS",
@@ -3069,7 +2971,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.2221,
     "model_prob_btts_draw": 0.1886,
-    "model_prob_btts_away": 0.1255
+    "model_prob_btts_away": 0.1255,
+    "kickoff_utc": ""
   },
   {
     "league": "USA MLS",
@@ -3093,7 +2996,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.1848,
     "model_prob_btts_draw": 0.1931,
-    "model_prob_btts_away": 0.1364
+    "model_prob_btts_away": 0.1364,
+    "kickoff_utc": ""
   },
   {
     "league": "Argentina Primera Division",
@@ -3117,7 +3021,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1717,
     "model_prob_btts_draw": 0.1974,
-    "model_prob_btts_away": 0.1364
+    "model_prob_btts_away": 0.1364,
+    "kickoff_utc": "2026-09-11T22:15:00+00:00"
   },
   {
     "league": "Brazil Serie A",
@@ -3141,7 +3046,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2153,
     "model_prob_btts_draw": 0.1804,
-    "model_prob_btts_away": 0.1102
+    "model_prob_btts_away": 0.1102,
+    "kickoff_utc": "2026-09-12T19:00:00+00:00"
   },
   {
     "league": "USA MLS",
@@ -3165,7 +3071,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.226,
     "model_prob_btts_draw": 0.1764,
-    "model_prob_btts_away": 0.0963
+    "model_prob_btts_away": 0.0963,
+    "kickoff_utc": ""
   },
   {
     "league": "USA MLS",
@@ -3189,7 +3096,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.1786,
     "model_prob_btts_draw": 0.1938,
-    "model_prob_btts_away": 0.14
+    "model_prob_btts_away": 0.14,
+    "kickoff_utc": ""
   },
   {
     "league": "Argentina Primera Division",
@@ -3213,7 +3121,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1585,
     "model_prob_btts_draw": 0.1492,
-    "model_prob_btts_away": 0.0474
+    "model_prob_btts_away": 0.0474,
+    "kickoff_utc": "2026-09-12T17:45:00+00:00"
   },
   {
     "league": "USA MLS",
@@ -3237,7 +3146,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.3119,
     "model_prob_btts_draw": 0.173,
-    "model_prob_btts_away": 0.1158
+    "model_prob_btts_away": 0.1158,
+    "kickoff_utc": ""
   },
   {
     "league": "USA MLS",
@@ -3261,7 +3171,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.2326,
     "model_prob_btts_draw": 0.1977,
-    "model_prob_btts_away": 0.1763
+    "model_prob_btts_away": 0.1763,
+    "kickoff_utc": ""
   },
   {
     "league": "USA MLS",
@@ -3285,7 +3196,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.2282,
     "model_prob_btts_draw": 0.1908,
-    "model_prob_btts_away": 0.1349
+    "model_prob_btts_away": 0.1349,
+    "kickoff_utc": ""
   },
   {
     "league": "Argentina Primera Division",
@@ -3309,7 +3221,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1631,
     "model_prob_btts_draw": 0.1706,
-    "model_prob_btts_away": 0.0709
+    "model_prob_btts_away": 0.0709,
+    "kickoff_utc": "2026-09-12T17:45:00+00:00"
   },
   {
     "league": "Southern League South",
@@ -3333,7 +3246,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2468,
     "model_prob_btts_draw": 0.1843,
-    "model_prob_btts_away": 0.1433
+    "model_prob_btts_away": 0.1433,
+    "kickoff_utc": ""
   },
   {
     "league": "Southern League South",
@@ -3357,7 +3271,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2316,
     "model_prob_btts_draw": 0.1933,
-    "model_prob_btts_away": 0.2271
+    "model_prob_btts_away": 0.2271,
+    "kickoff_utc": ""
   },
   {
     "league": "Southern League South",
@@ -3381,7 +3296,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.3039,
     "model_prob_btts_draw": 0.1803,
-    "model_prob_btts_away": 0.1538
+    "model_prob_btts_away": 0.1538,
+    "kickoff_utc": ""
   },
   {
     "league": "Southern League Central",
@@ -3405,7 +3321,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.3135,
     "model_prob_btts_draw": 0.1851,
-    "model_prob_btts_away": 0.1752
+    "model_prob_btts_away": 0.1752,
+    "kickoff_utc": ""
   },
   {
     "league": "Southern League Central",
@@ -3429,7 +3346,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1514,
     "model_prob_btts_draw": 0.1902,
-    "model_prob_btts_away": 0.2267
+    "model_prob_btts_away": 0.2267,
+    "kickoff_utc": ""
   },
   {
     "league": "Southern League Central",
@@ -3453,7 +3371,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1379,
     "model_prob_btts_draw": 0.1881,
-    "model_prob_btts_away": 0.1651
+    "model_prob_btts_away": 0.1651,
+    "kickoff_utc": ""
   },
   {
     "league": "Southern League Central",
@@ -3477,7 +3396,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1497,
     "model_prob_btts_draw": 0.1909,
-    "model_prob_btts_away": 0.1999
+    "model_prob_btts_away": 0.1999,
+    "kickoff_utc": ""
   },
   {
     "league": "Serie B",
@@ -3501,7 +3421,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2306,
     "model_prob_btts_draw": 0.2013,
-    "model_prob_btts_away": 0.2731
+    "model_prob_btts_away": 0.2731,
+    "kickoff_utc": "2026-09-12T13:00:00+00:00"
   },
   {
     "league": "Serie B",
@@ -3525,7 +3446,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.167,
     "model_prob_btts_draw": 0.2036,
-    "model_prob_btts_away": 0.1692
+    "model_prob_btts_away": 0.1692,
+    "kickoff_utc": "2026-09-12T13:00:00+00:00"
   },
   {
     "league": "Serie B",
@@ -3549,7 +3471,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.0641,
     "model_prob_btts_draw": 0.1619,
-    "model_prob_btts_away": 0.0803
+    "model_prob_btts_away": 0.0803,
+    "kickoff_utc": "2026-09-12T13:00:00+00:00"
   },
   {
     "league": "Serie B",
@@ -3573,7 +3496,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.1879,
     "model_prob_btts_draw": 0.198,
-    "model_prob_btts_away": 0.1291
+    "model_prob_btts_away": 0.1291,
+    "kickoff_utc": ""
   },
   {
     "league": "Southern League Central",
@@ -3597,7 +3521,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1112,
     "model_prob_btts_draw": 0.1802,
-    "model_prob_btts_away": 0.209
+    "model_prob_btts_away": 0.209,
+    "kickoff_utc": ""
   },
   {
     "league": "Serie B",
@@ -3621,7 +3546,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1642,
     "model_prob_btts_draw": 0.2004,
-    "model_prob_btts_away": 0.1415
+    "model_prob_btts_away": 0.1415,
+    "kickoff_utc": "2026-09-12T17:30:00+00:00"
   },
   {
     "league": "Bundesliga 2",
@@ -3645,7 +3571,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1603,
     "model_prob_btts_draw": 0.1937,
-    "model_prob_btts_away": 0.1894
+    "model_prob_btts_away": 0.1894,
+    "kickoff_utc": "2026-09-12T11:00:00+00:00"
   },
   {
     "league": "Serie B",
@@ -3669,7 +3596,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.1304,
     "model_prob_btts_draw": 0.1975,
-    "model_prob_btts_away": 0.1508
+    "model_prob_btts_away": 0.1508,
+    "kickoff_utc": ""
   },
   {
     "league": "Bundesliga 2",
@@ -3693,7 +3621,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2391,
     "model_prob_btts_draw": 0.1914,
-    "model_prob_btts_away": 0.1568
+    "model_prob_btts_away": 0.1568,
+    "kickoff_utc": "2026-09-12T11:00:00+00:00"
   },
   {
     "league": "Serie A",
@@ -3717,7 +3646,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.2205,
     "model_prob_btts_draw": 0.1949,
-    "model_prob_btts_away": 0.2389
+    "model_prob_btts_away": 0.2389,
+    "kickoff_utc": ""
   },
   {
     "league": "Serie A",
@@ -3741,7 +3671,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.1976,
     "model_prob_btts_draw": 0.1931,
-    "model_prob_btts_away": 0.1704
+    "model_prob_btts_away": 0.1704,
+    "kickoff_utc": ""
   },
   {
     "league": "Serie A",
@@ -3765,7 +3696,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.1933,
     "model_prob_btts_draw": 0.1689,
-    "model_prob_btts_away": 0.0862
+    "model_prob_btts_away": 0.0862,
+    "kickoff_utc": ""
   },
   {
     "league": "Serie A",
@@ -3789,7 +3721,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.0991,
     "model_prob_btts_draw": 0.176,
-    "model_prob_btts_away": 0.155
+    "model_prob_btts_away": 0.155,
+    "kickoff_utc": "2026-09-12T16:00:00+00:00"
   },
   {
     "league": "Serie A",
@@ -3813,7 +3746,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1056,
     "model_prob_btts_draw": 0.1787,
-    "model_prob_btts_away": 0.1658
+    "model_prob_btts_away": 0.1658,
+    "kickoff_utc": "2026-09-12T13:00:00+00:00"
   },
   {
     "league": "Bundesliga 2",
@@ -3837,7 +3771,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.3587,
     "model_prob_btts_draw": 0.1687,
-    "model_prob_btts_away": 0.133
+    "model_prob_btts_away": 0.133,
+    "kickoff_utc": ""
   },
   {
     "league": "Serie B",
@@ -3861,7 +3796,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2463,
     "model_prob_btts_draw": 0.1846,
-    "model_prob_btts_away": 0.1061
+    "model_prob_btts_away": 0.1061,
+    "kickoff_utc": "2026-09-12T15:15:00+00:00"
   },
   {
     "league": "Bundesliga 2",
@@ -3885,7 +3821,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.3088,
     "model_prob_btts_draw": 0.1891,
-    "model_prob_btts_away": 0.2655
+    "model_prob_btts_away": 0.2655,
+    "kickoff_utc": ""
   },
   {
     "league": "Southern League Central",
@@ -3909,7 +3846,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2252,
     "model_prob_btts_draw": 0.1705,
-    "model_prob_btts_away": 0.0931
+    "model_prob_btts_away": 0.0931,
+    "kickoff_utc": ""
   },
   {
     "league": "Bundesliga",
@@ -3933,7 +3871,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1799,
     "model_prob_btts_draw": 0.1965,
-    "model_prob_btts_away": 0.2636
+    "model_prob_btts_away": 0.2636,
+    "kickoff_utc": "2026-09-12T13:30:00+00:00"
   },
   {
     "league": "Brazil Serie A",
@@ -3957,7 +3896,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.1766,
     "model_prob_btts_draw": 0.1637,
-    "model_prob_btts_away": 0.0733
+    "model_prob_btts_away": 0.0733,
+    "kickoff_utc": ""
   },
   {
     "league": "Brazil Serie A",
@@ -3981,7 +3921,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2172,
     "model_prob_btts_draw": 0.1615,
-    "model_prob_btts_away": 0.0757
+    "model_prob_btts_away": 0.0757,
+    "kickoff_utc": "2026-09-12T21:30:00+00:00"
   },
   {
     "league": "Southern League South",
@@ -4005,7 +3946,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.22,
     "model_prob_btts_draw": 0.1932,
-    "model_prob_btts_away": 0.2356
+    "model_prob_btts_away": 0.2356,
+    "kickoff_utc": ""
   },
   {
     "league": "Southern League South",
@@ -4029,7 +3971,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1779,
     "model_prob_btts_draw": 0.0869,
-    "model_prob_btts_away": 0.0184
+    "model_prob_btts_away": 0.0184,
+    "kickoff_utc": ""
   },
   {
     "league": "Brazil Serie A",
@@ -4053,7 +3996,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.1761,
     "model_prob_btts_draw": 0.1929,
-    "model_prob_btts_away": 0.1582
+    "model_prob_btts_away": 0.1582,
+    "kickoff_utc": ""
   },
   {
     "league": "Southern League South",
@@ -4077,7 +4021,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.3026,
     "model_prob_btts_draw": 0.1884,
-    "model_prob_btts_away": 0.2295
+    "model_prob_btts_away": 0.2295,
+    "kickoff_utc": ""
   },
   {
     "league": "Southern League South",
@@ -4101,7 +4046,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.3864,
     "model_prob_btts_draw": 0.1456,
-    "model_prob_btts_away": 0.0976
+    "model_prob_btts_away": 0.0976,
+    "kickoff_utc": ""
   },
   {
     "league": "Southern League South",
@@ -4125,7 +4071,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.186,
     "model_prob_btts_draw": 0.1071,
-    "model_prob_btts_away": 0.028
+    "model_prob_btts_away": 0.028,
+    "kickoff_utc": ""
   },
   {
     "league": "Southern League South",
@@ -4149,7 +4096,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1491,
     "model_prob_btts_draw": 0.1875,
-    "model_prob_btts_away": 0.1756
+    "model_prob_btts_away": 0.1756,
+    "kickoff_utc": ""
   },
   {
     "league": "Bundesliga",
@@ -4173,7 +4121,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.3358,
     "model_prob_btts_draw": 0.1381,
-    "model_prob_btts_away": 0.0668
+    "model_prob_btts_away": 0.0668,
+    "kickoff_utc": ""
   },
   {
     "league": "Bundesliga",
@@ -4197,7 +4146,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1241,
     "model_prob_btts_draw": 0.1815,
-    "model_prob_btts_away": 0.2856
+    "model_prob_btts_away": 0.2856,
+    "kickoff_utc": "2026-09-12T13:30:00+00:00"
   },
   {
     "league": "Bundesliga",
@@ -4221,7 +4171,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1192,
     "model_prob_btts_draw": 0.1165,
-    "model_prob_btts_away": 0.025
+    "model_prob_btts_away": 0.025,
+    "kickoff_utc": "2026-09-12T13:30:00+00:00"
   },
   {
     "league": "Bundesliga",
@@ -4245,7 +4196,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.1032,
     "model_prob_btts_draw": 0.1661,
-    "model_prob_btts_away": 0.3227
+    "model_prob_btts_away": 0.3227,
+    "kickoff_utc": ""
   },
   {
     "league": "Southern League South",
@@ -4269,7 +4221,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1916,
     "model_prob_btts_draw": 0.1238,
-    "model_prob_btts_away": 0.0387
+    "model_prob_btts_away": 0.0387,
+    "kickoff_utc": ""
   },
   {
     "league": "Bundesliga",
@@ -4293,7 +4246,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.251,
     "model_prob_btts_draw": 0.1952,
-    "model_prob_btts_away": 0.1602
+    "model_prob_btts_away": 0.1602,
+    "kickoff_utc": "2026-09-12T13:30:00+00:00"
   },
   {
     "league": "Bundesliga",
@@ -4317,7 +4271,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1706,
     "model_prob_btts_draw": 0.1992,
-    "model_prob_btts_away": 0.1812
+    "model_prob_btts_away": 0.1812,
+    "kickoff_utc": "2026-09-12T13:30:00+00:00"
   },
   {
     "league": "Southern League Central",
@@ -4341,7 +4296,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.3362,
     "model_prob_btts_draw": 0.1577,
-    "model_prob_btts_away": 0.0999
+    "model_prob_btts_away": 0.0999,
+    "kickoff_utc": ""
   },
   {
     "league": "Southern League Central",
@@ -4365,7 +4321,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.0362,
     "model_prob_btts_draw": 0.1262,
-    "model_prob_btts_away": 0.163
+    "model_prob_btts_away": 0.163,
+    "kickoff_utc": ""
   },
   {
     "league": "Southern League Central",
@@ -4389,7 +4346,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.187,
     "model_prob_btts_draw": 0.1944,
-    "model_prob_btts_away": 0.2351
+    "model_prob_btts_away": 0.2351,
+    "kickoff_utc": ""
   },
   {
     "league": "Southern League Central",
@@ -4413,7 +4371,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1556,
     "model_prob_btts_draw": 0.1893,
-    "model_prob_btts_away": 0.1503
+    "model_prob_btts_away": 0.1503,
+    "kickoff_utc": ""
   },
   {
     "league": "Southern League South",
@@ -4437,7 +4396,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.436,
     "model_prob_btts_draw": 0.084,
-    "model_prob_btts_away": 0.0384
+    "model_prob_btts_away": 0.0384,
+    "kickoff_utc": ""
   },
   {
     "league": "Southern League Central",
@@ -4461,7 +4421,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1753,
     "model_prob_btts_draw": 0.1463,
-    "model_prob_btts_away": 0.0536
+    "model_prob_btts_away": 0.0536,
+    "kickoff_utc": ""
   },
   {
     "league": "National League South",
@@ -4485,7 +4446,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1365,
     "model_prob_btts_draw": 0.1757,
-    "model_prob_btts_away": 0.2558
+    "model_prob_btts_away": 0.2558,
+    "kickoff_utc": ""
   },
   {
     "league": "Poland Ekstraklasa",
@@ -4509,7 +4471,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1491,
     "model_prob_btts_draw": 0.1875,
-    "model_prob_btts_away": 0.0963
+    "model_prob_btts_away": 0.0963,
+    "kickoff_utc": "2026-09-12T12:45:00+00:00"
   },
   {
     "league": "La Liga",
@@ -4533,7 +4496,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.3252,
     "model_prob_btts_draw": 0.1375,
-    "model_prob_btts_away": 0.07
+    "model_prob_btts_away": 0.07,
+    "kickoff_utc": "2026-09-12T19:00:00+00:00"
   },
   {
     "league": "Ligue 1",
@@ -4557,7 +4521,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.0878,
     "model_prob_btts_draw": 0.1708,
-    "model_prob_btts_away": 0.0996
+    "model_prob_btts_away": 0.0996,
+    "kickoff_utc": "2026-09-12T18:45:00+00:00"
   },
   {
     "league": "Ligue 1",
@@ -4581,7 +4546,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1839,
     "model_prob_btts_draw": 0.181,
-    "model_prob_btts_away": 0.0986
+    "model_prob_btts_away": 0.0986,
+    "kickoff_utc": "2026-09-12T18:45:00+00:00"
   },
   {
     "league": "Ligi 1",
@@ -4605,7 +4571,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2528,
     "model_prob_btts_draw": 0.1848,
-    "model_prob_btts_away": 0.1105
+    "model_prob_btts_away": 0.1105,
+    "kickoff_utc": "2026-09-12T14:00:00+00:00"
   },
   {
     "league": "Ligi 1",
@@ -4629,7 +4596,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1066,
     "model_prob_btts_draw": 0.1905,
-    "model_prob_btts_away": 0.1741
+    "model_prob_btts_away": 0.1741,
+    "kickoff_utc": "2026-09-12T17:00:00+00:00"
   },
   {
     "league": "Ligi 1",
@@ -4653,7 +4621,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.1519,
     "model_prob_btts_draw": 0.1754,
-    "model_prob_btts_away": 0.0752
+    "model_prob_btts_away": 0.0752,
+    "kickoff_utc": ""
   },
   {
     "league": "Ligi 1",
@@ -4677,7 +4646,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.2615,
     "model_prob_btts_draw": 0.1264,
-    "model_prob_btts_away": 0.0419
+    "model_prob_btts_away": 0.0419,
+    "kickoff_utc": ""
   },
   {
     "league": "La Liga",
@@ -4701,7 +4671,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.3066,
     "model_prob_btts_draw": 0.1736,
-    "model_prob_btts_away": 0.1294
+    "model_prob_btts_away": 0.1294,
+    "kickoff_utc": "2026-09-12T12:00:00+00:00"
   },
   {
     "league": "La Liga",
@@ -4725,7 +4696,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.1623,
     "model_prob_btts_draw": 0.1902,
-    "model_prob_btts_away": 0.2168
+    "model_prob_btts_away": 0.2168,
+    "kickoff_utc": ""
   },
   {
     "league": "Ligue 1",
@@ -4749,7 +4721,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.074,
     "model_prob_btts_draw": 0.168,
-    "model_prob_btts_away": 0.1706
+    "model_prob_btts_away": 0.1706,
+    "kickoff_utc": ""
   },
   {
     "league": "Ligi 1",
@@ -4773,7 +4746,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.1842,
     "model_prob_btts_draw": 0.1913,
-    "model_prob_btts_away": 0.3264
+    "model_prob_btts_away": 0.3264,
+    "kickoff_utc": ""
   },
   {
     "league": "La Liga 2",
@@ -4797,7 +4771,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.3115,
     "model_prob_btts_draw": 0.1505,
-    "model_prob_btts_away": 0.0842
+    "model_prob_btts_away": 0.0842,
+    "kickoff_utc": "2026-09-12T12:00:00+00:00"
   },
   {
     "league": "Liga I",
@@ -4821,7 +4796,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.0567,
     "model_prob_btts_draw": 0.1385,
-    "model_prob_btts_away": 0.2253
+    "model_prob_btts_away": 0.2253,
+    "kickoff_utc": ""
   },
   {
     "league": "Liga I",
@@ -4845,7 +4821,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.0301,
     "model_prob_btts_draw": 0.1145,
-    "model_prob_btts_away": 0.143
+    "model_prob_btts_away": 0.143,
+    "kickoff_utc": "2026-09-12T17:00:00+00:00"
   },
   {
     "league": "Liga I",
@@ -4869,7 +4846,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.4222,
     "model_prob_btts_draw": 0.0945,
-    "model_prob_btts_away": 0.0457
+    "model_prob_btts_away": 0.0457,
+    "kickoff_utc": ""
   },
   {
     "league": "La Liga 2",
@@ -4893,7 +4871,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.104,
     "model_prob_btts_draw": 0.1755,
-    "model_prob_btts_away": 0.1467
+    "model_prob_btts_away": 0.1467,
+    "kickoff_utc": "2026-09-12T14:15:00+00:00"
   },
   {
     "league": "Liga I",
@@ -4917,7 +4896,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.2106,
     "model_prob_btts_draw": 0.1854,
-    "model_prob_btts_away": 0.1502
+    "model_prob_btts_away": 0.1502,
+    "kickoff_utc": ""
   },
   {
     "league": "League Two",
@@ -4941,7 +4921,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2263,
     "model_prob_btts_draw": 0.1632,
-    "model_prob_btts_away": 0.0874
+    "model_prob_btts_away": 0.0874,
+    "kickoff_utc": "2026-09-12T14:00:00+00:00"
   },
   {
     "league": "Liga I",
@@ -4965,7 +4946,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1466,
     "model_prob_btts_draw": 0.1731,
-    "model_prob_btts_away": 0.1066
+    "model_prob_btts_away": 0.1066,
+    "kickoff_utc": "2026-09-12T14:30:00+00:00"
   },
   {
     "league": "La Liga",
@@ -4989,7 +4971,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1515,
     "model_prob_btts_draw": 0.1804,
-    "model_prob_btts_away": 0.1186
+    "model_prob_btts_away": 0.1186,
+    "kickoff_utc": "2026-09-12T14:15:00+00:00"
   },
   {
     "league": "Ligue 1",
@@ -5013,7 +4996,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.1686,
     "model_prob_btts_draw": 0.1647,
-    "model_prob_btts_away": 0.0692
+    "model_prob_btts_away": 0.0692,
+    "kickoff_utc": ""
   },
   {
     "league": "Jupiler League",
@@ -5037,7 +5021,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.3688,
     "model_prob_btts_draw": 0.1142,
-    "model_prob_btts_away": 0.0508
+    "model_prob_btts_away": 0.0508,
+    "kickoff_utc": ""
   },
   {
     "league": "Jupiler League",
@@ -5061,7 +5046,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.3884,
     "model_prob_btts_draw": 0.1549,
-    "model_prob_btts_away": 0.108
+    "model_prob_btts_away": 0.108,
+    "kickoff_utc": ""
   },
   {
     "league": "Mexico Liga MX",
@@ -5085,7 +5071,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.2773,
     "model_prob_btts_draw": 0.1601,
-    "model_prob_btts_away": 0.0793
+    "model_prob_btts_away": 0.0793,
+    "kickoff_utc": ""
   },
   {
     "league": "Mexico Liga MX",
@@ -5109,7 +5096,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2635,
     "model_prob_btts_draw": 0.18,
-    "model_prob_btts_away": 0.11
+    "model_prob_btts_away": 0.11,
+    "kickoff_utc": "2026-09-12T01:00:00+00:00"
   },
   {
     "league": "Mexico Liga MX",
@@ -5133,7 +5121,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.2277,
     "model_prob_btts_draw": 0.1995,
-    "model_prob_btts_away": 0.1721
+    "model_prob_btts_away": 0.1721,
+    "kickoff_utc": ""
   },
   {
     "league": "Jupiler League",
@@ -5157,7 +5146,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1571,
     "model_prob_btts_draw": 0.1903,
-    "model_prob_btts_away": 0.128
+    "model_prob_btts_away": 0.128,
+    "kickoff_utc": "2026-09-12T18:45:00+00:00"
   },
   {
     "league": "Mexico Liga MX",
@@ -5181,7 +5171,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.2155,
     "model_prob_btts_draw": 0.1958,
-    "model_prob_btts_away": 0.1437
+    "model_prob_btts_away": 0.1437,
+    "kickoff_utc": ""
   },
   {
     "league": "Mexico Liga MX",
@@ -5205,7 +5196,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2549,
     "model_prob_btts_draw": 0.1893,
-    "model_prob_btts_away": 0.1326
+    "model_prob_btts_away": 0.1326,
+    "kickoff_utc": "2026-09-12T03:10:00+00:00"
   },
   {
     "league": "Jupiler League",
@@ -5229,7 +5221,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.118,
     "model_prob_btts_draw": 0.167,
-    "model_prob_btts_away": 0.0732
+    "model_prob_btts_away": 0.0732,
+    "kickoff_utc": ""
   },
   {
     "league": "Mexico Liga MX",
@@ -5253,7 +5246,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1214,
     "model_prob_btts_draw": 0.1828,
-    "model_prob_btts_away": 0.1038
+    "model_prob_btts_away": 0.1038,
+    "kickoff_utc": "2026-09-12T03:00:00+00:00"
   },
   {
     "league": "Jupiler League",
@@ -5277,7 +5271,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.2495,
     "model_prob_btts_draw": 0.1968,
-    "model_prob_btts_away": 0.1817
+    "model_prob_btts_away": 0.1817,
+    "kickoff_utc": ""
   },
   {
     "league": "Jupiler League",
@@ -5301,7 +5296,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1145,
     "model_prob_btts_draw": 0.1823,
-    "model_prob_btts_away": 0.1173
+    "model_prob_btts_away": 0.1173,
+    "kickoff_utc": "2026-09-12T16:15:00+00:00"
   },
   {
     "league": "Ligue 2",
@@ -5325,7 +5321,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.0533,
     "model_prob_btts_draw": 0.1337,
-    "model_prob_btts_away": 0.0538
+    "model_prob_btts_away": 0.0538,
+    "kickoff_utc": "2026-09-12T12:00:00+00:00"
   },
   {
     "league": "La Liga",
@@ -5349,7 +5346,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1926,
     "model_prob_btts_draw": 0.1793,
-    "model_prob_btts_away": 0.1128
+    "model_prob_btts_away": 0.1128,
+    "kickoff_utc": "2026-09-12T16:30:00+00:00"
   },
   {
     "league": "Ligue 2",
@@ -5373,7 +5371,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1536,
     "model_prob_btts_draw": 0.1865,
-    "model_prob_btts_away": 0.1366
+    "model_prob_btts_away": 0.1366,
+    "kickoff_utc": "2026-09-12T12:00:00+00:00"
   },
   {
     "league": "La Liga",
@@ -5397,7 +5396,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.0532,
     "model_prob_btts_draw": 0.0977,
-    "model_prob_btts_away": 0.0191
+    "model_prob_btts_away": 0.0191,
+    "kickoff_utc": ""
   },
   {
     "league": "Ligue 2",
@@ -5421,7 +5421,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2125,
     "model_prob_btts_draw": 0.1921,
-    "model_prob_btts_away": 0.2793
+    "model_prob_btts_away": 0.2793,
+    "kickoff_utc": "2026-09-12T18:00:00+00:00"
   },
   {
     "league": "La Liga",
@@ -5445,7 +5446,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.0826,
     "model_prob_btts_draw": 0.1608,
-    "model_prob_btts_away": 0.0968
+    "model_prob_btts_away": 0.0968,
+    "kickoff_utc": ""
   },
   {
     "league": "Ligue 1",
@@ -5469,7 +5471,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2948,
     "model_prob_btts_draw": 0.1812,
-    "model_prob_btts_away": 0.1308
+    "model_prob_btts_away": 0.1308,
+    "kickoff_utc": "2026-09-12T15:15:00+00:00"
   },
   {
     "league": "Ligue 1",
@@ -5493,7 +5496,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1658,
     "model_prob_btts_draw": 0.1964,
-    "model_prob_btts_away": 0.2319
+    "model_prob_btts_away": 0.2319,
+    "kickoff_utc": "2026-09-12T18:45:00+00:00"
   },
   {
     "league": "La Liga",
@@ -5517,7 +5521,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.1822,
     "model_prob_btts_draw": 0.17,
-    "model_prob_btts_away": 0.4015
+    "model_prob_btts_away": 0.4015,
+    "kickoff_utc": ""
   },
   {
     "league": "League Two",
@@ -5541,7 +5546,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2195,
     "model_prob_btts_draw": 0.128,
-    "model_prob_btts_away": 0.0456
+    "model_prob_btts_away": 0.0456,
+    "kickoff_utc": "2026-09-12T14:00:00+00:00"
   },
   {
     "league": "La Liga 2",
@@ -5565,7 +5571,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2989,
     "model_prob_btts_draw": 0.1889,
-    "model_prob_btts_away": 0.2234
+    "model_prob_btts_away": 0.2234,
+    "kickoff_utc": "2026-09-12T19:00:00+00:00"
   },
   {
     "league": "League One",
@@ -5589,7 +5596,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.203,
     "model_prob_btts_draw": 0.1481,
-    "model_prob_btts_away": 0.0618
+    "model_prob_btts_away": 0.0618,
+    "kickoff_utc": "2026-09-12T14:00:00+00:00"
   },
   {
     "league": "League Two",
@@ -5613,7 +5621,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2449,
     "model_prob_btts_draw": 0.1795,
-    "model_prob_btts_away": 0.1294
+    "model_prob_btts_away": 0.1294,
+    "kickoff_utc": "2026-09-12T14:00:00+00:00"
   },
   {
     "league": "League One",
@@ -5637,7 +5646,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2025,
     "model_prob_btts_draw": 0.1924,
-    "model_prob_btts_away": 0.1955
+    "model_prob_btts_away": 0.1955,
+    "kickoff_utc": "2026-09-12T14:00:00+00:00"
   },
   {
     "league": "League One",
@@ -5661,7 +5671,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2733,
     "model_prob_btts_draw": 0.1607,
-    "model_prob_btts_away": 0.0919
+    "model_prob_btts_away": 0.0919,
+    "kickoff_utc": "2026-09-12T14:00:00+00:00"
   },
   {
     "league": "League One",
@@ -5685,7 +5696,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2752,
     "model_prob_btts_draw": 0.173,
-    "model_prob_btts_away": 0.1181
+    "model_prob_btts_away": 0.1181,
+    "kickoff_utc": "2026-09-12T14:00:00+00:00"
   },
   {
     "league": "League One",
@@ -5709,7 +5721,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1564,
     "model_prob_btts_draw": 0.18,
-    "model_prob_btts_away": 0.1199
+    "model_prob_btts_away": 0.1199,
+    "kickoff_utc": "2026-09-12T11:30:00+00:00"
   },
   {
     "league": "League One",
@@ -5733,7 +5746,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2926,
     "model_prob_btts_draw": 0.1734,
-    "model_prob_btts_away": 0.1254
+    "model_prob_btts_away": 0.1254,
+    "kickoff_utc": "2026-09-12T14:00:00+00:00"
   },
   {
     "league": "League One",
@@ -5757,7 +5771,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1928,
     "model_prob_btts_draw": 0.1913,
-    "model_prob_btts_away": 0.181
+    "model_prob_btts_away": 0.181,
+    "kickoff_utc": "2026-09-12T14:00:00+00:00"
   },
   {
     "league": "League One",
@@ -5781,7 +5796,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.214,
     "model_prob_btts_draw": 0.1481,
-    "model_prob_btts_away": 0.0633
+    "model_prob_btts_away": 0.0633,
+    "kickoff_utc": "2026-09-12T14:00:00+00:00"
   },
   {
     "league": "League One",
@@ -5805,7 +5821,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1652,
     "model_prob_btts_draw": 0.1812,
-    "model_prob_btts_away": 0.1229
+    "model_prob_btts_away": 0.1229,
+    "kickoff_utc": "2026-09-12T11:30:00+00:00"
   },
   {
     "league": "League Two",
@@ -5829,7 +5846,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1959,
     "model_prob_btts_draw": 0.1886,
-    "model_prob_btts_away": 0.1622
+    "model_prob_btts_away": 0.1622,
+    "kickoff_utc": "2026-09-12T14:00:00+00:00"
   },
   {
     "league": "League Two",
@@ -5853,7 +5871,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.0989,
     "model_prob_btts_draw": 0.1561,
-    "model_prob_btts_away": 0.0751
+    "model_prob_btts_away": 0.0751,
+    "kickoff_utc": "2026-09-12T14:00:00+00:00"
   },
   {
     "league": "La Liga 2",
@@ -5877,7 +5896,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.4567,
     "model_prob_btts_draw": 0.1538,
-    "model_prob_btts_away": 0.1529
+    "model_prob_btts_away": 0.1529,
+    "kickoff_utc": "2026-09-12T16:30:00+00:00"
   },
   {
     "league": "La Liga 2",
@@ -5901,7 +5921,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.246,
     "model_prob_btts_draw": 0.1787,
-    "model_prob_btts_away": 0.1226
+    "model_prob_btts_away": 0.1226,
+    "kickoff_utc": "2026-09-12T16:30:00+00:00"
   },
   {
     "league": "League Two",
@@ -5925,7 +5946,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1556,
     "model_prob_btts_draw": 0.1704,
-    "model_prob_btts_away": 0.0944
+    "model_prob_btts_away": 0.0944,
+    "kickoff_utc": "2026-09-12T14:00:00+00:00"
   },
   {
     "league": "La Liga 2",
@@ -5949,7 +5971,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.0642,
     "model_prob_btts_draw": 0.1507,
-    "model_prob_btts_away": 0.0919
+    "model_prob_btts_away": 0.0919,
+    "kickoff_utc": ""
   },
   {
     "league": "League Two",
@@ -5973,7 +5996,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1046,
     "model_prob_btts_draw": 0.1587,
-    "model_prob_btts_away": 0.0786
+    "model_prob_btts_away": 0.0786,
+    "kickoff_utc": "2026-09-12T14:00:00+00:00"
   },
   {
     "league": "League Two",
@@ -5997,7 +6021,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1907,
     "model_prob_btts_draw": 0.1898,
-    "model_prob_btts_away": 0.1739
+    "model_prob_btts_away": 0.1739,
+    "kickoff_utc": "2026-09-12T14:00:00+00:00"
   },
   {
     "league": "League Two",
@@ -6021,7 +6046,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1382,
     "model_prob_btts_draw": 0.1844,
-    "model_prob_btts_away": 0.1844
+    "model_prob_btts_away": 0.1844,
+    "kickoff_utc": "2026-09-12T14:00:00+00:00"
   },
   {
     "league": "League Two",
@@ -6045,7 +6071,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2656,
     "model_prob_btts_draw": 0.1897,
-    "model_prob_btts_away": 0.1983
+    "model_prob_btts_away": 0.1983,
+    "kickoff_utc": "2026-09-12T11:30:00+00:00"
   },
   {
     "league": "League Two",
@@ -6069,7 +6096,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1587,
     "model_prob_btts_draw": 0.1749,
-    "model_prob_btts_away": 0.1057
+    "model_prob_btts_away": 0.1057,
+    "kickoff_utc": "2026-09-12T14:00:00+00:00"
   },
   {
     "league": "La Liga 2",
@@ -6093,7 +6121,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.1388,
     "model_prob_btts_draw": 0.1658,
-    "model_prob_btts_away": 0.0821
+    "model_prob_btts_away": 0.0821,
+    "kickoff_utc": ""
   },
   {
     "league": "La Liga 2",
@@ -6117,7 +6146,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.0664,
     "model_prob_btts_draw": 0.144,
-    "model_prob_btts_away": 0.0662
+    "model_prob_btts_away": 0.0662,
+    "kickoff_utc": ""
   },
   {
     "league": "La Liga 2",
@@ -6141,7 +6171,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.1331,
     "model_prob_btts_draw": 0.1783,
-    "model_prob_btts_away": 0.1187
+    "model_prob_btts_away": 0.1187,
+    "kickoff_utc": ""
   },
   {
     "league": "League One",
@@ -6165,7 +6196,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1141,
     "model_prob_btts_draw": 0.1764,
-    "model_prob_btts_away": 0.1342
+    "model_prob_btts_away": 0.1342,
+    "kickoff_utc": "2026-09-12T14:00:00+00:00"
   },
   {
     "league": "League Two",
@@ -6189,7 +6221,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1687,
     "model_prob_btts_draw": 0.1881,
-    "model_prob_btts_away": 0.1696
+    "model_prob_btts_away": 0.1696,
+    "kickoff_utc": "2026-09-12T11:30:00+00:00"
   },
   {
     "league": "Jupiler League",
@@ -6213,7 +6246,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.063,
     "model_prob_btts_draw": 0.1553,
-    "model_prob_btts_away": 0.2095
+    "model_prob_btts_away": 0.2095,
+    "kickoff_utc": "2026-09-12T14:00:00+00:00"
   },
   {
     "league": "Northern Premier League",
@@ -6237,7 +6271,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1121,
     "model_prob_btts_draw": 0.1829,
-    "model_prob_btts_away": 0.1973
+    "model_prob_btts_away": 0.1973,
+    "kickoff_utc": ""
   },
   {
     "league": "National League South",
@@ -6261,7 +6296,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1493,
     "model_prob_btts_draw": 0.1547,
-    "model_prob_btts_away": 0.0747
+    "model_prob_btts_away": 0.0747,
+    "kickoff_utc": ""
   },
   {
     "league": "National League South",
@@ -6285,7 +6321,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.0874,
     "model_prob_btts_draw": 0.0047,
-    "model_prob_btts_away": 0.0002
+    "model_prob_btts_away": 0.0002,
+    "kickoff_utc": ""
   },
   {
     "league": "Championship",
@@ -6309,7 +6346,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1137,
     "model_prob_btts_draw": 0.175,
-    "model_prob_btts_away": 0.0915
+    "model_prob_btts_away": 0.0915,
+    "kickoff_utc": "2026-09-12T14:00:00+00:00"
   },
   {
     "league": "Championship",
@@ -6333,7 +6371,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2036,
     "model_prob_btts_draw": 0.1858,
-    "model_prob_btts_away": 0.1134
+    "model_prob_btts_away": 0.1134,
+    "kickoff_utc": "2026-09-12T11:30:00+00:00"
   },
   {
     "league": "National League South",
@@ -6357,7 +6396,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2728,
     "model_prob_btts_draw": 0.1835,
-    "model_prob_btts_away": 0.184
+    "model_prob_btts_away": 0.184,
+    "kickoff_utc": ""
   },
   {
     "league": "National League South",
@@ -6381,7 +6421,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1748,
     "model_prob_btts_draw": 0.176,
-    "model_prob_btts_away": 0.127
+    "model_prob_btts_away": 0.127,
+    "kickoff_utc": ""
   },
   {
     "league": "National League South",
@@ -6405,7 +6446,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1297,
     "model_prob_btts_draw": 0.1686,
-    "model_prob_btts_away": 0.1128
+    "model_prob_btts_away": 0.1128,
+    "kickoff_utc": ""
   },
   {
     "league": "National League South",
@@ -6429,7 +6471,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1336,
     "model_prob_btts_draw": 0.1693,
-    "model_prob_btts_away": 0.1135
+    "model_prob_btts_away": 0.1135,
+    "kickoff_utc": ""
   },
   {
     "league": "National League South",
@@ -6453,7 +6496,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2355,
     "model_prob_btts_draw": 0.1567,
-    "model_prob_btts_away": 0.0864
+    "model_prob_btts_away": 0.0864,
+    "kickoff_utc": ""
   },
   {
     "league": "National League South",
@@ -6477,7 +6521,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2821,
     "model_prob_btts_draw": 0.1849,
-    "model_prob_btts_away": 0.2074
+    "model_prob_btts_away": 0.2074,
+    "kickoff_utc": ""
   },
   {
     "league": "National League South",
@@ -6501,7 +6546,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2007,
     "model_prob_btts_draw": 0.1633,
-    "model_prob_btts_away": 0.0931
+    "model_prob_btts_away": 0.0931,
+    "kickoff_utc": ""
   },
   {
     "league": "National League South",
@@ -6525,7 +6571,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.0951,
     "model_prob_btts_draw": 0.144,
-    "model_prob_btts_away": 0.3633
+    "model_prob_btts_away": 0.3633,
+    "kickoff_utc": ""
   },
   {
     "league": "National League South",
@@ -6549,7 +6596,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.3096,
     "model_prob_btts_draw": 0.1802,
-    "model_prob_btts_away": 0.186
+    "model_prob_btts_away": 0.186,
+    "kickoff_utc": ""
   },
   {
     "league": "National League North",
@@ -6573,7 +6621,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2172,
     "model_prob_btts_draw": 0.1841,
-    "model_prob_btts_away": 0.1697
+    "model_prob_btts_away": 0.1697,
+    "kickoff_utc": ""
   },
   {
     "league": "National League North",
@@ -6597,7 +6646,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1435,
     "model_prob_btts_draw": 0.1791,
-    "model_prob_btts_away": 0.2287
+    "model_prob_btts_away": 0.2287,
+    "kickoff_utc": ""
   },
   {
     "league": "China Super League",
@@ -6621,7 +6671,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1968,
     "model_prob_btts_draw": 0.1837,
-    "model_prob_btts_away": 0.1051
+    "model_prob_btts_away": 0.1051,
+    "kickoff_utc": "2026-09-12T11:00:00+00:00"
   },
   {
     "league": "Northern Premier League",
@@ -6645,7 +6696,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.0871,
     "model_prob_btts_draw": 0.1614,
-    "model_prob_btts_away": 0.2769
+    "model_prob_btts_away": 0.2769,
+    "kickoff_utc": ""
   },
   {
     "league": "National League North",
@@ -6669,7 +6721,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1718,
     "model_prob_btts_draw": 0.1145,
-    "model_prob_btts_away": 0.0344
+    "model_prob_btts_away": 0.0344,
+    "kickoff_utc": ""
   },
   {
     "league": "Northern Premier League",
@@ -6693,7 +6746,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2554,
     "model_prob_btts_draw": 0.1215,
-    "model_prob_btts_away": 0.0418
+    "model_prob_btts_away": 0.0418,
+    "kickoff_utc": ""
   },
   {
     "league": "Northern Premier League",
@@ -6717,7 +6771,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.264,
     "model_prob_btts_draw": 0.1845,
-    "model_prob_btts_away": 0.3438
+    "model_prob_btts_away": 0.3438,
+    "kickoff_utc": ""
   },
   {
     "league": "Poland Ekstraklasa",
@@ -6741,7 +6796,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.2175,
     "model_prob_btts_draw": 0.1904,
-    "model_prob_btts_away": 0.1111
+    "model_prob_btts_away": 0.1111,
+    "kickoff_utc": ""
   },
   {
     "league": "Championship",
@@ -6765,7 +6821,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.0906,
     "model_prob_btts_draw": 0.168,
-    "model_prob_btts_away": 0.0867
+    "model_prob_btts_away": 0.0867,
+    "kickoff_utc": "2026-09-12T14:00:00+00:00"
   },
   {
     "league": "Poland Ekstraklasa",
@@ -6789,7 +6846,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1707,
     "model_prob_btts_draw": 0.2028,
-    "model_prob_btts_away": 0.1554
+    "model_prob_btts_away": 0.1554,
+    "kickoff_utc": "2026-09-12T15:30:00+00:00"
   },
   {
     "league": "Norway Eliteserien",
@@ -6813,7 +6871,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.3138,
     "model_prob_btts_draw": 0.1204,
-    "model_prob_btts_away": 0.052
+    "model_prob_btts_away": 0.052,
+    "kickoff_utc": ""
   },
   {
     "league": "Norway Eliteserien",
@@ -6837,7 +6896,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.129,
     "model_prob_btts_draw": 0.1791,
-    "model_prob_btts_away": 0.247
+    "model_prob_btts_away": 0.247,
+    "kickoff_utc": ""
   },
   {
     "league": "Championship",
@@ -6861,7 +6921,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.203,
     "model_prob_btts_draw": 0.1947,
-    "model_prob_btts_away": 0.2859
+    "model_prob_btts_away": 0.2859,
+    "kickoff_utc": ""
   },
   {
     "league": "Championship",
@@ -6885,7 +6946,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2791,
     "model_prob_btts_draw": 0.1785,
-    "model_prob_btts_away": 0.1167
+    "model_prob_btts_away": 0.1167,
+    "kickoff_utc": "2026-09-12T14:00:00+00:00"
   },
   {
     "league": "Norway Eliteserien",
@@ -6909,7 +6971,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2029,
     "model_prob_btts_draw": 0.1857,
-    "model_prob_btts_away": 0.1449
+    "model_prob_btts_away": 0.1449,
+    "kickoff_utc": "2026-09-12T16:00:00+00:00"
   },
   {
     "league": "Norway Eliteserien",
@@ -6933,7 +6996,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2466,
     "model_prob_btts_draw": 0.1904,
-    "model_prob_btts_away": 0.1915
+    "model_prob_btts_away": 0.1915,
+    "kickoff_utc": "2026-09-12T14:00:00+00:00"
   },
   {
     "league": "Norway Eliteserien",
@@ -6957,7 +7021,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.1887,
     "model_prob_btts_draw": 0.178,
-    "model_prob_btts_away": 0.1146
+    "model_prob_btts_away": 0.1146,
+    "kickoff_utc": ""
   },
   {
     "league": "Norway Eliteserien",
@@ -6981,7 +7046,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.1828,
     "model_prob_btts_draw": 0.1907,
-    "model_prob_btts_away": 0.2179
+    "model_prob_btts_away": 0.2179,
+    "kickoff_utc": ""
   },
   {
     "league": "Norway Eliteserien",
@@ -7005,7 +7071,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.1675,
     "model_prob_btts_draw": 0.1797,
-    "model_prob_btts_away": 0.1205
+    "model_prob_btts_away": 0.1205,
+    "kickoff_utc": ""
   },
   {
     "league": "Championship",
@@ -7029,7 +7096,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.0784,
     "model_prob_btts_draw": 0.1714,
-    "model_prob_btts_away": 0.1412
+    "model_prob_btts_away": 0.1412,
+    "kickoff_utc": "2026-09-12T14:00:00+00:00"
   },
   {
     "league": "Northern Premier League",
@@ -7053,7 +7121,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2229,
     "model_prob_btts_draw": 0.1846,
-    "model_prob_btts_away": 0.122
+    "model_prob_btts_away": 0.122,
+    "kickoff_utc": ""
   },
   {
     "league": "Northern Premier League",
@@ -7077,7 +7146,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2402,
     "model_prob_btts_draw": 0.1813,
-    "model_prob_btts_away": 0.1172
+    "model_prob_btts_away": 0.1172,
+    "kickoff_utc": ""
   },
   {
     "league": "Northern Premier League",
@@ -7101,7 +7171,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2042,
     "model_prob_btts_draw": 0.0897,
-    "model_prob_btts_away": 0.0202
+    "model_prob_btts_away": 0.0202,
+    "kickoff_utc": ""
   },
   {
     "league": "Northern Premier League",
@@ -7125,7 +7196,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1383,
     "model_prob_btts_draw": 0.1826,
-    "model_prob_btts_away": 0.2853
+    "model_prob_btts_away": 0.2853,
+    "kickoff_utc": ""
   },
   {
     "league": "Northern Premier League",
@@ -7149,7 +7221,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2817,
     "model_prob_btts_draw": 0.1808,
-    "model_prob_btts_away": 0.1306
+    "model_prob_btts_away": 0.1306,
+    "kickoff_utc": ""
   },
   {
     "league": "Northern Premier League",
@@ -7173,7 +7246,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.3395,
     "model_prob_btts_draw": 0.1749,
-    "model_prob_btts_away": 0.1409
+    "model_prob_btts_away": 0.1409,
+    "kickoff_utc": ""
   },
   {
     "league": "Northern Premier League",
@@ -7197,7 +7271,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2722,
     "model_prob_btts_draw": 0.1839,
-    "model_prob_btts_away": 0.1368
+    "model_prob_btts_away": 0.1368,
+    "kickoff_utc": ""
   },
   {
     "league": "National League North",
@@ -7221,7 +7296,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2441,
     "model_prob_btts_draw": 0.1838,
-    "model_prob_btts_away": 0.1738
+    "model_prob_btts_away": 0.1738,
+    "kickoff_utc": ""
   },
   {
     "league": "China Super League",
@@ -7245,7 +7321,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2018,
     "model_prob_btts_draw": 0.1949,
-    "model_prob_btts_away": 0.1436
+    "model_prob_btts_away": 0.1436,
+    "kickoff_utc": "2026-09-12T11:35:00+00:00"
   },
   {
     "league": "National League",
@@ -7269,7 +7346,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.3649,
     "model_prob_btts_draw": 0.1646,
-    "model_prob_btts_away": 0.1285
+    "model_prob_btts_away": 0.1285,
+    "kickoff_utc": ""
   },
   {
     "league": "Isthmian League",
@@ -7293,7 +7371,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2194,
     "model_prob_btts_draw": 0.1624,
-    "model_prob_btts_away": 0.0961
+    "model_prob_btts_away": 0.0961,
+    "kickoff_utc": ""
   },
   {
     "league": "Isthmian League",
@@ -7317,7 +7396,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.3861,
     "model_prob_btts_draw": 0.1647,
-    "model_prob_btts_away": 0.1624
+    "model_prob_btts_away": 0.1624,
+    "kickoff_utc": ""
   },
   {
     "league": "National League",
@@ -7341,7 +7421,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1751,
     "model_prob_btts_draw": 0.1932,
-    "model_prob_btts_away": 0.2155
+    "model_prob_btts_away": 0.2155,
+    "kickoff_utc": ""
   },
   {
     "league": "Isthmian League",
@@ -7365,7 +7446,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2419,
     "model_prob_btts_draw": 0.1855,
-    "model_prob_btts_away": 0.2756
+    "model_prob_btts_away": 0.2756,
+    "kickoff_utc": ""
   },
   {
     "league": "Isthmian League",
@@ -7389,7 +7471,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1559,
     "model_prob_btts_draw": 0.1802,
-    "model_prob_btts_away": 0.2433
+    "model_prob_btts_away": 0.2433,
+    "kickoff_utc": ""
   },
   {
     "league": "Isthmian League",
@@ -7413,7 +7496,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2779,
     "model_prob_btts_draw": 0.1101,
-    "model_prob_btts_away": 0.0422
+    "model_prob_btts_away": 0.0422,
+    "kickoff_utc": ""
   },
   {
     "league": "National League",
@@ -7437,7 +7521,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2927,
     "model_prob_btts_draw": 0.1596,
-    "model_prob_btts_away": 0.0918
+    "model_prob_btts_away": 0.0918,
+    "kickoff_utc": ""
   },
   {
     "league": "Isthmian League",
@@ -7461,7 +7546,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2272,
     "model_prob_btts_draw": 0.1851,
-    "model_prob_btts_away": 0.187
+    "model_prob_btts_away": 0.187,
+    "kickoff_utc": ""
   },
   {
     "league": "National League",
@@ -7485,7 +7571,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1517,
     "model_prob_btts_draw": 0.1802,
-    "model_prob_btts_away": 0.3115
+    "model_prob_btts_away": 0.3115,
+    "kickoff_utc": ""
   },
   {
     "league": "Isthmian League",
@@ -7509,7 +7596,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1838,
     "model_prob_btts_draw": 0.1771,
-    "model_prob_btts_away": 0.1354
+    "model_prob_btts_away": 0.1354,
+    "kickoff_utc": ""
   },
   {
     "league": "National League",
@@ -7533,7 +7621,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2196,
     "model_prob_btts_draw": 0.1905,
-    "model_prob_btts_away": 0.1562
+    "model_prob_btts_away": 0.1562,
+    "kickoff_utc": ""
   },
   {
     "league": "Isthmian League",
@@ -7557,7 +7646,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.5347,
     "model_prob_btts_draw": 0.1038,
-    "model_prob_btts_away": 0.0767
+    "model_prob_btts_away": 0.0767,
+    "kickoff_utc": ""
   },
   {
     "league": "Isthmian League",
@@ -7581,7 +7671,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2998,
     "model_prob_btts_draw": 0.1796,
-    "model_prob_btts_away": 0.1798
+    "model_prob_btts_away": 0.1798,
+    "kickoff_utc": ""
   },
   {
     "league": "Isthmian League",
@@ -7605,7 +7696,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.4872,
     "model_prob_btts_draw": 0.1486,
-    "model_prob_btts_away": 0.17
+    "model_prob_btts_away": 0.17,
+    "kickoff_utc": ""
   },
   {
     "league": "National League",
@@ -7629,7 +7721,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2399,
     "model_prob_btts_draw": 0.1878,
-    "model_prob_btts_away": 0.1485
+    "model_prob_btts_away": 0.1485,
+    "kickoff_utc": ""
   },
   {
     "league": "Isthmian League",
@@ -7653,7 +7746,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2147,
     "model_prob_btts_draw": 0.1823,
-    "model_prob_btts_away": 0.1623
+    "model_prob_btts_away": 0.1623,
+    "kickoff_utc": ""
   },
   {
     "league": "Eredivisie",
@@ -7677,7 +7771,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.3477,
     "model_prob_btts_draw": 0.1636,
-    "model_prob_btts_away": 0.1032
+    "model_prob_btts_away": 0.1032,
+    "kickoff_utc": "2026-09-12T14:30:00+00:00"
   },
   {
     "league": "National League North",
@@ -7701,7 +7796,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1775,
     "model_prob_btts_draw": 0.185,
-    "model_prob_btts_away": 0.2132
+    "model_prob_btts_away": 0.2132,
+    "kickoff_utc": ""
   },
   {
     "league": "National League North",
@@ -7725,7 +7821,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1891,
     "model_prob_btts_draw": 0.1235,
-    "model_prob_btts_away": 0.0424
+    "model_prob_btts_away": 0.0424,
+    "kickoff_utc": ""
   },
   {
     "league": "National League North",
@@ -7749,7 +7846,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2125,
     "model_prob_btts_draw": 0.1857,
-    "model_prob_btts_away": 0.1842
+    "model_prob_btts_away": 0.1842,
+    "kickoff_utc": ""
   },
   {
     "league": "National League North",
@@ -7773,7 +7871,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.171,
     "model_prob_btts_draw": 0.1827,
-    "model_prob_btts_away": 0.172
+    "model_prob_btts_away": 0.172,
+    "kickoff_utc": ""
   },
   {
     "league": "National League North",
@@ -7797,7 +7896,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.098,
     "model_prob_btts_draw": 0.1622,
-    "model_prob_btts_away": 0.2408
+    "model_prob_btts_away": 0.2408,
+    "kickoff_utc": ""
   },
   {
     "league": "Denmark Superliga",
@@ -7821,7 +7921,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.167,
     "model_prob_btts_draw": 0.1902,
-    "model_prob_btts_away": 0.1201
+    "model_prob_btts_away": 0.1201,
+    "kickoff_utc": ""
   },
   {
     "league": "National League North",
@@ -7845,7 +7946,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2786,
     "model_prob_btts_draw": 0.1859,
-    "model_prob_btts_away": 0.2333
+    "model_prob_btts_away": 0.2333,
+    "kickoff_utc": ""
   },
   {
     "league": "National League North",
@@ -7869,7 +7971,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1547,
     "model_prob_btts_draw": 0.1819,
-    "model_prob_btts_away": 0.206
+    "model_prob_btts_away": 0.206,
+    "kickoff_utc": ""
   },
   {
     "league": "Denmark Superliga",
@@ -7893,7 +7996,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.1365,
     "model_prob_btts_draw": 0.1879,
-    "model_prob_btts_away": 0.1189
+    "model_prob_btts_away": 0.1189,
+    "kickoff_utc": ""
   },
   {
     "league": "National League North",
@@ -7917,7 +8021,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2199,
     "model_prob_btts_draw": 0.1759,
-    "model_prob_btts_away": 0.1296
+    "model_prob_btts_away": 0.1296,
+    "kickoff_utc": ""
   },
   {
     "league": "Denmark Superliga",
@@ -7941,7 +8046,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.187,
     "model_prob_btts_draw": 0.2005,
-    "model_prob_btts_away": 0.207
+    "model_prob_btts_away": 0.207,
+    "kickoff_utc": ""
   },
   {
     "league": "National League",
@@ -7965,7 +8071,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2131,
     "model_prob_btts_draw": 0.192,
-    "model_prob_btts_away": 0.165
+    "model_prob_btts_away": 0.165,
+    "kickoff_utc": ""
   },
   {
     "league": "Eredivisie",
@@ -7989,7 +8096,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.0961,
     "model_prob_btts_draw": 0.1513,
-    "model_prob_btts_away": 0.3885
+    "model_prob_btts_away": 0.3885,
+    "kickoff_utc": "2026-09-12T19:00:00+00:00"
   },
   {
     "league": "National League",
@@ -8013,7 +8121,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2781,
     "model_prob_btts_draw": 0.192,
-    "model_prob_btts_away": 0.2157
+    "model_prob_btts_away": 0.2157,
+    "kickoff_utc": ""
   },
   {
     "league": "National League",
@@ -8037,7 +8146,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1713,
     "model_prob_btts_draw": 0.1846,
-    "model_prob_btts_away": 0.1255
+    "model_prob_btts_away": 0.1255,
+    "kickoff_utc": ""
   },
   {
     "league": "Eredivisie",
@@ -8061,7 +8171,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.1564,
     "model_prob_btts_draw": 0.2012,
-    "model_prob_btts_away": 0.195
+    "model_prob_btts_away": 0.195,
+    "kickoff_utc": ""
   },
   {
     "league": "Eredivisie",
@@ -8085,7 +8196,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1574,
     "model_prob_btts_draw": 0.2007,
-    "model_prob_btts_away": 0.1669
+    "model_prob_btts_away": 0.1669,
+    "kickoff_utc": "2026-09-12T18:00:00+00:00"
   },
   {
     "league": "Eredivisie",
@@ -8109,7 +8221,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1861,
     "model_prob_btts_draw": 0.2028,
-    "model_prob_btts_away": 0.1719
+    "model_prob_btts_away": 0.1719,
+    "kickoff_utc": "2026-09-12T16:45:00+00:00"
   },
   {
     "league": "National League",
@@ -8133,7 +8246,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.186,
     "model_prob_btts_draw": 0.1939,
-    "model_prob_btts_away": 0.2245
+    "model_prob_btts_away": 0.2245,
+    "kickoff_utc": ""
   },
   {
     "league": "Eredivisie",
@@ -8157,7 +8271,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.1389,
     "model_prob_btts_draw": 0.1968,
-    "model_prob_btts_away": 0.1488
+    "model_prob_btts_away": 0.1488,
+    "kickoff_utc": ""
   },
   {
     "league": "National League",
@@ -8181,7 +8296,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.278,
     "model_prob_btts_draw": 0.1906,
-    "model_prob_btts_away": 0.1909
+    "model_prob_btts_away": 0.1909,
+    "kickoff_utc": ""
   },
   {
     "league": "Ligue 1",
@@ -8205,7 +8321,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1246,
     "model_prob_btts_draw": 0.1862,
-    "model_prob_btts_away": 0.1267
+    "model_prob_btts_away": 0.1267,
+    "kickoff_utc": "2026-09-12T18:45:00+00:00"
   },
   {
     "league": "Scottish Championship",
@@ -8229,7 +8346,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1425,
     "model_prob_btts_draw": 0.1926,
-    "model_prob_btts_away": 0.0871
+    "model_prob_btts_away": 0.0871,
+    "kickoff_utc": ""
   },
   {
     "league": "Scottish Championship",
@@ -8253,7 +8371,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1836,
     "model_prob_btts_draw": 0.1903,
-    "model_prob_btts_away": 0.086
+    "model_prob_btts_away": 0.086,
+    "kickoff_utc": ""
   },
   {
     "league": "Romania Superliga",
@@ -8277,7 +8396,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.113,
     "model_prob_btts_draw": 0.1785,
-    "model_prob_btts_away": 0.1079
+    "model_prob_btts_away": 0.1079,
+    "kickoff_utc": ""
   },
   {
     "league": "Romania Superliga",
@@ -8301,7 +8421,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.1016,
     "model_prob_btts_draw": 0.1782,
-    "model_prob_btts_away": 0.1212
+    "model_prob_btts_away": 0.1212,
+    "kickoff_utc": ""
   },
   {
     "league": "Scottish Championship",
@@ -8325,7 +8446,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2278,
     "model_prob_btts_draw": 0.188,
-    "model_prob_btts_away": 0.0914
+    "model_prob_btts_away": 0.0914,
+    "kickoff_utc": ""
   },
   {
     "league": "Scottish League Two",
@@ -8349,7 +8471,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1801,
     "model_prob_btts_draw": 0.1987,
-    "model_prob_btts_away": 0.2031
+    "model_prob_btts_away": 0.2031,
+    "kickoff_utc": ""
   },
   {
     "league": "Scottish League Two",
@@ -8373,7 +8496,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2789,
     "model_prob_btts_draw": 0.1936,
-    "model_prob_btts_away": 0.1809
+    "model_prob_btts_away": 0.1809,
+    "kickoff_utc": ""
   },
   {
     "league": "Scottish League Two",
@@ -8397,7 +8521,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.204,
     "model_prob_btts_draw": 0.1781,
-    "model_prob_btts_away": 0.0959
+    "model_prob_btts_away": 0.0959,
+    "kickoff_utc": ""
   },
   {
     "league": "Scottish League One",
@@ -8421,7 +8546,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2246,
     "model_prob_btts_draw": 0.1806,
-    "model_prob_btts_away": 0.0934
+    "model_prob_btts_away": 0.0934,
+    "kickoff_utc": ""
   },
   {
     "league": "Scottish League One",
@@ -8445,7 +8571,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.0632,
     "model_prob_btts_draw": 0.1655,
-    "model_prob_btts_away": 0.1722
+    "model_prob_btts_away": 0.1722,
+    "kickoff_utc": ""
   },
   {
     "league": "Argentina Primera Division",
@@ -8469,7 +8596,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.1207,
     "model_prob_btts_draw": 0.1889,
-    "model_prob_btts_away": 0.1195
+    "model_prob_btts_away": 0.1195,
+    "kickoff_utc": ""
   },
   {
     "league": "Austria Bundesliga",
@@ -8493,7 +8621,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.0878,
     "model_prob_btts_draw": 0.1451,
-    "model_prob_btts_away": 0.0425
+    "model_prob_btts_away": 0.0425,
+    "kickoff_utc": ""
   },
   {
     "league": "Bundesliga",
@@ -8517,7 +8646,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.2047,
     "model_prob_btts_draw": 0.1967,
-    "model_prob_btts_away": 0.1502
+    "model_prob_btts_away": 0.1502,
+    "kickoff_utc": "2026-09-12T16:30:00+00:00"
   },
   {
     "league": "Denmark Superliga",
@@ -8541,7 +8671,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.2244,
     "model_prob_btts_draw": 0.2006,
-    "model_prob_btts_away": 0.2283
+    "model_prob_btts_away": 0.2283,
+    "kickoff_utc": ""
   },
   {
     "league": "Ligi 1",
@@ -8565,7 +8696,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1256,
     "model_prob_btts_draw": 0.1956,
-    "model_prob_btts_away": 0.151
+    "model_prob_btts_away": 0.151,
+    "kickoff_utc": "2026-09-12T14:00:00+00:00"
   },
   {
     "league": "Ligue 1",
@@ -8589,7 +8721,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.1872,
     "model_prob_btts_draw": 0.188,
-    "model_prob_btts_away": 0.3246
+    "model_prob_btts_away": 0.3246,
+    "kickoff_utc": ""
   },
   {
     "league": "Jupiler League",
@@ -8613,7 +8746,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.0936,
     "model_prob_btts_draw": 0.1396,
-    "model_prob_btts_away": 0.0412
+    "model_prob_btts_away": 0.0412,
+    "kickoff_utc": "2026-09-12T18:45:00+00:00"
   },
   {
     "league": "Eredivisie",
@@ -8637,7 +8771,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.4414,
     "model_prob_btts_draw": 0.1248,
-    "model_prob_btts_away": 0.0734
+    "model_prob_btts_away": 0.0734,
+    "kickoff_utc": ""
   },
   {
     "league": "Eredivisie",
@@ -8661,7 +8796,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.1178,
     "model_prob_btts_draw": 0.1766,
-    "model_prob_btts_away": 0.3156
+    "model_prob_btts_away": 0.3156,
+    "kickoff_utc": ""
   },
   {
     "league": "Poland Ekstraklasa",
@@ -8685,7 +8821,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.2813,
     "model_prob_btts_draw": 0.1895,
-    "model_prob_btts_away": 0.1328
+    "model_prob_btts_away": 0.1328,
+    "kickoff_utc": ""
   },
   {
     "league": "Poland Ekstraklasa",
@@ -8709,7 +8846,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-13",
     "model_prob_btts_home": 0.1512,
     "model_prob_btts_draw": 0.1938,
-    "model_prob_btts_away": 0.1142
+    "model_prob_btts_away": 0.1142,
+    "kickoff_utc": ""
   },
   {
     "league": "Ligi 1",
@@ -8733,7 +8871,8 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1124,
     "model_prob_btts_draw": 0.1924,
-    "model_prob_btts_away": 0.157
+    "model_prob_btts_away": 0.157,
+    "kickoff_utc": "2026-09-12T17:00:00+00:00"
   },
   {
     "league": "Liga I",
@@ -8757,6 +8896,7 @@ const PENDING_PREDICTIONS = [
     "match_date": "2026-09-12",
     "model_prob_btts_home": 0.1424,
     "model_prob_btts_draw": 0.176,
-    "model_prob_btts_away": 0.118
+    "model_prob_btts_away": 0.118,
+    "kickoff_utc": "2026-09-12T19:30:00+00:00"
   }
 ];

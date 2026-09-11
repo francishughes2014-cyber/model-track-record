@@ -662,6 +662,16 @@ function renderPending() {
     return dates.length ? dates.sort()[0] : '';
   }
 
+  // Converts the stored UTC kickoff time to each viewer's own local
+  // time — more honest and useful than showing a fixed UTC time
+  // everyone has to mentally convert themselves.
+  function formatKickoff(p) {
+    if (!p.kickoff_utc) return '—';
+    const d = new Date(p.kickoff_utc);
+    if (isNaN(d.getTime())) return '—';
+    return d.toLocaleTimeString(undefined, { hour: '2-digit', minute: '2-digit' });
+  }
+
   const preds = pendingHideLowConf ? allPreds.filter(p => !rowIsLowConf(p)) : allPreds;
   countEl.textContent = `n = ${preds.length}` + (pendingHideLowConf && preds.length !== allPreds.length
     ? ` (of ${allPreds.length})` : '');
@@ -693,6 +703,7 @@ function renderPending() {
   function sortValue(p, col) {
     if (col === 'first_seen') return firstSeenOf(p);
     if (col === 'match_date') return p.match_date || '';
+    if (col === 'kickoff_utc') return p.kickoff_utc || '';
     if (col === 'league') return p.league || '';
     if (col === 'match') return `${p.home_team} vs ${p.away_team}`;
     return p[col];
@@ -726,6 +737,7 @@ function renderPending() {
       <thead><tr>
         ${headerCell('first_seen', 'first predicted', true)}
         ${headerCell('match_date', 'match date', true)}
+        ${headerCell('kickoff_utc', 'kickoff', true)}
         ${headerCell('league', 'league', true)}
         ${headerCell('match', 'match', true)}
         ${marketCols.map(([col, label]) => headerCell(col, label, false)).join('')}
@@ -738,6 +750,7 @@ function renderPending() {
           <tr>
             <td style="text-align:left">${displayDate}</td>
             <td style="text-align:left">${p.match_date || '—'}</td>
+            <td style="text-align:left">${formatKickoff(p)}</td>
             <td style="text-align:left">${p.league || ''}</td>
             <td style="text-align:left">${p.home_team} vs ${p.away_team}${
               lowConf ? '<span class="low-conf-tag">low n</span>' : ''}</td>
