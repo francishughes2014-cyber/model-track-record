@@ -75,31 +75,6 @@ const PENDING_PREDICTIONS = [
     "kickoff_utc": ""
   },
   {
-    "league": "Mexico Liga MX",
-    "home_team": "UNAM Pumas",
-    "away_team": "Club Leon",
-    "ft_date_logged": "2026-09-02",
-    "model_prob_over15": "",
-    "model_prob_over": 0.6875,
-    "model_prob_over35": 0.3197,
-    "model_prob_home": 0.5964,
-    "model_prob_draw": 0.2329,
-    "model_prob_away": 0.1706,
-    "model_prob_btts_yes": 0.5255,
-    "model_prob_btts_over25": 0.4145,
-    "ft_low_confidence": "",
-    "ht_date_logged": "",
-    "model_prob_ht_over15": "",
-    "ht_low_confidence": "",
-    "ft_first_seen": "2026-09-02",
-    "ht_first_seen": "",
-    "match_date": "2026-09-11",
-    "model_prob_btts_home": "",
-    "model_prob_btts_draw": "",
-    "model_prob_btts_away": "",
-    "kickoff_utc": ""
-  },
-  {
     "league": "League One",
     "home_team": "Oxford",
     "away_team": "Reading",
@@ -1625,231 +1600,6 @@ const PENDING_PREDICTIONS = [
     "kickoff_utc": ""
   },
   {
-    "league": "Bundesliga 2",
-    "home_team": "Nurnberg",
-    "away_team": "Hannover",
-    "ft_date_logged": "2026-09-09",
-    "model_prob_over15": 0.7893,
-    "model_prob_over": 0.5949,
-    "model_prob_over35": 0.3629,
-    "model_prob_home": 0.3504,
-    "model_prob_draw": 0.2832,
-    "model_prob_away": 0.3664,
-    "model_prob_btts_yes": 0.5631,
-    "model_prob_btts_over25": 0.4525,
-    "ft_low_confidence": false,
-    "ht_date_logged": "2026-09-09",
-    "model_prob_ht_over15": 0.4108,
-    "ht_low_confidence": false,
-    "ft_first_seen": "2026-09-09",
-    "ht_first_seen": "2026-09-09",
-    "match_date": "2026-09-11",
-    "model_prob_btts_home": "",
-    "model_prob_btts_draw": "",
-    "model_prob_btts_away": "",
-    "kickoff_utc": ""
-  },
-  {
-    "league": "Bundesliga 2",
-    "home_team": "Darmstadt",
-    "away_team": "Bielefeld",
-    "ft_date_logged": "2026-09-09",
-    "model_prob_over15": 0.7753,
-    "model_prob_over": 0.5688,
-    "model_prob_over35": 0.3594,
-    "model_prob_home": 0.3404,
-    "model_prob_draw": 0.2934,
-    "model_prob_away": 0.3662,
-    "model_prob_btts_yes": 0.5579,
-    "model_prob_btts_over25": 0.4351,
-    "ft_low_confidence": false,
-    "ht_date_logged": "2026-09-09",
-    "model_prob_ht_over15": 0.4033,
-    "ht_low_confidence": false,
-    "ft_first_seen": "2026-09-09",
-    "ht_first_seen": "2026-09-09",
-    "match_date": "2026-09-11",
-    "model_prob_btts_home": "",
-    "model_prob_btts_draw": "",
-    "model_prob_btts_away": "",
-    "kickoff_utc": ""
-  },
-  {
-    "league": "Championship",
-    "home_team": "West Ham",
-    "away_team": "Wrexham",
-    "ft_date_logged": "2026-09-09",
-    "model_prob_over15": 0.9151,
-    "model_prob_over": 0.8142,
-    "model_prob_over35": 0.3822,
-    "model_prob_home": 0.5366,
-    "model_prob_draw": 0.2061,
-    "model_prob_away": 0.2573,
-    "model_prob_btts_yes": 0.7608,
-    "model_prob_btts_over25": 0.712,
-    "ft_low_confidence": true,
-    "ht_date_logged": "2026-09-09",
-    "model_prob_ht_over15": 0.6939,
-    "ht_low_confidence": true,
-    "ft_first_seen": "2026-09-09",
-    "ht_first_seen": "2026-09-09",
-    "match_date": "2026-09-11",
-    "model_prob_btts_home": "",
-    "model_prob_btts_draw": "",
-    "model_prob_btts_away": "",
-    "kickoff_utc": ""
-  },
-  {
-    "league": "La Liga 2",
-    "home_team": "Burgos",
-    "away_team": "Ceuta",
-    "ft_date_logged": "2026-09-09",
-    "model_prob_over15": 0.7248,
-    "model_prob_over": 0.3838,
-    "model_prob_over35": 0.3478,
-    "model_prob_home": 0.4078,
-    "model_prob_draw": 0.3189,
-    "model_prob_away": 0.2733,
-    "model_prob_btts_yes": 0.5037,
-    "model_prob_btts_over25": 0.3353,
-    "ft_low_confidence": false,
-    "ht_date_logged": "2026-09-09",
-    "model_prob_ht_over15": 0.3816,
-    "ht_low_confidence": false,
-    "ft_first_seen": "2026-09-09",
-    "ht_first_seen": "2026-09-09",
-    "match_date": "2026-09-11",
-    "model_prob_btts_home": "",
-    "model_prob_btts_draw": "",
-    "model_prob_btts_away": "",
-    "kickoff_utc": ""
-  },
-  {
-    "league": "Eredivisie",
-    "home_team": "AZ Alkmaar",
-    "away_team": "Willem II",
-    "ft_date_logged": "2026-09-09",
-    "model_prob_over15": 0.7997,
-    "model_prob_over": 0.5991,
-    "model_prob_over35": 0.3621,
-    "model_prob_home": 0.644,
-    "model_prob_draw": 0.2217,
-    "model_prob_away": 0.1344,
-    "model_prob_btts_yes": 0.5548,
-    "model_prob_btts_over25": 0.4367,
-    "ft_low_confidence": false,
-    "ht_date_logged": "2026-09-09",
-    "model_prob_ht_over15": 0.3886,
-    "ht_low_confidence": false,
-    "ft_first_seen": "2026-09-09",
-    "ht_first_seen": "2026-09-09",
-    "match_date": "2026-09-11",
-    "model_prob_btts_home": "",
-    "model_prob_btts_draw": "",
-    "model_prob_btts_away": "",
-    "kickoff_utc": ""
-  },
-  {
-    "league": "Jupiler League",
-    "home_team": "Mechelen",
-    "away_team": "Anderlecht",
-    "ft_date_logged": "2026-09-09",
-    "model_prob_over15": 0.8115,
-    "model_prob_over": 0.6061,
-    "model_prob_over35": 0.3601,
-    "model_prob_home": 0.4618,
-    "model_prob_draw": 0.2658,
-    "model_prob_away": 0.2725,
-    "model_prob_btts_yes": 0.57,
-    "model_prob_btts_over25": 0.5236,
-    "ft_low_confidence": false,
-    "ht_date_logged": "2026-09-09",
-    "model_prob_ht_over15": 0.3956,
-    "ht_low_confidence": false,
-    "ft_first_seen": "2026-09-09",
-    "ht_first_seen": "2026-09-09",
-    "match_date": "2026-09-11",
-    "model_prob_btts_home": "",
-    "model_prob_btts_draw": "",
-    "model_prob_btts_away": "",
-    "kickoff_utc": ""
-  },
-  {
-    "league": "Serie B",
-    "home_team": "Empoli",
-    "away_team": "Arezzo",
-    "ft_date_logged": "2026-09-09",
-    "model_prob_over15": 0.9189,
-    "model_prob_over": 0.8093,
-    "model_prob_over35": 0.3813,
-    "model_prob_home": 0.3832,
-    "model_prob_draw": 0.2402,
-    "model_prob_away": 0.3766,
-    "model_prob_btts_yes": 0.8147,
-    "model_prob_btts_over25": 0.6767,
-    "ft_low_confidence": true,
-    "ht_date_logged": "2026-09-09",
-    "model_prob_ht_over15": 0.3211,
-    "ht_low_confidence": true,
-    "ft_first_seen": "2026-09-09",
-    "ht_first_seen": "2026-09-09",
-    "match_date": "2026-09-11",
-    "model_prob_btts_home": "",
-    "model_prob_btts_draw": "",
-    "model_prob_btts_away": "",
-    "kickoff_utc": ""
-  },
-  {
-    "league": "Serie B",
-    "home_team": "Pisa",
-    "away_team": "Virtus Entella",
-    "ft_date_logged": "2026-09-09",
-    "model_prob_over15": 0.769,
-    "model_prob_over": 0.5334,
-    "model_prob_over35": 0.357,
-    "model_prob_home": 0.601,
-    "model_prob_draw": 0.2681,
-    "model_prob_away": 0.1308,
-    "model_prob_btts_yes": 0.5277,
-    "model_prob_btts_over25": 0.3992,
-    "ft_low_confidence": false,
-    "ht_date_logged": "2026-09-09",
-    "model_prob_ht_over15": 0.3455,
-    "ht_low_confidence": false,
-    "ft_first_seen": "2026-09-09",
-    "ht_first_seen": "2026-09-09",
-    "match_date": "2026-09-11",
-    "model_prob_btts_home": "",
-    "model_prob_btts_draw": "",
-    "model_prob_btts_away": "",
-    "kickoff_utc": ""
-  },
-  {
-    "league": "Ligi 1",
-    "home_team": "Besiktas",
-    "away_team": "Erzurumspor",
-    "ft_date_logged": "2026-09-09",
-    "model_prob_over15": 0.7864,
-    "model_prob_over": 0.5924,
-    "model_prob_over35": 0.3615,
-    "model_prob_home": 0.7009,
-    "model_prob_draw": 0.2103,
-    "model_prob_away": 0.0888,
-    "model_prob_btts_yes": 0.5205,
-    "model_prob_btts_over25": 0.401,
-    "ft_low_confidence": true,
-    "ht_date_logged": "2026-09-09",
-    "model_prob_ht_over15": 0.4686,
-    "ht_low_confidence": true,
-    "ft_first_seen": "2026-09-09",
-    "ht_first_seen": "2026-09-09",
-    "match_date": "2026-09-11",
-    "model_prob_btts_home": "",
-    "model_prob_btts_draw": "",
-    "model_prob_btts_away": "",
-    "kickoff_utc": ""
-  },
-  {
     "league": "Premier League",
     "home_team": "Aston Villa",
     "away_team": "Nott'm Forest",
@@ -1972,7 +1722,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.1413,
     "model_prob_btts_draw": 0.1854,
     "model_prob_btts_away": 0.2666,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T11:30:00+00:00"
   },
   {
     "league": "Championship",
@@ -2147,7 +1897,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.069,
     "model_prob_btts_draw": 0.1676,
     "model_prob_btts_away": 0.1948,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T13:00:00+00:00"
   },
   {
     "league": "Scottish League One",
@@ -2372,7 +2122,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.2157,
     "model_prob_btts_draw": 0.1986,
     "model_prob_btts_away": 0.2902,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T15:30:00+00:00"
   },
   {
     "league": "League One",
@@ -2447,7 +2197,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.1558,
     "model_prob_btts_draw": 0.1944,
     "model_prob_btts_away": 0.1256,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-12T23:00:00+00:00"
   },
   {
     "league": "Argentina Primera Division",
@@ -2472,7 +2222,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.1227,
     "model_prob_btts_draw": 0.1885,
     "model_prob_btts_away": 0.116,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T17:45:00+00:00"
   },
   {
     "league": "Switzerland Super League",
@@ -2497,7 +2247,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.2017,
     "model_prob_btts_draw": 0.1948,
     "model_prob_btts_away": 0.2738,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T12:00:00+00:00"
   },
   {
     "league": "Austria Bundesliga",
@@ -2522,7 +2272,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.3509,
     "model_prob_btts_draw": 0.1878,
     "model_prob_btts_away": 0.2018,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T15:00:00+00:00"
   },
   {
     "league": "Austria Bundesliga",
@@ -2547,7 +2297,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.121,
     "model_prob_btts_draw": 0.1838,
     "model_prob_btts_away": 0.098,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T12:30:00+00:00"
   },
   {
     "league": "Austria Bundesliga",
@@ -2672,7 +2422,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.2456,
     "model_prob_btts_draw": 0.1738,
     "model_prob_btts_away": 0.1022,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-12T23:30:00+00:00"
   },
   {
     "league": "Switzerland Super League",
@@ -2697,7 +2447,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.2395,
     "model_prob_btts_draw": 0.1958,
     "model_prob_btts_away": 0.1765,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T14:30:00+00:00"
   },
   {
     "league": "Switzerland Super League",
@@ -2747,7 +2497,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.1476,
     "model_prob_btts_draw": 0.1935,
     "model_prob_btts_away": 0.1955,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T14:30:00+00:00"
   },
   {
     "league": "Brazil Serie A",
@@ -2797,7 +2547,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.2626,
     "model_prob_btts_draw": 0.1367,
     "model_prob_btts_away": 0.0554,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T20:30:00+00:00"
   },
   {
     "league": "USA MLS",
@@ -2822,7 +2572,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.2576,
     "model_prob_btts_draw": 0.1923,
     "model_prob_btts_away": 0.154,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T21:30:00+00:00"
   },
   {
     "league": "USA MLS",
@@ -2847,7 +2597,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.2138,
     "model_prob_btts_draw": 0.1841,
     "model_prob_btts_away": 0.1104,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T01:30:00+00:00"
   },
   {
     "league": "USA MLS",
@@ -2872,7 +2622,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.1637,
     "model_prob_btts_draw": 0.1907,
     "model_prob_btts_away": 0.1272,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-12T23:30:00+00:00"
   },
   {
     "league": "Argentina Primera Division",
@@ -2897,7 +2647,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.1823,
     "model_prob_btts_draw": 0.1783,
     "model_prob_btts_away": 0.0846,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T20:00:00+00:00"
   },
   {
     "league": "USA MLS",
@@ -2922,7 +2672,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.1999,
     "model_prob_btts_draw": 0.1989,
     "model_prob_btts_away": 0.1775,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T00:30:00+00:00"
   },
   {
     "league": "USA MLS",
@@ -2947,7 +2697,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.1123,
     "model_prob_btts_draw": 0.1862,
     "model_prob_btts_away": 0.1931,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T00:30:00+00:00"
   },
   {
     "league": "USA MLS",
@@ -2972,7 +2722,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.2221,
     "model_prob_btts_draw": 0.1886,
     "model_prob_btts_away": 0.1255,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T02:30:00+00:00"
   },
   {
     "league": "USA MLS",
@@ -2997,7 +2747,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.1848,
     "model_prob_btts_draw": 0.1931,
     "model_prob_btts_away": 0.1364,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T01:30:00+00:00"
   },
   {
     "league": "Argentina Primera Division",
@@ -3072,7 +2822,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.226,
     "model_prob_btts_draw": 0.1764,
     "model_prob_btts_away": 0.0963,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-12T23:30:00+00:00"
   },
   {
     "league": "USA MLS",
@@ -3097,7 +2847,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.1786,
     "model_prob_btts_draw": 0.1938,
     "model_prob_btts_away": 0.14,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T02:30:00+00:00"
   },
   {
     "league": "Argentina Primera Division",
@@ -3147,7 +2897,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.3119,
     "model_prob_btts_draw": 0.173,
     "model_prob_btts_away": 0.1158,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-12T23:30:00+00:00"
   },
   {
     "league": "USA MLS",
@@ -3172,7 +2922,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.2326,
     "model_prob_btts_draw": 0.1977,
     "model_prob_btts_away": 0.1763,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T00:30:00+00:00"
   },
   {
     "league": "USA MLS",
@@ -3197,7 +2947,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.2282,
     "model_prob_btts_draw": 0.1908,
     "model_prob_btts_away": 0.1349,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-12T23:30:00+00:00"
   },
   {
     "league": "Argentina Primera Division",
@@ -3497,7 +3247,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.1879,
     "model_prob_btts_draw": 0.198,
     "model_prob_btts_away": 0.1291,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T15:15:00+00:00"
   },
   {
     "league": "Southern League Central",
@@ -3597,7 +3347,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.1304,
     "model_prob_btts_draw": 0.1975,
     "model_prob_btts_away": 0.1508,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T15:15:00+00:00"
   },
   {
     "league": "Bundesliga 2",
@@ -3647,7 +3397,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.2205,
     "model_prob_btts_draw": 0.1949,
     "model_prob_btts_away": 0.2389,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T18:45:00+00:00"
   },
   {
     "league": "Serie A",
@@ -3672,7 +3422,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.1976,
     "model_prob_btts_draw": 0.1931,
     "model_prob_btts_away": 0.1704,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T16:00:00+00:00"
   },
   {
     "league": "Serie A",
@@ -3697,7 +3447,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.1933,
     "model_prob_btts_draw": 0.1689,
     "model_prob_btts_away": 0.0862,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T13:00:00+00:00"
   },
   {
     "league": "Serie A",
@@ -3772,7 +3522,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.3587,
     "model_prob_btts_draw": 0.1687,
     "model_prob_btts_away": 0.133,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T11:30:00+00:00"
   },
   {
     "league": "Serie B",
@@ -3822,7 +3572,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.3088,
     "model_prob_btts_draw": 0.1891,
     "model_prob_btts_away": 0.2655,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T11:30:00+00:00"
   },
   {
     "league": "Southern League Central",
@@ -3897,7 +3647,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.1766,
     "model_prob_btts_draw": 0.1637,
     "model_prob_btts_away": 0.0733,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T19:00:00+00:00"
   },
   {
     "league": "Brazil Serie A",
@@ -3997,7 +3747,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.1761,
     "model_prob_btts_draw": 0.1929,
     "model_prob_btts_away": 0.1582,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T00:00:00+00:00"
   },
   {
     "league": "Southern League South",
@@ -4122,7 +3872,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.3358,
     "model_prob_btts_draw": 0.1381,
     "model_prob_btts_away": 0.0668,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T13:30:00+00:00"
   },
   {
     "league": "Bundesliga",
@@ -4197,7 +3947,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.1032,
     "model_prob_btts_draw": 0.1661,
     "model_prob_btts_away": 0.3227,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T15:30:00+00:00"
   },
   {
     "league": "Southern League South",
@@ -4622,7 +4372,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.1519,
     "model_prob_btts_draw": 0.1754,
     "model_prob_btts_away": 0.0752,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T14:00:00+00:00"
   },
   {
     "league": "Ligi 1",
@@ -4647,7 +4397,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.2615,
     "model_prob_btts_draw": 0.1264,
     "model_prob_btts_away": 0.0419,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T17:00:00+00:00"
   },
   {
     "league": "La Liga",
@@ -4697,7 +4447,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.1623,
     "model_prob_btts_draw": 0.1902,
     "model_prob_btts_away": 0.2168,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T19:00:00+00:00"
   },
   {
     "league": "Ligue 1",
@@ -4722,7 +4472,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.074,
     "model_prob_btts_draw": 0.168,
     "model_prob_btts_away": 0.1706,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T15:15:00+00:00"
   },
   {
     "league": "Ligi 1",
@@ -4747,7 +4497,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.1842,
     "model_prob_btts_draw": 0.1913,
     "model_prob_btts_away": 0.3264,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T17:00:00+00:00"
   },
   {
     "league": "La Liga 2",
@@ -4797,7 +4547,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.0567,
     "model_prob_btts_draw": 0.1385,
     "model_prob_btts_away": 0.2253,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T19:30:00+00:00"
   },
   {
     "league": "Liga I",
@@ -4847,7 +4597,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.4222,
     "model_prob_btts_draw": 0.0945,
     "model_prob_btts_away": 0.0457,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T17:00:00+00:00"
   },
   {
     "league": "La Liga 2",
@@ -4897,7 +4647,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.2106,
     "model_prob_btts_draw": 0.1854,
     "model_prob_btts_away": 0.1502,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T17:00:00+00:00"
   },
   {
     "league": "League Two",
@@ -4997,7 +4747,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.1686,
     "model_prob_btts_draw": 0.1647,
     "model_prob_btts_away": 0.0692,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T13:00:00+00:00"
   },
   {
     "league": "Jupiler League",
@@ -5022,7 +4772,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.3688,
     "model_prob_btts_draw": 0.1142,
     "model_prob_btts_away": 0.0508,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T11:30:00+00:00"
   },
   {
     "league": "Jupiler League",
@@ -5047,7 +4797,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.3884,
     "model_prob_btts_draw": 0.1549,
     "model_prob_btts_away": 0.108,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T14:00:00+00:00"
   },
   {
     "league": "Mexico Liga MX",
@@ -5072,7 +4822,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.2773,
     "model_prob_btts_draw": 0.1601,
     "model_prob_btts_away": 0.0793,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-12T23:00:00+00:00"
   },
   {
     "league": "Mexico Liga MX",
@@ -5122,7 +4872,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.2277,
     "model_prob_btts_draw": 0.1995,
     "model_prob_btts_away": 0.1721,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T01:10:00+00:00"
   },
   {
     "league": "Jupiler League",
@@ -5172,7 +4922,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.2155,
     "model_prob_btts_draw": 0.1958,
     "model_prob_btts_away": 0.1437,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T03:15:00+00:00"
   },
   {
     "league": "Mexico Liga MX",
@@ -5222,7 +4972,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.118,
     "model_prob_btts_draw": 0.167,
     "model_prob_btts_away": 0.0732,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T17:15:00+00:00"
   },
   {
     "league": "Mexico Liga MX",
@@ -5272,7 +5022,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.2495,
     "model_prob_btts_draw": 0.1968,
     "model_prob_btts_away": 0.1817,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T16:30:00+00:00"
   },
   {
     "league": "Jupiler League",
@@ -5397,7 +5147,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.0532,
     "model_prob_btts_draw": 0.0977,
     "model_prob_btts_away": 0.0191,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T12:00:00+00:00"
   },
   {
     "league": "Ligue 2",
@@ -5447,7 +5197,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.0826,
     "model_prob_btts_draw": 0.1608,
     "model_prob_btts_away": 0.0968,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T16:30:00+00:00"
   },
   {
     "league": "Ligue 1",
@@ -5522,7 +5272,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.1822,
     "model_prob_btts_draw": 0.17,
     "model_prob_btts_away": 0.4015,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T14:15:00+00:00"
   },
   {
     "league": "League Two",
@@ -5972,7 +5722,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.0642,
     "model_prob_btts_draw": 0.1507,
     "model_prob_btts_away": 0.0919,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T16:30:00+00:00"
   },
   {
     "league": "League Two",
@@ -6122,7 +5872,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.1388,
     "model_prob_btts_draw": 0.1658,
     "model_prob_btts_away": 0.0821,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T12:00:00+00:00"
   },
   {
     "league": "La Liga 2",
@@ -6147,7 +5897,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.0664,
     "model_prob_btts_draw": 0.144,
     "model_prob_btts_away": 0.0662,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T19:00:00+00:00"
   },
   {
     "league": "La Liga 2",
@@ -6172,7 +5922,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.1331,
     "model_prob_btts_draw": 0.1783,
     "model_prob_btts_away": 0.1187,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T14:15:00+00:00"
   },
   {
     "league": "League One",
@@ -6797,7 +6547,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.2175,
     "model_prob_btts_draw": 0.1904,
     "model_prob_btts_away": 0.1111,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T15:30:00+00:00"
   },
   {
     "league": "Championship",
@@ -6872,7 +6622,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.3138,
     "model_prob_btts_draw": 0.1204,
     "model_prob_btts_away": 0.052,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T12:30:00+00:00"
   },
   {
     "league": "Norway Eliteserien",
@@ -6897,7 +6647,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.129,
     "model_prob_btts_draw": 0.1791,
     "model_prob_btts_away": 0.247,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T15:00:00+00:00"
   },
   {
     "league": "Championship",
@@ -6922,7 +6672,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.203,
     "model_prob_btts_draw": 0.1947,
     "model_prob_btts_away": 0.2859,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T11:00:00+00:00"
   },
   {
     "league": "Championship",
@@ -7022,7 +6772,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.1887,
     "model_prob_btts_draw": 0.178,
     "model_prob_btts_away": 0.1146,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T15:00:00+00:00"
   },
   {
     "league": "Norway Eliteserien",
@@ -7047,7 +6797,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.1828,
     "model_prob_btts_draw": 0.1907,
     "model_prob_btts_away": 0.2179,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T15:00:00+00:00"
   },
   {
     "league": "Norway Eliteserien",
@@ -7072,7 +6822,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.1675,
     "model_prob_btts_draw": 0.1797,
     "model_prob_btts_away": 0.1205,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T17:15:00+00:00"
   },
   {
     "league": "Championship",
@@ -7922,7 +7672,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.167,
     "model_prob_btts_draw": 0.1902,
     "model_prob_btts_away": 0.1201,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T12:00:00+00:00"
   },
   {
     "league": "National League North",
@@ -7997,7 +7747,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.1365,
     "model_prob_btts_draw": 0.1879,
     "model_prob_btts_away": 0.1189,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T14:00:00+00:00"
   },
   {
     "league": "National League North",
@@ -8047,7 +7797,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.187,
     "model_prob_btts_draw": 0.2005,
     "model_prob_btts_away": 0.207,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T12:00:00+00:00"
   },
   {
     "league": "National League",
@@ -8172,7 +7922,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.1564,
     "model_prob_btts_draw": 0.2012,
     "model_prob_btts_away": 0.195,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T10:15:00+00:00"
   },
   {
     "league": "Eredivisie",
@@ -8272,7 +8022,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.1389,
     "model_prob_btts_draw": 0.1968,
     "model_prob_btts_away": 0.1488,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T12:30:00+00:00"
   },
   {
     "league": "National League",
@@ -8397,7 +8147,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.113,
     "model_prob_btts_draw": 0.1785,
     "model_prob_btts_away": 0.1079,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T17:30:00+00:00"
   },
   {
     "league": "Romania Superliga",
@@ -8422,7 +8172,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.1016,
     "model_prob_btts_draw": 0.1782,
     "model_prob_btts_away": 0.1212,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T12:00:00+00:00"
   },
   {
     "league": "Scottish Championship",
@@ -8597,7 +8347,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.1207,
     "model_prob_btts_draw": 0.1889,
     "model_prob_btts_away": 0.1195,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T17:45:00+00:00"
   },
   {
     "league": "Austria Bundesliga",
@@ -8622,7 +8372,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.0878,
     "model_prob_btts_draw": 0.1451,
     "model_prob_btts_away": 0.0425,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T12:30:00+00:00"
   },
   {
     "league": "Bundesliga",
@@ -8672,7 +8422,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.2244,
     "model_prob_btts_draw": 0.2006,
     "model_prob_btts_away": 0.2283,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T16:00:00+00:00"
   },
   {
     "league": "Ligi 1",
@@ -8722,7 +8472,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.1872,
     "model_prob_btts_draw": 0.188,
     "model_prob_btts_away": 0.3246,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T18:45:00+00:00"
   },
   {
     "league": "Jupiler League",
@@ -8772,7 +8522,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.4414,
     "model_prob_btts_draw": 0.1248,
     "model_prob_btts_away": 0.0734,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T18:00:00+00:00"
   },
   {
     "league": "Eredivisie",
@@ -8797,7 +8547,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.1178,
     "model_prob_btts_draw": 0.1766,
     "model_prob_btts_away": 0.3156,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T14:45:00+00:00"
   },
   {
     "league": "Poland Ekstraklasa",
@@ -8822,7 +8572,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.2813,
     "model_prob_btts_draw": 0.1895,
     "model_prob_btts_away": 0.1328,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T12:45:00+00:00"
   },
   {
     "league": "Poland Ekstraklasa",
@@ -8847,7 +8597,7 @@ const PENDING_PREDICTIONS = [
     "model_prob_btts_home": 0.1512,
     "model_prob_btts_draw": 0.1938,
     "model_prob_btts_away": 0.1142,
-    "kickoff_utc": ""
+    "kickoff_utc": "2026-09-13T10:15:00+00:00"
   },
   {
     "league": "Ligi 1",
