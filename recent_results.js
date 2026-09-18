@@ -301,7 +301,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "1-2",
     "over25": {
-      "pred": 0.5464,
+      "pred": 0.5438,
       "hit": true,
       "label": "O 2.5"
     },
@@ -330,7 +330,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "0-1",
     "over25": {
-      "pred": 0.424,
+      "pred": 0.4216,
       "hit": true,
       "label": "O 2.5"
     },
@@ -423,7 +423,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "2-1",
     "over25": {
-      "pred": 0.5238,
+      "pred": 0.5218,
       "hit": true,
       "label": "O 2.5"
     },
@@ -452,7 +452,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "2-2",
     "over25": {
-      "pred": 0.5671,
+      "pred": 0.5653,
       "hit": true,
       "label": "O 2.5"
     },
@@ -481,7 +481,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "1-0",
     "over25": {
-      "pred": 0.4988,
+      "pred": 0.4976,
       "hit": true,
       "label": "O 2.5"
     },
@@ -510,7 +510,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "0-3",
     "over25": {
-      "pred": 0.5569,
+      "pred": 0.5546,
       "hit": true,
       "label": "O 2.5"
     },
@@ -603,7 +603,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "3-1",
     "over25": {
-      "pred": 0.5894,
+      "pred": 0.5887,
       "hit": true,
       "label": "O 2.5"
     },
@@ -632,7 +632,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "4-1",
     "over25": {
-      "pred": 0.6097,
+      "pred": 0.6099,
       "hit": true,
       "label": "O 2.5"
     },
@@ -661,7 +661,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "5-1",
     "over25": {
-      "pred": 0.753,
+      "pred": 0.7576,
       "hit": true,
       "label": "O 2.5"
     },
@@ -690,7 +690,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "1-1",
     "over25": {
-      "pred": 0.6788,
+      "pred": 0.681,
       "hit": false,
       "label": "O 2.5"
     },
@@ -719,7 +719,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "4-1",
     "over25": {
-      "pred": 0.7061,
+      "pred": 0.7092,
       "hit": true,
       "label": "O 2.5"
     },
@@ -748,7 +748,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "1-2",
     "over25": {
-      "pred": 0.6108,
+      "pred": 0.6111,
       "hit": true,
       "label": "O 2.5"
     },
@@ -2269,24 +2269,24 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "1-0",
     "over25": {
-      "pred": 0.4989,
+      "pred": 0.4884,
       "hit": true,
       "label": "O 2.5"
     },
     "home": {
-      "pred": 0.2656,
+      "pred": 0.2627,
       "is_result": true
     },
     "draw": {
-      "pred": 0.2858,
+      "pred": 0.29,
       "is_result": false
     },
     "away": {
-      "pred": 0.4486,
+      "pred": 0.4473,
       "is_result": false
     },
     "ht_over15": {
-      "pred": 0.2844,
+      "pred": 0.2775,
       "hit": true,
       "label": "HT O1.5"
     }
@@ -2298,24 +2298,24 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "4-0",
     "over25": {
-      "pred": 0.6664,
+      "pred": 0.6775,
       "hit": true,
       "label": "O 2.5"
     },
     "home": {
-      "pred": 0.5868,
+      "pred": 0.5869,
       "is_result": true
     },
     "draw": {
-      "pred": 0.2071,
+      "pred": 0.2072,
       "is_result": false
     },
     "away": {
-      "pred": 0.2061,
+      "pred": 0.2059,
       "is_result": false
     },
     "ht_over15": {
-      "pred": 0.4551,
+      "pred": 0.4562,
       "hit": false,
       "label": "HT O1.5"
     }
@@ -2327,24 +2327,24 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "1-2",
     "over25": {
-      "pred": 0.6951,
+      "pred": 0.7043,
       "hit": true,
       "label": "O 2.5"
     },
     "home": {
-      "pred": 0.3108,
+      "pred": 0.3117,
       "is_result": false
     },
     "draw": {
-      "pred": 0.2238,
+      "pred": 0.2243,
       "is_result": false
     },
     "away": {
-      "pred": 0.4654,
+      "pred": 0.464,
       "is_result": true
     },
     "ht_over15": {
-      "pred": 0.4467,
+      "pred": 0.448,
       "hit": true,
       "label": "HT O1.5"
     }
@@ -2356,24 +2356,24 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "1-3",
     "over25": {
-      "pred": 0.6021,
+      "pred": 0.6044,
       "hit": true,
       "label": "O 2.5"
     },
     "home": {
-      "pred": 0.5148,
+      "pred": 0.5147,
       "is_result": false
     },
     "draw": {
-      "pred": 0.2329,
+      "pred": 0.2335,
       "is_result": false
     },
     "away": {
-      "pred": 0.2523,
+      "pred": 0.2518,
       "is_result": true
     },
     "ht_over15": {
-      "pred": 0.4622,
+      "pred": 0.4623,
       "hit": true,
       "label": "HT O1.5"
     }
@@ -2385,7 +2385,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "5-2",
     "over25": {
-      "pred": 0.6167,
+      "pred": 0.6231,
       "hit": true,
       "label": "O 2.5"
     },
@@ -2394,15 +2394,15 @@ const RECENT_RESULTS = [
       "is_result": true
     },
     "draw": {
-      "pred": 0.2384,
+      "pred": 0.2389,
       "is_result": false
     },
     "away": {
-      "pred": 0.3667,
+      "pred": 0.3662,
       "is_result": false
     },
     "ht_over15": {
-      "pred": 0.4916,
+      "pred": 0.4921,
       "hit": false,
       "label": "HT O1.5"
     }
@@ -2414,24 +2414,24 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "0-0",
     "over25": {
-      "pred": 0.5904,
+      "pred": 0.5687,
       "hit": false,
       "label": "O 2.5"
     },
     "home": {
-      "pred": 0.4571,
+      "pred": 0.4329,
       "is_result": false
     },
     "draw": {
-      "pred": 0.2454,
+      "pred": 0.2553,
       "is_result": true
     },
     "away": {
-      "pred": 0.2975,
+      "pred": 0.3118,
       "is_result": false
     },
     "ht_over15": {
-      "pred": 0.5677,
+      "pred": 0.5217,
       "hit": false,
       "label": "HT O1.5"
     }
@@ -2443,24 +2443,24 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "2-1",
     "over25": {
-      "pred": 0.5522,
+      "pred": 0.5416,
       "hit": true,
       "label": "O 2.5"
     },
     "home": {
-      "pred": 0.5252,
+      "pred": 0.5221,
       "is_result": true
     },
     "draw": {
-      "pred": 0.2508,
+      "pred": 0.2524,
       "is_result": false
     },
     "away": {
-      "pred": 0.224,
+      "pred": 0.2255,
       "is_result": false
     },
     "ht_over15": {
-      "pred": 0.3547,
+      "pred": 0.3539,
       "hit": true,
       "label": "HT O1.5"
     }
@@ -2472,24 +2472,24 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "2-0",
     "over25": {
-      "pred": 0.5386,
+      "pred": 0.5302,
       "hit": false,
       "label": "O 2.5"
     },
     "home": {
-      "pred": 0.4471,
+      "pred": 0.446,
       "is_result": true
     },
     "draw": {
-      "pred": 0.2684,
+      "pred": 0.2692,
       "is_result": false
     },
     "away": {
-      "pred": 0.2845,
+      "pred": 0.2847,
       "is_result": false
     },
     "ht_over15": {
-      "pred": 0.3727,
+      "pred": 0.3728,
       "hit": true,
       "label": "HT O1.5"
     }
@@ -2501,24 +2501,24 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "7-2",
     "over25": {
-      "pred": 0.6679,
+      "pred": 0.6765,
       "hit": true,
       "label": "O 2.5"
     },
     "home": {
-      "pred": 0.7043,
+      "pred": 0.706,
       "is_result": true
     },
     "draw": {
-      "pred": 0.1728,
+      "pred": 0.1724,
       "is_result": false
     },
     "away": {
-      "pred": 0.1229,
+      "pred": 0.1216,
       "is_result": false
     },
     "ht_over15": {
-      "pred": 0.5932,
+      "pred": 0.5954,
       "hit": true,
       "label": "HT O1.5"
     }
@@ -2530,24 +2530,24 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "2-2",
     "over25": {
-      "pred": 0.5187,
+      "pred": 0.5128,
       "hit": true,
       "label": "O 2.5"
     },
     "home": {
-      "pred": 0.4786,
+      "pred": 0.4787,
       "is_result": false
     },
     "draw": {
-      "pred": 0.2726,
+      "pred": 0.273,
       "is_result": true
     },
     "away": {
-      "pred": 0.2488,
+      "pred": 0.2483,
       "is_result": false
     },
     "ht_over15": {
-      "pred": 0.2236,
+      "pred": 0.224,
       "hit": true,
       "label": "HT O1.5"
     }
@@ -2559,12 +2559,12 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "5-1",
     "over25": {
-      "pred": 0.6924,
+      "pred": 0.7026,
       "hit": true,
       "label": "O 2.5"
     },
     "home": {
-      "pred": 0.5292,
+      "pred": 0.5303,
       "is_result": true
     },
     "draw": {
@@ -2572,11 +2572,11 @@ const RECENT_RESULTS = [
       "is_result": false
     },
     "away": {
-      "pred": 0.255,
+      "pred": 0.2539,
       "is_result": false
     },
     "ht_over15": {
-      "pred": 0.485,
+      "pred": 0.486,
       "hit": false,
       "label": "HT O1.5"
     }
@@ -2588,20 +2588,20 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "2-2",
     "over25": {
-      "pred": 0.6108,
+      "pred": 0.7478,
       "hit": true,
       "label": "O 2.5"
     },
     "home": {
-      "pred": 0.5696,
+      "pred": 0.5848,
       "is_result": false
     },
     "draw": {
-      "pred": 0.2172,
+      "pred": 0.1981,
       "is_result": true
     },
     "away": {
-      "pred": 0.2133,
+      "pred": 0.2171,
       "is_result": false
     },
     "ht_over15": {
@@ -2617,24 +2617,24 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "1-0",
     "over25": {
-      "pred": 0.4801,
-      "hit": true,
+      "pred": 0.5311,
+      "hit": false,
       "label": "O 2.5"
     },
     "home": {
-      "pred": 0.5828,
+      "pred": 0.6135,
       "is_result": true
     },
     "draw": {
-      "pred": 0.2456,
+      "pred": 0.2304,
       "is_result": false
     },
     "away": {
-      "pred": 0.1716,
+      "pred": 0.1561,
       "is_result": false
     },
     "ht_over15": {
-      "pred": 0.4235,
+      "pred": 0.3684,
       "hit": true,
       "label": "HT O1.5"
     }
@@ -2646,24 +2646,24 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "0-2",
     "over25": {
-      "pred": 0.605,
+      "pred": 0.6621,
       "hit": false,
       "label": "O 2.5"
     },
     "home": {
-      "pred": 0.2784,
+      "pred": 0.2402,
       "is_result": false
     },
     "draw": {
-      "pred": 0.237,
+      "pred": 0.2145,
       "is_result": false
     },
     "away": {
-      "pred": 0.4846,
+      "pred": 0.5453,
       "is_result": true
     },
     "ht_over15": {
-      "pred": 0.3664,
+      "pred": 0.3837,
       "hit": false,
       "label": "HT O1.5"
     }
@@ -2675,24 +2675,24 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "1-1",
     "over25": {
-      "pred": 0.3265,
+      "pred": 0.4579,
       "hit": true,
       "label": "O 2.5"
     },
     "home": {
-      "pred": 0.4546,
+      "pred": 0.548,
       "is_result": false
     },
     "draw": {
-      "pred": 0.3292,
+      "pred": 0.2826,
       "is_result": true
     },
     "away": {
-      "pred": 0.2162,
+      "pred": 0.1694,
       "is_result": false
     },
     "ht_over15": {
-      "pred": 0.3377,
+      "pred": 0.3796,
       "hit": false,
       "label": "HT O1.5"
     }
@@ -2704,24 +2704,24 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "2-2",
     "over25": {
-      "pred": 0.5904,
+      "pred": 0.5996,
       "hit": true,
       "label": "O 2.5"
     },
     "home": {
-      "pred": 0.4941,
+      "pred": 0.5336,
       "is_result": false
     },
     "draw": {
-      "pred": 0.2454,
+      "pred": 0.2283,
       "is_result": true
     },
     "away": {
-      "pred": 0.2605,
+      "pred": 0.2381,
       "is_result": false
     },
     "ht_over15": {
-      "pred": 0.4129,
+      "pred": 0.4152,
       "hit": false,
       "label": "HT O1.5"
     }
@@ -2733,24 +2733,24 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "2-2",
     "over25": {
-      "pred": 0.5371,
+      "pred": 0.585,
       "hit": true,
       "label": "O 2.5"
     },
     "home": {
-      "pred": 0.3552,
+      "pred": 0.3777,
       "is_result": false
     },
     "draw": {
-      "pred": 0.2653,
+      "pred": 0.2482,
       "is_result": true
     },
     "away": {
-      "pred": 0.3795,
+      "pred": 0.3742,
       "is_result": false
     },
     "ht_over15": {
-      "pred": 0.4005,
+      "pred": 0.3914,
       "hit": true,
       "label": "HT O1.5"
     }
@@ -2762,24 +2762,24 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "3-0",
     "over25": {
-      "pred": 0.5189,
+      "pred": 0.5817,
       "hit": true,
       "label": "O 2.5"
     },
     "home": {
-      "pred": 0.5066,
+      "pred": 0.5348,
       "is_result": true
     },
     "draw": {
-      "pred": 0.2559,
+      "pred": 0.2334,
       "is_result": false
     },
     "away": {
-      "pred": 0.2375,
+      "pred": 0.2318,
       "is_result": false
     },
     "ht_over15": {
-      "pred": 0.3733,
+      "pred": 0.3698,
       "hit": true,
       "label": "HT O1.5"
     }
@@ -2791,24 +2791,24 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "0-0",
     "over25": {
-      "pred": 0.4431,
-      "hit": true,
+      "pred": 0.5198,
+      "hit": false,
       "label": "O 2.5"
     },
     "home": {
-      "pred": 0.3831,
+      "pred": 0.3702,
       "is_result": false
     },
     "draw": {
-      "pred": 0.2857,
+      "pred": 0.2749,
       "is_result": true
     },
     "away": {
-      "pred": 0.3311,
+      "pred": 0.3549,
       "is_result": false
     },
     "ht_over15": {
-      "pred": 0.3203,
+      "pred": 0.3113,
       "hit": true,
       "label": "HT O1.5"
     }
@@ -2820,24 +2820,24 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "2-1",
     "over25": {
-      "pred": 0.5169,
+      "pred": 0.6084,
       "hit": true,
       "label": "O 2.5"
     },
     "home": {
-      "pred": 0.3491,
+      "pred": 0.3847,
       "is_result": true
     },
     "draw": {
-      "pred": 0.2694,
+      "pred": 0.2403,
       "is_result": false
     },
     "away": {
-      "pred": 0.3815,
+      "pred": 0.3751,
       "is_result": false
     },
     "ht_over15": {
-      "pred": 0.5112,
+      "pred": 0.5657,
       "hit": false,
       "label": "HT O1.5"
     }
@@ -2849,24 +2849,24 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "1-0",
     "over25": {
-      "pred": 0.4372,
-      "hit": true,
+      "pred": 0.5326,
+      "hit": false,
       "label": "O 2.5"
     },
     "home": {
-      "pred": 0.275,
+      "pred": 0.2877,
       "is_result": true
     },
     "draw": {
-      "pred": 0.2824,
+      "pred": 0.2639,
       "is_result": false
     },
     "away": {
-      "pred": 0.4426,
+      "pred": 0.4484,
       "is_result": false
     },
     "ht_over15": {
-      "pred": 0.3088,
+      "pred": 0.3355,
       "hit": true,
       "label": "HT O1.5"
     }
@@ -2878,24 +2878,24 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "3-2",
     "over25": {
-      "pred": 0.5373,
+      "pred": 0.5751,
       "hit": true,
       "label": "O 2.5"
     },
     "home": {
-      "pred": 0.469,
+      "pred": 0.4812,
       "is_result": true
     },
     "draw": {
-      "pred": 0.2584,
+      "pred": 0.2442,
       "is_result": false
     },
     "away": {
-      "pred": 0.2726,
+      "pred": 0.2746,
       "is_result": false
     },
     "ht_over15": {
-      "pred": 0.3915,
+      "pred": 0.3805,
       "hit": false,
       "label": "HT O1.5"
     }
@@ -2907,25 +2907,25 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "2-1",
     "over25": {
-      "pred": 0.4836,
-      "hit": false,
+      "pred": 0.544,
+      "hit": true,
       "label": "O 2.5"
     },
     "home": {
-      "pred": 0.4972,
+      "pred": 0.5752,
       "is_result": true
     },
     "draw": {
-      "pred": 0.2644,
+      "pred": 0.236,
       "is_result": false
     },
     "away": {
-      "pred": 0.2385,
+      "pred": 0.1888,
       "is_result": false
     },
     "ht_over15": {
-      "pred": 0.5317,
-      "hit": false,
+      "pred": 0.4521,
+      "hit": true,
       "label": "HT O1.5"
     }
   },
@@ -3428,7 +3428,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "3-1",
     "over25": {
-      "pred": 0.8444,
+      "pred": 0.852,
       "hit": true,
       "label": "O 2.5"
     },
@@ -3516,7 +3516,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "2-1",
     "over25": {
-      "pred": 0.5931,
+      "pred": 0.5925,
       "hit": true,
       "label": "O 2.5"
     },
@@ -3604,7 +3604,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "1-2",
     "over25": {
-      "pred": 0.5865,
+      "pred": 0.5856,
       "hit": true,
       "label": "O 2.5"
     },
@@ -3756,7 +3756,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "2-0",
     "over25": {
-      "pred": 0.731,
+      "pred": 0.7349,
       "hit": false,
       "label": "O 2.5"
     },
@@ -3780,7 +3780,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "0-1",
     "over25": {
-      "pred": 0.6113,
+      "pred": 0.6116,
       "hit": false,
       "label": "O 2.5"
     },
@@ -3868,7 +3868,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "0-1",
     "over25": {
-      "pred": 0.5786,
+      "pred": 0.5774,
       "hit": false,
       "label": "O 2.5"
     },
@@ -3892,7 +3892,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "1-0",
     "over25": {
-      "pred": 0.5873,
+      "pred": 0.5864,
       "hit": false,
       "label": "O 2.5"
     },
@@ -4044,7 +4044,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "3-1",
     "over25": {
-      "pred": 0.7777,
+      "pred": 0.7831,
       "hit": true,
       "label": "O 2.5"
     },
@@ -4132,7 +4132,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "1-3",
     "over25": {
-      "pred": 0.5542,
+      "pred": 0.5518,
       "hit": true,
       "label": "O 2.5"
     },
@@ -4284,7 +4284,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "3-2",
     "over25": {
-      "pred": 0.8875,
+      "pred": 0.8964,
       "hit": true,
       "label": "O 2.5"
     },
@@ -4308,7 +4308,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "1-1",
     "over25": {
-      "pred": 0.776,
+      "pred": 0.7814,
       "hit": false,
       "label": "O 2.5"
     },
@@ -4647,7 +4647,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "0-1",
     "over25": {
-      "pred": 0.5667,
+      "pred": 0.5649,
       "hit": false,
       "label": "O 2.5"
     },
@@ -4676,7 +4676,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "1-1",
     "over25": {
-      "pred": 0.553,
+      "pred": 0.5506,
       "hit": false,
       "label": "O 2.5"
     },
@@ -4705,7 +4705,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "4-3",
     "over25": {
-      "pred": 0.7053,
+      "pred": 0.7084,
       "hit": true,
       "label": "O 2.5"
     },
@@ -4763,7 +4763,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "1-4",
     "over25": {
-      "pred": 0.6025,
+      "pred": 0.6023,
       "hit": true,
       "label": "O 2.5"
     },
@@ -4885,7 +4885,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "2-2",
     "over25": {
-      "pred": 0.6117,
+      "pred": 0.612,
       "hit": true,
       "label": "O 2.5"
     },
@@ -4914,7 +4914,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "5-2",
     "over25": {
-      "pred": 0.8142,
+      "pred": 0.8208,
       "hit": true,
       "label": "O 2.5"
     },
@@ -4943,7 +4943,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "1-0",
     "over25": {
-      "pred": 0.5213,
+      "pred": 0.5194,
       "hit": false,
       "label": "O 2.5"
     },
@@ -4972,7 +4972,7 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "0-2",
     "over25": {
-      "pred": 0.5715,
+      "pred": 0.5699,
       "hit": false,
       "label": "O 2.5"
     },
@@ -5065,24 +5065,24 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "0-1",
     "over25": {
-      "pred": 0.6155,
+      "pred": 0.614,
       "hit": false,
       "label": "O 2.5"
     },
     "home": {
-      "pred": 0.2548,
+      "pred": 0.2694,
       "is_result": false
     },
     "draw": {
-      "pred": 0.2309,
+      "pred": 0.2295,
       "is_result": false
     },
     "away": {
-      "pred": 0.5143,
+      "pred": 0.5011,
       "is_result": true
     },
     "ht_over15": {
-      "pred": 0.3827,
+      "pred": 0.3815,
       "hit": true,
       "label": "HT O1.5"
     }
@@ -5094,24 +5094,24 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "2-1",
     "over25": {
-      "pred": 0.7723,
+      "pred": 0.7775,
       "hit": true,
       "label": "O 2.5"
     },
     "home": {
-      "pred": 0.7634,
+      "pred": 0.7406,
       "is_result": true
     },
     "draw": {
-      "pred": 0.1421,
+      "pred": 0.15,
       "is_result": false
     },
     "away": {
-      "pred": 0.0945,
+      "pred": 0.1093,
       "is_result": false
     },
     "ht_over15": {
-      "pred": 0.6159,
+      "pred": 0.617,
       "hit": true,
       "label": "HT O1.5"
     }
@@ -5123,24 +5123,24 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "1-2",
     "over25": {
-      "pred": 0.6189,
+      "pred": 0.6005,
       "hit": true,
       "label": "O 2.5"
     },
     "home": {
-      "pred": 0.315,
+      "pred": 0.3173,
       "is_result": false
     },
     "draw": {
-      "pred": 0.2372,
+      "pred": 0.2402,
       "is_result": false
     },
     "away": {
-      "pred": 0.4477,
+      "pred": 0.4425,
       "is_result": true
     },
     "ht_over15": {
-      "pred": 0.4695,
+      "pred": 0.4652,
       "hit": true,
       "label": "HT O1.5"
     }
@@ -5157,19 +5157,19 @@ const RECENT_RESULTS = [
       "label": "O 2.5"
     },
     "home": {
-      "pred": 0.6428,
+      "pred": 0.6246,
       "is_result": true
     },
     "draw": {
-      "pred": 0.2045,
+      "pred": 0.2047,
       "is_result": false
     },
     "away": {
-      "pred": 0.1527,
+      "pred": 0.1706,
       "is_result": false
     },
     "ht_over15": {
-      "pred": 0.4428,
+      "pred": 0.4433,
       "hit": false,
       "label": "HT O1.5"
     }
@@ -5245,24 +5245,24 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "0-4",
     "over25": {
-      "pred": 0.5526,
+      "pred": 0.5306,
       "hit": true,
       "label": "O 2.5"
     },
     "home": {
-      "pred": 0.4141,
+      "pred": 0.414,
       "is_result": false
     },
     "draw": {
-      "pred": 0.2737,
+      "pred": 0.2678,
       "is_result": false
     },
     "away": {
-      "pred": 0.3122,
+      "pred": 0.3182,
       "is_result": true
     },
     "ht_over15": {
-      "pred": 0.3069,
+      "pred": 0.3051,
       "hit": false,
       "label": "HT O1.5"
     }
@@ -5338,24 +5338,24 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "3-3",
     "over25": {
-      "pred": 0.5402,
+      "pred": 0.5134,
       "hit": true,
       "label": "O 2.5"
     },
     "home": {
-      "pred": 0.3307,
+      "pred": 0.3227,
       "is_result": false
     },
     "draw": {
-      "pred": 0.2788,
+      "pred": 0.2772,
       "is_result": true
     },
     "away": {
-      "pred": 0.3905,
+      "pred": 0.4001,
       "is_result": false
     },
     "ht_over15": {
-      "pred": 0.3316,
+      "pred": 0.3305,
       "hit": false,
       "label": "HT O1.5"
     }
