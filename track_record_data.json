@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T22:21:16.038513",
+  "generated_at": "2026-09-18T23:10:22.523127",
   "summary": {
     "total_settled_ft": 863,
     "total_settled_ht": 657,
@@ -110,39 +110,39 @@
             },
             {
               "n": 86,
-              "avg_predicted": 0.4152,
+              "avg_predicted": 0.4149,
               "observed_rate": 0.5465,
-              "gap_pts": 13.1
+              "gap_pts": 13.2
             },
             {
               "n": 86,
               "avg_predicted": 0.4747,
-              "observed_rate": 0.5349,
-              "gap_pts": 6.0
+              "observed_rate": 0.5465,
+              "gap_pts": 7.2
             },
             {
               "n": 86,
-              "avg_predicted": 0.5253,
-              "observed_rate": 0.593,
-              "gap_pts": 6.8
+              "avg_predicted": 0.5256,
+              "observed_rate": 0.5814,
+              "gap_pts": 5.6
             },
             {
               "n": 87,
-              "avg_predicted": 0.5671,
+              "avg_predicted": 0.5664,
               "observed_rate": 0.5517,
               "gap_pts": -1.5
             },
             {
-              "n": 87,
-              "avg_predicted": 0.5969,
-              "observed_rate": 0.6322,
-              "gap_pts": 3.5
+              "n": 86,
+              "avg_predicted": 0.5967,
+              "observed_rate": 0.6163,
+              "gap_pts": 2.0
             },
             {
-              "n": 86,
-              "avg_predicted": 0.607,
-              "observed_rate": 0.6512,
-              "gap_pts": 4.4
+              "n": 87,
+              "avg_predicted": 0.6068,
+              "observed_rate": 0.6667,
+              "gap_pts": 6.0
             },
             {
               "n": 85,
@@ -152,15 +152,15 @@
             },
             {
               "n": 86,
-              "avg_predicted": 0.661,
-              "observed_rate": 0.6279,
-              "gap_pts": -3.3
+              "avg_predicted": 0.6601,
+              "observed_rate": 0.6395,
+              "gap_pts": -2.1
             },
             {
               "n": 87,
-              "avg_predicted": 0.7913,
-              "observed_rate": 0.7356,
-              "gap_pts": -5.6
+              "avg_predicted": 0.7898,
+              "observed_rate": 0.7241,
+              "gap_pts": -6.6
             }
           ]
         },
@@ -919,57 +919,57 @@
             },
             {
               "n": 46,
-              "avg_predicted": 0.3924,
+              "avg_predicted": 0.392,
               "observed_rate": 0.413,
               "gap_pts": 2.1
             },
             {
               "n": 46,
-              "avg_predicted": 0.4427,
+              "avg_predicted": 0.4424,
               "observed_rate": 0.5435,
               "gap_pts": 10.1
             },
             {
               "n": 47,
-              "avg_predicted": 0.4949,
+              "avg_predicted": 0.4954,
               "observed_rate": 0.4894,
               "gap_pts": -0.6
             },
             {
               "n": 46,
-              "avg_predicted": 0.5419,
+              "avg_predicted": 0.5408,
               "observed_rate": 0.587,
-              "gap_pts": 4.5
-            },
-            {
-              "n": 46,
-              "avg_predicted": 0.5816,
-              "observed_rate": 0.5,
-              "gap_pts": -8.2
+              "gap_pts": 4.6
             },
             {
               "n": 47,
-              "avg_predicted": 0.6021,
-              "observed_rate": 0.6809,
-              "gap_pts": 7.9
+              "avg_predicted": 0.5815,
+              "observed_rate": 0.5106,
+              "gap_pts": -7.1
             },
             {
               "n": 46,
-              "avg_predicted": 0.616,
+              "avg_predicted": 0.6019,
+              "observed_rate": 0.6739,
+              "gap_pts": 7.2
+            },
+            {
+              "n": 46,
+              "avg_predicted": 0.6158,
               "observed_rate": 0.6087,
               "gap_pts": -0.7
             },
             {
               "n": 46,
-              "avg_predicted": 0.6579,
-              "observed_rate": 0.6304,
-              "gap_pts": -2.7
+              "avg_predicted": 0.6562,
+              "observed_rate": 0.6522,
+              "gap_pts": -0.4
             },
             {
               "n": 47,
-              "avg_predicted": 0.775,
-              "observed_rate": 0.7872,
-              "gap_pts": 1.2
+              "avg_predicted": 0.7722,
+              "observed_rate": 0.766,
+              "gap_pts": -0.6
             }
           ]
         },
