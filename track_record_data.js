@@ -1,12 +1,12 @@
 const TRACK_RECORD_DATA = {
-  "generated_at": "2026-09-19T23:37:53.569763",
+  "generated_at": "2026-09-20T11:18:17.476982",
   "summary": {
-    "total_settled_ft": 999,
+    "total_settled_ft": 1020,
     "total_settled_ht": 776,
     "total_settled_geh": 12,
     "date_range": {
       "earliest": "2026-08-31",
-      "latest": "2026-09-19"
+      "latest": "2026-09-20"
     },
     "active_markets": [
       "Over 1.5",
@@ -30,178 +30,178 @@ const TRACK_RECORD_DATA = {
   },
   "tiers": {
     "All leagues combined": {
-      "n_settled_ft": 999,
+      "n_settled_ft": 1020,
       "n_settled_ht": 776,
       "n_settled_geh": 12,
       "markets": {
         "Over 1.5": {
-          "n": 841,
+          "n": 862,
           "buckets": [
             {
-              "n": 85,
-              "avg_predicted": 0.5607,
-              "observed_rate": 0.7529,
-              "gap_pts": 19.2
+              "n": 87,
+              "avg_predicted": 0.5634,
+              "observed_rate": 0.7586,
+              "gap_pts": 19.5
             },
             {
-              "n": 84,
-              "avg_predicted": 0.7135,
-              "observed_rate": 0.6786,
-              "gap_pts": -3.5
-            },
-            {
-              "n": 84,
-              "avg_predicted": 0.7478,
-              "observed_rate": 0.8452,
-              "gap_pts": 9.7
+              "n": 87,
+              "avg_predicted": 0.7156,
+              "observed_rate": 0.6782,
+              "gap_pts": -3.7
             },
             {
               "n": 85,
-              "avg_predicted": 0.7665,
-              "observed_rate": 0.8235,
-              "gap_pts": 5.7
+              "avg_predicted": 0.7492,
+              "observed_rate": 0.8471,
+              "gap_pts": 9.8
             },
             {
               "n": 88,
-              "avg_predicted": 0.7736,
-              "observed_rate": 0.7614,
-              "gap_pts": -1.2
+              "avg_predicted": 0.7677,
+              "observed_rate": 0.8409,
+              "gap_pts": 7.3
             },
             {
-              "n": 79,
-              "avg_predicted": 0.7761,
-              "observed_rate": 0.8481,
+              "n": 84,
+              "avg_predicted": 0.7738,
+              "observed_rate": 0.7381,
+              "gap_pts": -3.6
+            },
+            {
+              "n": 86,
+              "avg_predicted": 0.7765,
+              "observed_rate": 0.8488,
               "gap_pts": 7.2
             },
             {
+              "n": 87,
+              "avg_predicted": 0.7862,
+              "observed_rate": 0.8506,
+              "gap_pts": 6.4
+            },
+            {
               "n": 85,
-              "avg_predicted": 0.7859,
-              "observed_rate": 0.8471,
-              "gap_pts": 6.1
+              "avg_predicted": 0.7969,
+              "observed_rate": 0.7647,
+              "gap_pts": -3.2
             },
             {
-              "n": 83,
-              "avg_predicted": 0.797,
-              "observed_rate": 0.747,
-              "gap_pts": -5.0
+              "n": 86,
+              "avg_predicted": 0.8273,
+              "observed_rate": 0.7093,
+              "gap_pts": -11.8
             },
             {
-              "n": 84,
-              "avg_predicted": 0.829,
-              "observed_rate": 0.7262,
-              "gap_pts": -10.3
-            },
-            {
-              "n": 84,
-              "avg_predicted": 0.907,
-              "observed_rate": 0.881,
-              "gap_pts": -2.6
+              "n": 87,
+              "avg_predicted": 0.9058,
+              "observed_rate": 0.8736,
+              "gap_pts": -3.2
             }
           ]
         },
         "Over 2.5": {
-          "n": 999,
+          "n": 1020,
           "buckets": [
             {
-              "n": 100,
-              "avg_predicted": 0.3297,
-              "observed_rate": 0.44,
-              "gap_pts": 11.0
-            },
-            {
-              "n": 100,
-              "avg_predicted": 0.4274,
-              "observed_rate": 0.54,
-              "gap_pts": 11.3
-            },
-            {
-              "n": 100,
-              "avg_predicted": 0.4909,
-              "observed_rate": 0.52,
-              "gap_pts": 2.9
+              "n": 102,
+              "avg_predicted": 0.3309,
+              "observed_rate": 0.451,
+              "gap_pts": 12.0
             },
             {
               "n": 102,
-              "avg_predicted": 0.5357,
-              "observed_rate": 0.549,
-              "gap_pts": 1.3
+              "avg_predicted": 0.4295,
+              "observed_rate": 0.5294,
+              "gap_pts": 10.0
             },
             {
-              "n": 98,
-              "avg_predicted": 0.5651,
-              "observed_rate": 0.5714,
-              "gap_pts": 0.6
+              "n": 103,
+              "avg_predicted": 0.4939,
+              "observed_rate": 0.5146,
+              "gap_pts": 2.1
             },
             {
               "n": 101,
-              "avg_predicted": 0.5975,
-              "observed_rate": 0.6238,
-              "gap_pts": 2.6
+              "avg_predicted": 0.5365,
+              "observed_rate": 0.5545,
+              "gap_pts": 1.8
             },
             {
-              "n": 98,
-              "avg_predicted": 0.6087,
-              "observed_rate": 0.6531,
-              "gap_pts": 4.4
+              "n": 102,
+              "avg_predicted": 0.566,
+              "observed_rate": 0.5784,
+              "gap_pts": 1.2
             },
             {
-              "n": 100,
-              "avg_predicted": 0.6249,
-              "observed_rate": 0.55,
-              "gap_pts": -7.5
+              "n": 102,
+              "avg_predicted": 0.598,
+              "observed_rate": 0.6176,
+              "gap_pts": 2.0
             },
             {
-              "n": 100,
-              "avg_predicted": 0.6675,
-              "observed_rate": 0.63,
+              "n": 103,
+              "avg_predicted": 0.6094,
+              "observed_rate": 0.6311,
+              "gap_pts": 2.2
+            },
+            {
+              "n": 102,
+              "avg_predicted": 0.6263,
+              "observed_rate": 0.5882,
               "gap_pts": -3.8
             },
             {
-              "n": 100,
-              "avg_predicted": 0.7914,
-              "observed_rate": 0.73,
-              "gap_pts": -6.1
+              "n": 101,
+              "avg_predicted": 0.6669,
+              "observed_rate": 0.6436,
+              "gap_pts": -2.3
+            },
+            {
+              "n": 102,
+              "avg_predicted": 0.7896,
+              "observed_rate": 0.7255,
+              "gap_pts": -6.4
             }
           ]
         },
         "Over 3.5": {
-          "n": 875,
+          "n": 896,
           "buckets": [
             {
+              "n": 90,
+              "avg_predicted": 0.1081,
+              "observed_rate": 0.3111,
+              "gap_pts": 20.3
+            },
+            {
+              "n": 90,
+              "avg_predicted": 0.2588,
+              "observed_rate": 0.4667,
+              "gap_pts": 20.8
+            },
+            {
+              "n": 91,
+              "avg_predicted": 0.3253,
+              "observed_rate": 0.3736,
+              "gap_pts": 4.8
+            },
+            {
+              "n": 89,
+              "avg_predicted": 0.3422,
+              "observed_rate": 0.3708,
+              "gap_pts": 2.9
+            },
+            {
+              "n": 91,
+              "avg_predicted": 0.3455,
+              "observed_rate": 0.2418,
+              "gap_pts": -10.4
+            },
+            {
               "n": 88,
-              "avg_predicted": 0.1066,
-              "observed_rate": 0.3182,
-              "gap_pts": 21.2
-            },
-            {
-              "n": 87,
-              "avg_predicted": 0.2544,
-              "observed_rate": 0.4368,
-              "gap_pts": 18.2
-            },
-            {
-              "n": 89,
-              "avg_predicted": 0.3269,
-              "observed_rate": 0.3371,
-              "gap_pts": 1.0
-            },
-            {
-              "n": 87,
-              "avg_predicted": 0.3426,
-              "observed_rate": 0.3793,
-              "gap_pts": 3.7
-            },
-            {
-              "n": 89,
-              "avg_predicted": 0.3456,
-              "observed_rate": 0.2697,
-              "gap_pts": -7.6
-            },
-            {
-              "n": 85,
               "avg_predicted": 0.3484,
-              "observed_rate": 0.4,
-              "gap_pts": 5.2
+              "observed_rate": 0.4205,
+              "gap_pts": 7.2
             },
             {
               "n": 88,
@@ -210,542 +210,542 @@ const TRACK_RECORD_DATA = {
               "gap_pts": 3.4
             },
             {
-              "n": 89,
+              "n": 90,
               "avg_predicted": 0.36,
-              "observed_rate": 0.3371,
-              "gap_pts": -2.3
+              "observed_rate": 0.3333,
+              "gap_pts": -2.7
             },
             {
-              "n": 85,
-              "avg_predicted": 0.3776,
-              "observed_rate": 0.3529,
-              "gap_pts": -2.5
+              "n": 89,
+              "avg_predicted": 0.3779,
+              "observed_rate": 0.3596,
+              "gap_pts": -1.8
             },
             {
-              "n": 88,
-              "avg_predicted": 0.4841,
-              "observed_rate": 0.3409,
-              "gap_pts": -14.3
+              "n": 90,
+              "avg_predicted": 0.4828,
+              "observed_rate": 0.3333,
+              "gap_pts": -14.9
             }
           ]
         },
         "Home Win": {
-          "n": 997,
+          "n": 1018,
           "buckets": [
             {
-              "n": 100,
-              "avg_predicted": 0.264,
-              "observed_rate": 0.36,
-              "gap_pts": 9.6
+              "n": 102,
+              "avg_predicted": 0.2647,
+              "observed_rate": 0.3627,
+              "gap_pts": 9.8
+            },
+            {
+              "n": 102,
+              "avg_predicted": 0.3278,
+              "observed_rate": 0.3333,
+              "gap_pts": 0.6
+            },
+            {
+              "n": 102,
+              "avg_predicted": 0.3626,
+              "observed_rate": 0.3725,
+              "gap_pts": 1.0
             },
             {
               "n": 101,
-              "avg_predicted": 0.3275,
-              "observed_rate": 0.3465,
-              "gap_pts": 1.9
-            },
-            {
-              "n": 98,
-              "avg_predicted": 0.3622,
-              "observed_rate": 0.3878,
-              "gap_pts": 2.6
-            },
-            {
-              "n": 100,
               "avg_predicted": 0.3882,
-              "observed_rate": 0.35,
-              "gap_pts": -3.8
+              "observed_rate": 0.3465,
+              "gap_pts": -4.2
             },
             {
-              "n": 100,
-              "avg_predicted": 0.4144,
-              "observed_rate": 0.43,
-              "gap_pts": 1.6
+              "n": 102,
+              "avg_predicted": 0.414,
+              "observed_rate": 0.4412,
+              "gap_pts": 2.7
             },
             {
-              "n": 99,
-              "avg_predicted": 0.4372,
-              "observed_rate": 0.3535,
-              "gap_pts": -8.4
+              "n": 102,
+              "avg_predicted": 0.4369,
+              "observed_rate": 0.3627,
+              "gap_pts": -7.4
             },
             {
               "n": 101,
-              "avg_predicted": 0.4636,
-              "observed_rate": 0.495,
-              "gap_pts": 3.1
+              "avg_predicted": 0.4633,
+              "observed_rate": 0.505,
+              "gap_pts": 4.2
             },
             {
-              "n": 98,
-              "avg_predicted": 0.5029,
-              "observed_rate": 0.4796,
-              "gap_pts": -2.3
+              "n": 102,
+              "avg_predicted": 0.5012,
+              "observed_rate": 0.4706,
+              "gap_pts": -3.1
             },
             {
-              "n": 100,
-              "avg_predicted": 0.5587,
-              "observed_rate": 0.49,
-              "gap_pts": -6.9
+              "n": 102,
+              "avg_predicted": 0.5566,
+              "observed_rate": 0.5,
+              "gap_pts": -5.7
             },
             {
-              "n": 100,
-              "avg_predicted": 0.6949,
-              "observed_rate": 0.65,
-              "gap_pts": -4.5
+              "n": 102,
+              "avg_predicted": 0.6931,
+              "observed_rate": 0.6373,
+              "gap_pts": -5.6
             }
           ]
         },
         "Draw": {
-          "n": 997,
+          "n": 1018,
           "buckets": [
             {
-              "n": 100,
-              "avg_predicted": 0.1511,
-              "observed_rate": 0.17,
-              "gap_pts": 1.9
+              "n": 102,
+              "avg_predicted": 0.1518,
+              "observed_rate": 0.1667,
+              "gap_pts": 1.5
+            },
+            {
+              "n": 102,
+              "avg_predicted": 0.2025,
+              "observed_rate": 0.1961,
+              "gap_pts": -0.6
+            },
+            {
+              "n": 103,
+              "avg_predicted": 0.225,
+              "observed_rate": 0.233,
+              "gap_pts": 0.8
+            },
+            {
+              "n": 102,
+              "avg_predicted": 0.2401,
+              "observed_rate": 0.1961,
+              "gap_pts": -4.4
             },
             {
               "n": 100,
-              "avg_predicted": 0.2017,
-              "observed_rate": 0.19,
-              "gap_pts": -1.2
+              "avg_predicted": 0.2519,
+              "observed_rate": 0.26,
+              "gap_pts": 0.8
             },
             {
-              "n": 99,
-              "avg_predicted": 0.2241,
-              "observed_rate": 0.2424,
-              "gap_pts": 1.8
-            },
-            {
-              "n": 100,
-              "avg_predicted": 0.2392,
-              "observed_rate": 0.21,
-              "gap_pts": -2.9
+              "n": 103,
+              "avg_predicted": 0.2637,
+              "observed_rate": 0.3204,
+              "gap_pts": 5.7
             },
             {
               "n": 100,
-              "avg_predicted": 0.2513,
-              "observed_rate": 0.24,
-              "gap_pts": -1.1
+              "avg_predicted": 0.2772,
+              "observed_rate": 0.39,
+              "gap_pts": 11.3
             },
             {
-              "n": 99,
-              "avg_predicted": 0.2634,
-              "observed_rate": 0.3232,
-              "gap_pts": 6.0
+              "n": 102,
+              "avg_predicted": 0.2896,
+              "observed_rate": 0.2647,
+              "gap_pts": -2.5
             },
             {
-              "n": 100,
-              "avg_predicted": 0.2775,
-              "observed_rate": 0.4,
-              "gap_pts": 12.3
+              "n": 102,
+              "avg_predicted": 0.3015,
+              "observed_rate": 0.3039,
+              "gap_pts": 0.2
             },
             {
-              "n": 100,
-              "avg_predicted": 0.2901,
-              "observed_rate": 0.24,
-              "gap_pts": -5.0
-            },
-            {
-              "n": 99,
-              "avg_predicted": 0.302,
-              "observed_rate": 0.303,
-              "gap_pts": 0.1
-            },
-            {
-              "n": 100,
-              "avg_predicted": 0.3299,
-              "observed_rate": 0.3,
-              "gap_pts": -3.0
+              "n": 102,
+              "avg_predicted": 0.3295,
+              "observed_rate": 0.2941,
+              "gap_pts": -3.5
             }
           ]
         },
         "Away Win": {
-          "n": 997,
+          "n": 1018,
           "buckets": [
             {
-              "n": 100,
-              "avg_predicted": 0.1263,
-              "observed_rate": 0.16,
-              "gap_pts": 3.4
-            },
-            {
-              "n": 100,
-              "avg_predicted": 0.2098,
-              "observed_rate": 0.2,
-              "gap_pts": -1.0
-            },
-            {
-              "n": 99,
-              "avg_predicted": 0.2403,
-              "observed_rate": 0.2323,
-              "gap_pts": -0.8
-            },
-            {
-              "n": 100,
-              "avg_predicted": 0.2614,
-              "observed_rate": 0.29,
+              "n": 102,
+              "avg_predicted": 0.1275,
+              "observed_rate": 0.1569,
               "gap_pts": 2.9
             },
             {
-              "n": 100,
-              "avg_predicted": 0.2801,
-              "observed_rate": 0.26,
-              "gap_pts": -2.0
+              "n": 102,
+              "avg_predicted": 0.211,
+              "observed_rate": 0.1961,
+              "gap_pts": -1.5
             },
             {
-              "n": 100,
-              "avg_predicted": 0.3068,
-              "observed_rate": 0.38,
-              "gap_pts": 7.3
+              "n": 103,
+              "avg_predicted": 0.2409,
+              "observed_rate": 0.233,
+              "gap_pts": -0.8
             },
             {
-              "n": 99,
-              "avg_predicted": 0.3351,
-              "observed_rate": 0.303,
-              "gap_pts": -3.2
+              "n": 101,
+              "avg_predicted": 0.2619,
+              "observed_rate": 0.3069,
+              "gap_pts": 4.5
             },
             {
-              "n": 99,
-              "avg_predicted": 0.3704,
-              "observed_rate": 0.3434,
-              "gap_pts": -2.7
+              "n": 101,
+              "avg_predicted": 0.2805,
+              "observed_rate": 0.2475,
+              "gap_pts": -3.3
             },
             {
-              "n": 100,
-              "avg_predicted": 0.4176,
-              "observed_rate": 0.38,
+              "n": 102,
+              "avg_predicted": 0.3071,
+              "observed_rate": 0.3725,
+              "gap_pts": 6.5
+            },
+            {
+              "n": 101,
+              "avg_predicted": 0.3352,
+              "observed_rate": 0.297,
               "gap_pts": -3.8
             },
             {
-              "n": 100,
-              "avg_predicted": 0.5095,
-              "observed_rate": 0.49,
-              "gap_pts": -2.0
+              "n": 102,
+              "avg_predicted": 0.3697,
+              "observed_rate": 0.3529,
+              "gap_pts": -1.7
+            },
+            {
+              "n": 102,
+              "avg_predicted": 0.4169,
+              "observed_rate": 0.3922,
+              "gap_pts": -2.5
+            },
+            {
+              "n": 102,
+              "avg_predicted": 0.5088,
+              "observed_rate": 0.4902,
+              "gap_pts": -1.9
             }
           ]
         },
         "BTTS Yes": {
-          "n": 910,
+          "n": 931,
           "buckets": [
             {
-              "n": 91,
-              "avg_predicted": 0.3298,
-              "observed_rate": 0.4945,
-              "gap_pts": 16.5
+              "n": 94,
+              "avg_predicted": 0.3337,
+              "observed_rate": 0.4787,
+              "gap_pts": 14.5
             },
             {
-              "n": 91,
-              "avg_predicted": 0.4813,
-              "observed_rate": 0.5495,
-              "gap_pts": 6.8
+              "n": 93,
+              "avg_predicted": 0.4834,
+              "observed_rate": 0.5591,
+              "gap_pts": 7.6
             },
             {
-              "n": 91,
-              "avg_predicted": 0.5132,
-              "observed_rate": 0.4725,
-              "gap_pts": -4.1
-            },
-            {
-              "n": 91,
-              "avg_predicted": 0.5314,
-              "observed_rate": 0.6484,
-              "gap_pts": 11.7
-            },
-            {
-              "n": 91,
-              "avg_predicted": 0.5479,
-              "observed_rate": 0.5714,
-              "gap_pts": 2.3
-            },
-            {
-              "n": 91,
-              "avg_predicted": 0.5621,
-              "observed_rate": 0.5824,
-              "gap_pts": 2.0
-            },
-            {
-              "n": 91,
-              "avg_predicted": 0.568,
-              "observed_rate": 0.6044,
-              "gap_pts": 3.6
+              "n": 94,
+              "avg_predicted": 0.5146,
+              "observed_rate": 0.4894,
+              "gap_pts": -2.5
             },
             {
               "n": 92,
-              "avg_predicted": 0.5789,
-              "observed_rate": 0.6196,
-              "gap_pts": 4.1
+              "avg_predicted": 0.533,
+              "observed_rate": 0.6413,
+              "gap_pts": 10.8
             },
             {
-              "n": 90,
-              "avg_predicted": 0.6079,
-              "observed_rate": 0.6111,
-              "gap_pts": 0.3
+              "n": 94,
+              "avg_predicted": 0.5498,
+              "observed_rate": 0.5745,
+              "gap_pts": 2.5
+            },
+            {
+              "n": 97,
+              "avg_predicted": 0.5633,
+              "observed_rate": 0.5979,
+              "gap_pts": 3.5
+            },
+            {
+              "n": 89,
+              "avg_predicted": 0.5684,
+              "observed_rate": 0.6067,
+              "gap_pts": 3.8
+            },
+            {
+              "n": 94,
+              "avg_predicted": 0.5803,
+              "observed_rate": 0.617,
+              "gap_pts": 3.7
             },
             {
               "n": 91,
-              "avg_predicted": 0.7441,
-              "observed_rate": 0.6044,
-              "gap_pts": -14.0
+              "avg_predicted": 0.6082,
+              "observed_rate": 0.6154,
+              "gap_pts": 0.7
+            },
+            {
+              "n": 93,
+              "avg_predicted": 0.744,
+              "observed_rate": 0.5914,
+              "gap_pts": -15.3
             }
           ]
         },
         "BTTS & Over 2.5": {
-          "n": 910,
+          "n": 931,
           "buckets": [
             {
-              "n": 91,
-              "avg_predicted": 0.2384,
-              "observed_rate": 0.3407,
-              "gap_pts": 10.2
+              "n": 94,
+              "avg_predicted": 0.2403,
+              "observed_rate": 0.3404,
+              "gap_pts": 10.0
             },
             {
-              "n": 91,
-              "avg_predicted": 0.3311,
-              "observed_rate": 0.4835,
-              "gap_pts": 15.2
+              "n": 93,
+              "avg_predicted": 0.3336,
+              "observed_rate": 0.4624,
+              "gap_pts": 12.9
             },
             {
-              "n": 92,
-              "avg_predicted": 0.3732,
-              "observed_rate": 0.413,
-              "gap_pts": 4.0
+              "n": 93,
+              "avg_predicted": 0.3755,
+              "observed_rate": 0.4409,
+              "gap_pts": 6.5
             },
             {
-              "n": 90,
-              "avg_predicted": 0.4063,
-              "observed_rate": 0.3889,
-              "gap_pts": -1.7
+              "n": 93,
+              "avg_predicted": 0.408,
+              "observed_rate": 0.4194,
+              "gap_pts": 1.1
             },
             {
-              "n": 91,
-              "avg_predicted": 0.4282,
-              "observed_rate": 0.4286,
-              "gap_pts": 0.0
+              "n": 93,
+              "avg_predicted": 0.431,
+              "observed_rate": 0.3763,
+              "gap_pts": -5.5
             },
             {
-              "n": 92,
-              "avg_predicted": 0.45,
-              "observed_rate": 0.413,
-              "gap_pts": -3.7
+              "n": 93,
+              "avg_predicted": 0.4512,
+              "observed_rate": 0.4409,
+              "gap_pts": -1.0
             },
             {
-              "n": 90,
-              "avg_predicted": 0.469,
-              "observed_rate": 0.4667,
-              "gap_pts": -0.2
+              "n": 93,
+              "avg_predicted": 0.4711,
+              "observed_rate": 0.4731,
+              "gap_pts": 0.2
             },
             {
-              "n": 91,
-              "avg_predicted": 0.4959,
-              "observed_rate": 0.5385,
-              "gap_pts": 4.3
+              "n": 93,
+              "avg_predicted": 0.4976,
+              "observed_rate": 0.5484,
+              "gap_pts": 5.1
             },
             {
-              "n": 91,
-              "avg_predicted": 0.5407,
-              "observed_rate": 0.5055,
+              "n": 93,
+              "avg_predicted": 0.5402,
+              "observed_rate": 0.5054,
               "gap_pts": -3.5
             },
             {
-              "n": 91,
-              "avg_predicted": 0.6517,
-              "observed_rate": 0.5604,
+              "n": 93,
+              "avg_predicted": 0.6501,
+              "observed_rate": 0.5591,
               "gap_pts": -9.1
             }
           ]
         },
         "BTTS & Home Win": {
-          "n": 527,
+          "n": 548,
           "buckets": [
             {
-              "n": 53,
-              "avg_predicted": 0.1004,
-              "observed_rate": 0.1887,
-              "gap_pts": 8.8
+              "n": 55,
+              "avg_predicted": 0.1017,
+              "observed_rate": 0.1818,
+              "gap_pts": 8.0
             },
             {
-              "n": 53,
-              "avg_predicted": 0.1494,
-              "observed_rate": 0.1887,
-              "gap_pts": 3.9
+              "n": 55,
+              "avg_predicted": 0.1509,
+              "observed_rate": 0.1818,
+              "gap_pts": 3.1
             },
             {
-              "n": 52,
-              "avg_predicted": 0.1732,
-              "observed_rate": 0.1923,
-              "gap_pts": 1.9
-            },
-            {
-              "n": 53,
-              "avg_predicted": 0.1893,
-              "observed_rate": 0.2075,
-              "gap_pts": 1.8
+              "n": 55,
+              "avg_predicted": 0.1752,
+              "observed_rate": 0.2,
+              "gap_pts": 2.5
             },
             {
               "n": 54,
-              "avg_predicted": 0.2077,
+              "avg_predicted": 0.1908,
               "observed_rate": 0.2037,
-              "gap_pts": -0.4
+              "gap_pts": 1.3
             },
             {
-              "n": 51,
-              "avg_predicted": 0.2258,
-              "observed_rate": 0.2157,
-              "gap_pts": -1.0
+              "n": 55,
+              "avg_predicted": 0.2079,
+              "observed_rate": 0.2364,
+              "gap_pts": 2.8
             },
             {
-              "n": 53,
-              "avg_predicted": 0.244,
-              "observed_rate": 0.2075,
-              "gap_pts": -3.6
+              "n": 55,
+              "avg_predicted": 0.2255,
+              "observed_rate": 0.2,
+              "gap_pts": -2.6
             },
             {
-              "n": 52,
-              "avg_predicted": 0.269,
-              "observed_rate": 0.1538,
-              "gap_pts": -11.5
+              "n": 54,
+              "avg_predicted": 0.2434,
+              "observed_rate": 0.2222,
+              "gap_pts": -2.1
             },
             {
-              "n": 53,
-              "avg_predicted": 0.3131,
-              "observed_rate": 0.3585,
-              "gap_pts": 4.5
+              "n": 55,
+              "avg_predicted": 0.2666,
+              "observed_rate": 0.1455,
+              "gap_pts": -12.1
             },
             {
-              "n": 53,
-              "avg_predicted": 0.4181,
-              "observed_rate": 0.3396,
-              "gap_pts": -7.8
+              "n": 55,
+              "avg_predicted": 0.3108,
+              "observed_rate": 0.3091,
+              "gap_pts": -0.2
+            },
+            {
+              "n": 55,
+              "avg_predicted": 0.4154,
+              "observed_rate": 0.3636,
+              "gap_pts": -5.2
             }
           ]
         },
         "BTTS & Draw": {
-          "n": 527,
+          "n": 548,
           "buckets": [
             {
-              "n": 53,
-              "avg_predicted": 0.1137,
-              "observed_rate": 0.2075,
-              "gap_pts": 9.4
+              "n": 55,
+              "avg_predicted": 0.1148,
+              "observed_rate": 0.2182,
+              "gap_pts": 10.3
             },
             {
-              "n": 53,
-              "avg_predicted": 0.1556,
-              "observed_rate": 0.2075,
-              "gap_pts": 5.2
-            },
-            {
-              "n": 53,
-              "avg_predicted": 0.1708,
-              "observed_rate": 0.0943,
-              "gap_pts": -7.6
-            },
-            {
-              "n": 53,
-              "avg_predicted": 0.1789,
-              "observed_rate": 0.1132,
-              "gap_pts": -6.6
-            },
-            {
-              "n": 53,
-              "avg_predicted": 0.1863,
-              "observed_rate": 0.2264,
+              "n": 56,
+              "avg_predicted": 0.1569,
+              "observed_rate": 0.1964,
               "gap_pts": 4.0
             },
             {
-              "n": 52,
-              "avg_predicted": 0.1929,
-              "observed_rate": 0.3077,
-              "gap_pts": 11.5
+              "n": 54,
+              "avg_predicted": 0.1717,
+              "observed_rate": 0.0741,
+              "gap_pts": -9.8
             },
             {
-              "n": 53,
-              "avg_predicted": 0.2005,
-              "observed_rate": 0.283,
-              "gap_pts": 8.2
+              "n": 54,
+              "avg_predicted": 0.1793,
+              "observed_rate": 0.1296,
+              "gap_pts": -5.0
             },
             {
-              "n": 51,
-              "avg_predicted": 0.2079,
-              "observed_rate": 0.2157,
-              "gap_pts": 0.8
+              "n": 55,
+              "avg_predicted": 0.1866,
+              "observed_rate": 0.2182,
+              "gap_pts": 3.2
             },
             {
-              "n": 53,
-              "avg_predicted": 0.2177,
-              "observed_rate": 0.283,
-              "gap_pts": 6.5
+              "n": 55,
+              "avg_predicted": 0.1933,
+              "observed_rate": 0.2909,
+              "gap_pts": 9.8
             },
             {
-              "n": 53,
-              "avg_predicted": 0.247,
-              "observed_rate": 0.1321,
-              "gap_pts": -11.5
+              "n": 54,
+              "avg_predicted": 0.2013,
+              "observed_rate": 0.3148,
+              "gap_pts": 11.4
+            },
+            {
+              "n": 55,
+              "avg_predicted": 0.2084,
+              "observed_rate": 0.2,
+              "gap_pts": -0.8
+            },
+            {
+              "n": 55,
+              "avg_predicted": 0.2184,
+              "observed_rate": 0.2909,
+              "gap_pts": 7.3
+            },
+            {
+              "n": 55,
+              "avg_predicted": 0.2471,
+              "observed_rate": 0.1455,
+              "gap_pts": -10.2
             }
           ]
         },
         "BTTS & Away Win": {
-          "n": 527,
+          "n": 548,
           "buckets": [
             {
-              "n": 53,
-              "avg_predicted": 0.0491,
-              "observed_rate": 0.0566,
-              "gap_pts": 0.7
+              "n": 55,
+              "avg_predicted": 0.0502,
+              "observed_rate": 0.0545,
+              "gap_pts": 0.4
             },
             {
-              "n": 53,
-              "avg_predicted": 0.0936,
-              "observed_rate": 0.1132,
-              "gap_pts": 2.0
+              "n": 55,
+              "avg_predicted": 0.0953,
+              "observed_rate": 0.1273,
+              "gap_pts": 3.2
             },
             {
-              "n": 53,
-              "avg_predicted": 0.1141,
-              "observed_rate": 0.2075,
-              "gap_pts": 9.3
-            },
-            {
-              "n": 52,
-              "avg_predicted": 0.1279,
-              "observed_rate": 0.1346,
-              "gap_pts": 0.7
-            },
-            {
-              "n": 53,
-              "avg_predicted": 0.1429,
-              "observed_rate": 0.1698,
-              "gap_pts": 2.7
-            },
-            {
-              "n": 52,
-              "avg_predicted": 0.1559,
-              "observed_rate": 0.2115,
-              "gap_pts": 5.6
-            },
-            {
-              "n": 53,
-              "avg_predicted": 0.1675,
-              "observed_rate": 0.2075,
-              "gap_pts": 4.0
-            },
-            {
-              "n": 52,
-              "avg_predicted": 0.1837,
-              "observed_rate": 0.1346,
-              "gap_pts": -4.9
+              "n": 55,
+              "avg_predicted": 0.1153,
+              "observed_rate": 0.2,
+              "gap_pts": 8.5
             },
             {
               "n": 54,
-              "avg_predicted": 0.2076,
-              "observed_rate": 0.2037,
-              "gap_pts": -0.4
+              "avg_predicted": 0.1298,
+              "observed_rate": 0.1296,
+              "gap_pts": -0.0
             },
             {
-              "n": 52,
-              "avg_predicted": 0.2846,
-              "observed_rate": 0.1923,
-              "gap_pts": -9.2
+              "n": 55,
+              "avg_predicted": 0.1443,
+              "observed_rate": 0.1636,
+              "gap_pts": 1.9
+            },
+            {
+              "n": 55,
+              "avg_predicted": 0.1568,
+              "observed_rate": 0.2,
+              "gap_pts": 4.3
+            },
+            {
+              "n": 54,
+              "avg_predicted": 0.1678,
+              "observed_rate": 0.2222,
+              "gap_pts": 5.4
+            },
+            {
+              "n": 55,
+              "avg_predicted": 0.1825,
+              "observed_rate": 0.1455,
+              "gap_pts": -3.7
+            },
+            {
+              "n": 55,
+              "avg_predicted": 0.2059,
+              "observed_rate": 0.2182,
+              "gap_pts": 1.2
+            },
+            {
+              "n": 55,
+              "avg_predicted": 0.2814,
+              "observed_rate": 0.1818,
+              "gap_pts": -10.0
             }
           ]
         },
@@ -968,20 +968,20 @@ const TRACK_RECORD_DATA = {
             {
               "n": 54,
               "avg_predicted": 0.5198,
-              "observed_rate": 0.5556,
-              "gap_pts": 3.6
+              "observed_rate": 0.537,
+              "gap_pts": 1.7
             },
             {
               "n": 56,
-              "avg_predicted": 0.5448,
-              "observed_rate": 0.5357,
-              "gap_pts": -0.9
+              "avg_predicted": 0.5437,
+              "observed_rate": 0.5536,
+              "gap_pts": 1.0
             },
             {
               "n": 55,
-              "avg_predicted": 0.5818,
+              "avg_predicted": 0.5816,
               "observed_rate": 0.5273,
-              "gap_pts": -5.5
+              "gap_pts": -5.4
             },
             {
               "n": 55,
@@ -997,13 +997,13 @@ const TRACK_RECORD_DATA = {
             },
             {
               "n": 55,
-              "avg_predicted": 0.6653,
+              "avg_predicted": 0.6647,
               "observed_rate": 0.6545,
-              "gap_pts": -1.1
+              "gap_pts": -1.0
             },
             {
               "n": 56,
-              "avg_predicted": 0.7757,
+              "avg_predicted": 0.7756,
               "observed_rate": 0.7143,
               "gap_pts": -6.1
             }
@@ -2541,12 +2541,12 @@ const TRACK_RECORD_DATA = {
       }
     },
     "xG, no HT data": {
-      "n_settled_ft": 210,
+      "n_settled_ft": 231,
       "n_settled_ht": 0,
       "n_settled_geh": 0,
       "markets": {
         "Over 1.5": {
-          "n": 185,
+          "n": 206,
           "buckets": [
             {
               "n": 21,
@@ -2555,582 +2555,600 @@ const TRACK_RECORD_DATA = {
               "gap_pts": 30.0
             },
             {
-              "n": 20,
-              "avg_predicted": 0.7208,
-              "observed_rate": 0.6,
-              "gap_pts": -12.1
+              "n": 21,
+              "avg_predicted": 0.7217,
+              "observed_rate": 0.619,
+              "gap_pts": -10.3
             },
             {
-              "n": 21,
-              "avg_predicted": 0.7495,
+              "n": 20,
+              "avg_predicted": 0.75,
               "observed_rate": 1.0,
-              "gap_pts": 25.1
+              "gap_pts": 25.0
+            },
+            {
+              "n": 21,
+              "avg_predicted": 0.7656,
+              "observed_rate": 0.8571,
+              "gap_pts": 9.2
             },
             {
               "n": 20,
-              "avg_predicted": 0.7653,
+              "avg_predicted": 0.7731,
               "observed_rate": 0.85,
-              "gap_pts": 8.5
-            },
-            {
-              "n": 21,
-              "avg_predicted": 0.773,
-              "observed_rate": 0.8571,
-              "gap_pts": 8.4
-            },
-            {
-              "n": 20,
-              "avg_predicted": 0.7754,
-              "observed_rate": 0.75,
-              "gap_pts": -2.5
-            },
-            {
-              "n": 21,
-              "avg_predicted": 0.7843,
-              "observed_rate": 0.8571,
-              "gap_pts": 7.3
-            },
-            {
-              "n": 20,
-              "avg_predicted": 0.7989,
-              "observed_rate": 0.8,
-              "gap_pts": 0.1
-            },
-            {
-              "n": 21,
-              "avg_predicted": 0.854,
-              "observed_rate": 0.9048,
-              "gap_pts": 5.1
-            }
-          ]
-        },
-        "Over 2.5": {
-          "n": 210,
-          "buckets": [
-            {
-              "n": 21,
-              "avg_predicted": 0.3526,
-              "observed_rate": 0.2381,
-              "gap_pts": -11.4
-            },
-            {
-              "n": 21,
-              "avg_predicted": 0.4425,
-              "observed_rate": 0.7143,
-              "gap_pts": 27.2
-            },
-            {
-              "n": 21,
-              "avg_predicted": 0.4979,
-              "observed_rate": 0.619,
-              "gap_pts": 12.1
-            },
-            {
-              "n": 21,
-              "avg_predicted": 0.5329,
-              "observed_rate": 0.5714,
-              "gap_pts": 3.8
-            },
-            {
-              "n": 21,
-              "avg_predicted": 0.5634,
-              "observed_rate": 0.4762,
-              "gap_pts": -8.7
-            },
-            {
-              "n": 21,
-              "avg_predicted": 0.5944,
-              "observed_rate": 0.6667,
-              "gap_pts": 7.2
-            },
-            {
-              "n": 21,
-              "avg_predicted": 0.6056,
-              "observed_rate": 0.619,
-              "gap_pts": 1.3
-            },
-            {
-              "n": 21,
-              "avg_predicted": 0.6165,
-              "observed_rate": 0.5238,
-              "gap_pts": -9.3
-            },
-            {
-              "n": 21,
-              "avg_predicted": 0.6365,
-              "observed_rate": 0.7143,
-              "gap_pts": 7.8
-            },
-            {
-              "n": 21,
-              "avg_predicted": 0.7231,
-              "observed_rate": 0.6667,
-              "gap_pts": -5.6
-            }
-          ]
-        },
-        "Over 3.5": {
-          "n": 200,
-          "buckets": [
-            {
-              "n": 20,
-              "avg_predicted": 0.1145,
-              "observed_rate": 0.3,
-              "gap_pts": 18.5
-            },
-            {
-              "n": 20,
-              "avg_predicted": 0.2586,
-              "observed_rate": 0.4,
-              "gap_pts": 14.1
-            },
-            {
-              "n": 20,
-              "avg_predicted": 0.311,
-              "observed_rate": 0.45,
-              "gap_pts": 13.9
-            },
-            {
-              "n": 20,
-              "avg_predicted": 0.3376,
-              "observed_rate": 0.2,
-              "gap_pts": -13.8
-            },
-            {
-              "n": 20,
-              "avg_predicted": 0.3437,
-              "observed_rate": 0.3,
-              "gap_pts": -4.4
-            },
-            {
-              "n": 20,
-              "avg_predicted": 0.3464,
-              "observed_rate": 0.2,
-              "gap_pts": -14.6
+              "gap_pts": 7.7
             },
             {
               "n": 22,
-              "avg_predicted": 0.3491,
-              "observed_rate": 0.2727,
-              "gap_pts": -7.6
-            },
-            {
-              "n": 18,
-              "avg_predicted": 0.3533,
-              "observed_rate": 0.3889,
-              "gap_pts": 3.6
-            },
-            {
-              "n": 20,
-              "avg_predicted": 0.3622,
-              "observed_rate": 0.4,
-              "gap_pts": 3.8
-            },
-            {
-              "n": 20,
-              "avg_predicted": 0.4278,
-              "observed_rate": 0.45,
-              "gap_pts": 2.2
-            }
-          ]
-        },
-        "Home Win": {
-          "n": 210,
-          "buckets": [
-            {
-              "n": 21,
-              "avg_predicted": 0.2973,
-              "observed_rate": 0.3333,
-              "gap_pts": 3.6
-            },
-            {
-              "n": 21,
-              "avg_predicted": 0.357,
-              "observed_rate": 0.2857,
-              "gap_pts": -7.1
-            },
-            {
-              "n": 21,
-              "avg_predicted": 0.383,
-              "observed_rate": 0.2381,
-              "gap_pts": -14.5
-            },
-            {
-              "n": 21,
-              "avg_predicted": 0.4059,
-              "observed_rate": 0.3333,
-              "gap_pts": -7.3
-            },
-            {
-              "n": 21,
-              "avg_predicted": 0.4275,
-              "observed_rate": 0.4762,
-              "gap_pts": 4.9
-            },
-            {
-              "n": 21,
-              "avg_predicted": 0.4455,
-              "observed_rate": 0.5714,
-              "gap_pts": 12.6
-            },
-            {
-              "n": 21,
-              "avg_predicted": 0.4715,
-              "observed_rate": 0.5238,
-              "gap_pts": 5.2
-            },
-            {
-              "n": 21,
-              "avg_predicted": 0.5056,
-              "observed_rate": 0.5238,
-              "gap_pts": 1.8
-            },
-            {
-              "n": 21,
-              "avg_predicted": 0.5569,
-              "observed_rate": 0.4762,
-              "gap_pts": -8.1
-            },
-            {
-              "n": 21,
-              "avg_predicted": 0.6573,
-              "observed_rate": 0.6667,
-              "gap_pts": 0.9
-            }
-          ]
-        },
-        "Draw": {
-          "n": 210,
-          "buckets": [
-            {
-              "n": 21,
-              "avg_predicted": 0.1673,
-              "observed_rate": 0.1905,
-              "gap_pts": 2.3
-            },
-            {
-              "n": 21,
-              "avg_predicted": 0.2167,
-              "observed_rate": 0.2857,
-              "gap_pts": 6.9
-            },
-            {
-              "n": 21,
-              "avg_predicted": 0.2413,
-              "observed_rate": 0.2381,
+              "avg_predicted": 0.7755,
+              "observed_rate": 0.7727,
               "gap_pts": -0.3
             },
             {
-              "n": 21,
-              "avg_predicted": 0.2539,
-              "observed_rate": 0.2381,
-              "gap_pts": -1.6
-            },
-            {
-              "n": 21,
-              "avg_predicted": 0.2658,
-              "observed_rate": 0.1429,
-              "gap_pts": -12.3
-            },
-            {
-              "n": 21,
-              "avg_predicted": 0.2789,
-              "observed_rate": 0.3333,
-              "gap_pts": 5.4
-            },
-            {
-              "n": 21,
-              "avg_predicted": 0.2884,
-              "observed_rate": 0.3333,
-              "gap_pts": 4.5
-            },
-            {
-              "n": 22,
-              "avg_predicted": 0.2958,
-              "observed_rate": 0.3182,
-              "gap_pts": 2.2
-            },
-            {
-              "n": 20,
-              "avg_predicted": 0.3055,
-              "observed_rate": 0.3,
-              "gap_pts": -0.6
-            },
-            {
-              "n": 21,
-              "avg_predicted": 0.3308,
-              "observed_rate": 0.3333,
-              "gap_pts": 0.3
-            }
-          ]
-        },
-        "Away Win": {
-          "n": 210,
-          "buckets": [
-            {
-              "n": 21,
-              "avg_predicted": 0.1599,
-              "observed_rate": 0.1905,
-              "gap_pts": 3.1
-            },
-            {
-              "n": 21,
-              "avg_predicted": 0.2085,
-              "observed_rate": 0.2381,
-              "gap_pts": 3.0
-            },
-            {
-              "n": 21,
-              "avg_predicted": 0.2354,
-              "observed_rate": 0.0952,
-              "gap_pts": -14.0
-            },
-            {
-              "n": 21,
-              "avg_predicted": 0.2491,
-              "observed_rate": 0.1429,
-              "gap_pts": -10.6
-            },
-            {
-              "n": 21,
-              "avg_predicted": 0.2688,
-              "observed_rate": 0.2857,
-              "gap_pts": 1.7
-            },
-            {
-              "n": 21,
-              "avg_predicted": 0.2833,
-              "observed_rate": 0.2381,
-              "gap_pts": -4.5
-            },
-            {
-              "n": 21,
-              "avg_predicted": 0.3024,
-              "observed_rate": 0.2857,
-              "gap_pts": -1.7
-            },
-            {
-              "n": 21,
-              "avg_predicted": 0.3262,
-              "observed_rate": 0.5238,
-              "gap_pts": 19.8
-            },
-            {
-              "n": 21,
-              "avg_predicted": 0.3662,
-              "observed_rate": 0.381,
-              "gap_pts": 1.5
-            },
-            {
-              "n": 21,
-              "avg_predicted": 0.4485,
-              "observed_rate": 0.4762,
-              "gap_pts": 2.8
-            }
-          ]
-        },
-        "BTTS Yes": {
-          "n": 207,
-          "buckets": [
-            {
-              "n": 21,
-              "avg_predicted": 0.3874,
-              "observed_rate": 0.3333,
-              "gap_pts": -5.4
-            },
-            {
-              "n": 21,
-              "avg_predicted": 0.4858,
-              "observed_rate": 0.5238,
-              "gap_pts": 3.8
-            },
-            {
-              "n": 20,
-              "avg_predicted": 0.5186,
-              "observed_rate": 0.55,
-              "gap_pts": 3.1
-            },
-            {
-              "n": 21,
-              "avg_predicted": 0.5349,
-              "observed_rate": 0.9048,
-              "gap_pts": 37.0
-            },
-            {
-              "n": 21,
-              "avg_predicted": 0.5495,
-              "observed_rate": 0.7143,
-              "gap_pts": 16.5
-            },
-            {
-              "n": 20,
-              "avg_predicted": 0.5607,
-              "observed_rate": 0.7,
-              "gap_pts": 13.9
-            },
-            {
-              "n": 21,
-              "avg_predicted": 0.5668,
-              "observed_rate": 0.5714,
-              "gap_pts": 0.5
-            },
-            {
-              "n": 20,
-              "avg_predicted": 0.5737,
-              "observed_rate": 0.7,
-              "gap_pts": 12.6
-            },
-            {
-              "n": 21,
-              "avg_predicted": 0.593,
-              "observed_rate": 0.4286,
-              "gap_pts": -16.4
-            },
-            {
-              "n": 21,
-              "avg_predicted": 0.6651,
-              "observed_rate": 0.6667,
-              "gap_pts": 0.2
-            }
-          ]
-        },
-        "BTTS & Over 2.5": {
-          "n": 207,
-          "buckets": [
-            {
-              "n": 21,
-              "avg_predicted": 0.2618,
-              "observed_rate": 0.2857,
-              "gap_pts": 2.4
-            },
-            {
-              "n": 21,
-              "avg_predicted": 0.3449,
-              "observed_rate": 0.5238,
-              "gap_pts": 17.9
-            },
-            {
-              "n": 20,
-              "avg_predicted": 0.3876,
-              "observed_rate": 0.45,
+              "n": 19,
+              "avg_predicted": 0.7797,
+              "observed_rate": 0.8421,
               "gap_pts": 6.2
             },
             {
               "n": 21,
-              "avg_predicted": 0.4108,
-              "observed_rate": 0.4286,
+              "avg_predicted": 0.7913,
+              "observed_rate": 0.8095,
               "gap_pts": 1.8
             },
             {
-              "n": 21,
-              "avg_predicted": 0.4253,
-              "observed_rate": 0.5714,
-              "gap_pts": 14.6
-            },
-            {
               "n": 20,
-              "avg_predicted": 0.4441,
-              "observed_rate": 0.45,
-              "gap_pts": 0.6
+              "avg_predicted": 0.8009,
+              "observed_rate": 0.85,
+              "gap_pts": 4.9
             },
             {
               "n": 21,
-              "avg_predicted": 0.4576,
-              "observed_rate": 0.4762,
-              "gap_pts": 1.9
+              "avg_predicted": 0.8595,
+              "observed_rate": 0.8571,
+              "gap_pts": -0.2
+            }
+          ]
+        },
+        "Over 2.5": {
+          "n": 231,
+          "buckets": [
+            {
+              "n": 24,
+              "avg_predicted": 0.3591,
+              "observed_rate": 0.3333,
+              "gap_pts": -2.6
             },
             {
-              "n": 20,
-              "avg_predicted": 0.477,
-              "observed_rate": 0.4,
-              "gap_pts": -7.7
+              "n": 23,
+              "avg_predicted": 0.4555,
+              "observed_rate": 0.5652,
+              "gap_pts": 11.0
+            },
+            {
+              "n": 23,
+              "avg_predicted": 0.5087,
+              "observed_rate": 0.6522,
+              "gap_pts": 14.3
+            },
+            {
+              "n": 23,
+              "avg_predicted": 0.5407,
+              "observed_rate": 0.5652,
+              "gap_pts": 2.5
+            },
+            {
+              "n": 23,
+              "avg_predicted": 0.5713,
+              "observed_rate": 0.5652,
+              "gap_pts": -0.6
+            },
+            {
+              "n": 23,
+              "avg_predicted": 0.5982,
+              "observed_rate": 0.6957,
+              "gap_pts": 9.7
+            },
+            {
+              "n": 23,
+              "avg_predicted": 0.6084,
+              "observed_rate": 0.6522,
+              "gap_pts": 4.4
+            },
+            {
+              "n": 23,
+              "avg_predicted": 0.6203,
+              "observed_rate": 0.4348,
+              "gap_pts": -18.6
+            },
+            {
+              "n": 23,
+              "avg_predicted": 0.6409,
+              "observed_rate": 0.8261,
+              "gap_pts": 18.5
+            },
+            {
+              "n": 23,
+              "avg_predicted": 0.7197,
+              "observed_rate": 0.6522,
+              "gap_pts": -6.8
+            }
+          ]
+        },
+        "Over 3.5": {
+          "n": 221,
+          "buckets": [
+            {
+              "n": 23,
+              "avg_predicted": 0.1266,
+              "observed_rate": 0.2609,
+              "gap_pts": 13.4
+            },
+            {
+              "n": 22,
+              "avg_predicted": 0.2743,
+              "observed_rate": 0.5455,
+              "gap_pts": 27.1
+            },
+            {
+              "n": 22,
+              "avg_predicted": 0.31,
+              "observed_rate": 0.5455,
+              "gap_pts": 23.5
+            },
+            {
+              "n": 22,
+              "avg_predicted": 0.3332,
+              "observed_rate": 0.2273,
+              "gap_pts": -10.6
+            },
+            {
+              "n": 22,
+              "avg_predicted": 0.3433,
+              "observed_rate": 0.3182,
+              "gap_pts": -2.5
+            },
+            {
+              "n": 22,
+              "avg_predicted": 0.3461,
+              "observed_rate": 0.1818,
+              "gap_pts": -16.4
+            },
+            {
+              "n": 23,
+              "avg_predicted": 0.3491,
+              "observed_rate": 0.2609,
+              "gap_pts": -8.8
             },
             {
               "n": 21,
-              "avg_predicted": 0.5023,
-              "observed_rate": 0.619,
+              "avg_predicted": 0.3539,
+              "observed_rate": 0.3333,
+              "gap_pts": -2.1
+            },
+            {
+              "n": 22,
+              "avg_predicted": 0.3648,
+              "observed_rate": 0.3636,
+              "gap_pts": -0.1
+            },
+            {
+              "n": 22,
+              "avg_predicted": 0.4297,
+              "observed_rate": 0.5,
+              "gap_pts": 7.0
+            }
+          ]
+        },
+        "Home Win": {
+          "n": 231,
+          "buckets": [
+            {
+              "n": 24,
+              "avg_predicted": 0.2999,
+              "observed_rate": 0.2917,
+              "gap_pts": -0.8
+            },
+            {
+              "n": 23,
+              "avg_predicted": 0.358,
+              "observed_rate": 0.2609,
+              "gap_pts": -9.7
+            },
+            {
+              "n": 23,
+              "avg_predicted": 0.3818,
+              "observed_rate": 0.1739,
+              "gap_pts": -20.8
+            },
+            {
+              "n": 23,
+              "avg_predicted": 0.4047,
+              "observed_rate": 0.4348,
+              "gap_pts": 3.0
+            },
+            {
+              "n": 23,
+              "avg_predicted": 0.4258,
+              "observed_rate": 0.4783,
+              "gap_pts": 5.2
+            },
+            {
+              "n": 23,
+              "avg_predicted": 0.4445,
+              "observed_rate": 0.5652,
+              "gap_pts": 12.1
+            },
+            {
+              "n": 23,
+              "avg_predicted": 0.471,
+              "observed_rate": 0.5652,
+              "gap_pts": 9.4
+            },
+            {
+              "n": 23,
+              "avg_predicted": 0.501,
+              "observed_rate": 0.4783,
+              "gap_pts": -2.3
+            },
+            {
+              "n": 23,
+              "avg_predicted": 0.5483,
+              "observed_rate": 0.4348,
+              "gap_pts": -11.3
+            },
+            {
+              "n": 23,
+              "avg_predicted": 0.651,
+              "observed_rate": 0.6957,
+              "gap_pts": 4.5
+            }
+          ]
+        },
+        "Draw": {
+          "n": 231,
+          "buckets": [
+            {
+              "n": 24,
+              "avg_predicted": 0.1717,
+              "observed_rate": 0.25,
+              "gap_pts": 7.8
+            },
+            {
+              "n": 23,
+              "avg_predicted": 0.2218,
+              "observed_rate": 0.2174,
+              "gap_pts": -0.4
+            },
+            {
+              "n": 23,
+              "avg_predicted": 0.2439,
+              "observed_rate": 0.1739,
+              "gap_pts": -7.0
+            },
+            {
+              "n": 23,
+              "avg_predicted": 0.2555,
+              "observed_rate": 0.2609,
+              "gap_pts": 0.5
+            },
+            {
+              "n": 23,
+              "avg_predicted": 0.2653,
+              "observed_rate": 0.2174,
+              "gap_pts": -4.8
+            },
+            {
+              "n": 23,
+              "avg_predicted": 0.2764,
+              "observed_rate": 0.3478,
+              "gap_pts": 7.1
+            },
+            {
+              "n": 23,
+              "avg_predicted": 0.2864,
+              "observed_rate": 0.2609,
+              "gap_pts": -2.6
+            },
+            {
+              "n": 23,
+              "avg_predicted": 0.2944,
+              "observed_rate": 0.3913,
+              "gap_pts": 9.7
+            },
+            {
+              "n": 23,
+              "avg_predicted": 0.3035,
+              "observed_rate": 0.3043,
+              "gap_pts": 0.1
+            },
+            {
+              "n": 23,
+              "avg_predicted": 0.3292,
+              "observed_rate": 0.3043,
+              "gap_pts": -2.5
+            }
+          ]
+        },
+        "Away Win": {
+          "n": 231,
+          "buckets": [
+            {
+              "n": 24,
+              "avg_predicted": 0.1642,
+              "observed_rate": 0.2083,
+              "gap_pts": 4.4
+            },
+            {
+              "n": 23,
+              "avg_predicted": 0.2147,
+              "observed_rate": 0.2174,
+              "gap_pts": 0.3
+            },
+            {
+              "n": 23,
+              "avg_predicted": 0.2382,
+              "observed_rate": 0.1304,
+              "gap_pts": -10.8
+            },
+            {
+              "n": 23,
+              "avg_predicted": 0.2509,
+              "observed_rate": 0.087,
+              "gap_pts": -16.4
+            },
+            {
+              "n": 23,
+              "avg_predicted": 0.2712,
+              "observed_rate": 0.3043,
+              "gap_pts": 3.3
+            },
+            {
+              "n": 23,
+              "avg_predicted": 0.2863,
+              "observed_rate": 0.3043,
+              "gap_pts": 1.8
+            },
+            {
+              "n": 23,
+              "avg_predicted": 0.3063,
+              "observed_rate": 0.3478,
+              "gap_pts": 4.2
+            },
+            {
+              "n": 23,
+              "avg_predicted": 0.3319,
+              "observed_rate": 0.3478,
+              "gap_pts": 1.6
+            },
+            {
+              "n": 23,
+              "avg_predicted": 0.3683,
+              "observed_rate": 0.3913,
+              "gap_pts": 2.3
+            },
+            {
+              "n": 23,
+              "avg_predicted": 0.4499,
+              "observed_rate": 0.5652,
+              "gap_pts": 11.5
+            }
+          ]
+        },
+        "BTTS Yes": {
+          "n": 228,
+          "buckets": [
+            {
+              "n": 23,
+              "avg_predicted": 0.3943,
+              "observed_rate": 0.3913,
+              "gap_pts": -0.3
+            },
+            {
+              "n": 23,
+              "avg_predicted": 0.492,
+              "observed_rate": 0.5217,
+              "gap_pts": 3.0
+            },
+            {
+              "n": 23,
+              "avg_predicted": 0.5233,
+              "observed_rate": 0.6522,
+              "gap_pts": 12.9
+            },
+            {
+              "n": 22,
+              "avg_predicted": 0.54,
+              "observed_rate": 0.9091,
+              "gap_pts": 36.9
+            },
+            {
+              "n": 23,
+              "avg_predicted": 0.555,
+              "observed_rate": 0.5652,
+              "gap_pts": 1.0
+            },
+            {
+              "n": 23,
+              "avg_predicted": 0.5633,
+              "observed_rate": 0.6522,
+              "gap_pts": 8.9
+            },
+            {
+              "n": 22,
+              "avg_predicted": 0.5679,
+              "observed_rate": 0.5455,
+              "gap_pts": -2.2
+            },
+            {
+              "n": 23,
+              "avg_predicted": 0.5786,
+              "observed_rate": 0.6957,
               "gap_pts": 11.7
             },
             {
-              "n": 21,
-              "avg_predicted": 0.5858,
-              "observed_rate": 0.6667,
-              "gap_pts": 8.1
+              "n": 23,
+              "avg_predicted": 0.5956,
+              "observed_rate": 0.5652,
+              "gap_pts": -3.0
+            },
+            {
+              "n": 23,
+              "avg_predicted": 0.6714,
+              "observed_rate": 0.6087,
+              "gap_pts": -6.3
             }
           ]
         },
-        "BTTS & Home Win": {
-          "n": 117,
+        "BTTS & Over 2.5": {
+          "n": 228,
           "buckets": [
             {
-              "n": 24,
-              "avg_predicted": 0.1444,
-              "observed_rate": 0.25,
-              "gap_pts": 10.6
-            },
-            {
               "n": 23,
-              "avg_predicted": 0.1844,
-              "observed_rate": 0.2609,
-              "gap_pts": 7.6
-            },
-            {
-              "n": 23,
-              "avg_predicted": 0.2176,
+              "avg_predicted": 0.267,
               "observed_rate": 0.3478,
-              "gap_pts": 13.0
+              "gap_pts": 8.1
             },
             {
               "n": 23,
-              "avg_predicted": 0.2452,
-              "observed_rate": 0.087,
-              "gap_pts": -15.8
-            },
-            {
-              "n": 24,
-              "avg_predicted": 0.3252,
-              "observed_rate": 0.4583,
-              "gap_pts": 13.3
-            }
-          ]
-        },
-        "BTTS & Draw": {
-          "n": 117,
-          "buckets": [
-            {
-              "n": 24,
-              "avg_predicted": 0.1583,
-              "observed_rate": 0.1667,
-              "gap_pts": 0.8
+              "avg_predicted": 0.3508,
+              "observed_rate": 0.4783,
+              "gap_pts": 12.7
             },
             {
               "n": 23,
-              "avg_predicted": 0.1861,
-              "observed_rate": 0.1304,
+              "avg_predicted": 0.397,
+              "observed_rate": 0.3913,
+              "gap_pts": -0.6
+            },
+            {
+              "n": 22,
+              "avg_predicted": 0.4156,
+              "observed_rate": 0.6364,
+              "gap_pts": 22.1
+            },
+            {
+              "n": 23,
+              "avg_predicted": 0.4332,
+              "observed_rate": 0.4348,
+              "gap_pts": 0.2
+            },
+            {
+              "n": 23,
+              "avg_predicted": 0.4495,
+              "observed_rate": 0.4783,
+              "gap_pts": 2.9
+            },
+            {
+              "n": 22,
+              "avg_predicted": 0.4653,
+              "observed_rate": 0.4091,
               "gap_pts": -5.6
             },
             {
               "n": 23,
-              "avg_predicted": 0.1951,
-              "observed_rate": 0.2174,
-              "gap_pts": 2.2
-            },
-            {
-              "n": 23,
-              "avg_predicted": 0.2073,
-              "observed_rate": 0.3478,
-              "gap_pts": 14.1
+              "avg_predicted": 0.4845,
+              "observed_rate": 0.4783,
+              "gap_pts": -0.6
             },
             {
               "n": 24,
-              "avg_predicted": 0.2284,
+              "avg_predicted": 0.5084,
+              "observed_rate": 0.625,
+              "gap_pts": 11.7
+            },
+            {
+              "n": 22,
+              "avg_predicted": 0.5879,
+              "observed_rate": 0.6818,
+              "gap_pts": 9.4
+            }
+          ]
+        },
+        "BTTS & Home Win": {
+          "n": 138,
+          "buckets": [
+            {
+              "n": 23,
+              "avg_predicted": 0.1434,
+              "observed_rate": 0.2609,
+              "gap_pts": 11.7
+            },
+            {
+              "n": 23,
+              "avg_predicted": 0.1819,
+              "observed_rate": 0.2609,
+              "gap_pts": 7.9
+            },
+            {
+              "n": 23,
+              "avg_predicted": 0.207,
+              "observed_rate": 0.3043,
+              "gap_pts": 9.7
+            },
+            {
+              "n": 23,
+              "avg_predicted": 0.2273,
+              "observed_rate": 0.1739,
+              "gap_pts": -5.3
+            },
+            {
+              "n": 23,
+              "avg_predicted": 0.2527,
+              "observed_rate": 0.1304,
+              "gap_pts": -12.2
+            },
+            {
+              "n": 23,
+              "avg_predicted": 0.3304,
+              "observed_rate": 0.4783,
+              "gap_pts": 14.8
+            }
+          ]
+        },
+        "BTTS & Draw": {
+          "n": 138,
+          "buckets": [
+            {
+              "n": 23,
+              "avg_predicted": 0.1568,
+              "observed_rate": 0.1739,
+              "gap_pts": 1.7
+            },
+            {
+              "n": 23,
+              "avg_predicted": 0.1832,
+              "observed_rate": 0.087,
+              "gap_pts": -9.6
+            },
+            {
+              "n": 24,
+              "avg_predicted": 0.1924,
               "observed_rate": 0.25,
-              "gap_pts": 2.2
+              "gap_pts": 5.8
+            },
+            {
+              "n": 23,
+              "avg_predicted": 0.2027,
+              "observed_rate": 0.3043,
+              "gap_pts": 10.2
+            },
+            {
+              "n": 22,
+              "avg_predicted": 0.213,
+              "observed_rate": 0.1818,
+              "gap_pts": -3.1
+            },
+            {
+              "n": 23,
+              "avg_predicted": 0.2325,
+              "observed_rate": 0.3478,
+              "gap_pts": 11.5
             }
           ]
         },
         "BTTS & Away Win": {
-          "n": 117,
+          "n": 138,
           "buckets": [
             {
               "n": 24,
@@ -3139,28 +3157,34 @@ const TRACK_RECORD_DATA = {
               "gap_pts": -0.8
             },
             {
-              "n": 23,
-              "avg_predicted": 0.1216,
-              "observed_rate": 0.2174,
-              "gap_pts": 9.6
+              "n": 22,
+              "avg_predicted": 0.1211,
+              "observed_rate": 0.2273,
+              "gap_pts": 10.6
             },
             {
               "n": 23,
-              "avg_predicted": 0.1424,
-              "observed_rate": 0.1304,
-              "gap_pts": -1.2
+              "avg_predicted": 0.1402,
+              "observed_rate": 0.0435,
+              "gap_pts": -9.7
             },
             {
               "n": 23,
-              "avg_predicted": 0.1593,
+              "avg_predicted": 0.1529,
+              "observed_rate": 0.2609,
+              "gap_pts": 10.8
+            },
+            {
+              "n": 23,
+              "avg_predicted": 0.1682,
               "observed_rate": 0.1739,
-              "gap_pts": 1.5
+              "gap_pts": 0.6
             },
             {
-              "n": 24,
-              "avg_predicted": 0.2008,
-              "observed_rate": 0.2083,
-              "gap_pts": 0.8
+              "n": 23,
+              "avg_predicted": 0.2049,
+              "observed_rate": 0.2174,
+              "gap_pts": 1.3
             }
           ]
         }
