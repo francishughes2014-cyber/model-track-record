@@ -886,6 +886,65 @@ const RECENT_RESULTS = [
   },
   {
     "league": "Brazil Serie A",
+    "home_team": "Corinthians",
+    "away_team": "Fluminense",
+    "match_date": "2026-09-20",
+    "score": "1-3",
+    "over15": {
+      "pred": 0.7999,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.5377,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.3986,
+      "hit": false,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.3841,
+      "is_result": false
+    },
+    "draw": {
+      "pred": 0.2885,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.3274,
+      "is_result": true
+    },
+    "btts": {
+      "pred": 0.5965,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.444,
+      "hit": false,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.201,
+      "hit": true,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.2214,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.174,
+      "hit": false,
+      "label": "BTTS+Away"
+    }
+  },
+  {
+    "league": "Brazil Serie A",
     "home_team": "Gremio",
     "away_team": "Palmeiras",
     "match_date": "2026-09-20",
@@ -7338,6 +7397,75 @@ const RECENT_RESULTS = [
   },
   {
     "league": "La Liga",
+    "home_team": "Valencia",
+    "away_team": "Sociedad",
+    "match_date": "2026-09-20",
+    "score": "2-3",
+    "over15": {
+      "pred": 0.8092,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.5209,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.382,
+      "hit": false,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.396,
+      "is_result": false
+    },
+    "draw": {
+      "pred": 0.2938,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.3103,
+      "is_result": true
+    },
+    "btts": {
+      "pred": 0.5102,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.4482,
+      "hit": false,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.1808,
+      "hit": true,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.1899,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.1396,
+      "hit": false,
+      "label": "BTTS+Away"
+    },
+    "ht_over15": {
+      "pred": 0.337,
+      "hit": true,
+      "label": "HT O1.5"
+    },
+    "ht_over05": {
+      "pred": 0.7239,
+      "hit": true,
+      "label": "HT O0.5"
+    }
+  },
+  {
+    "league": "La Liga",
     "home_team": "Vallecano",
     "away_team": "Espanol",
     "match_date": "2026-09-15",
@@ -8145,6 +8273,75 @@ const RECENT_RESULTS = [
     },
     "ht_over05": {
       "pred": 0.7226,
+      "hit": true,
+      "label": "HT O0.5"
+    }
+  },
+  {
+    "league": "La Liga 2",
+    "home_team": "Leganes",
+    "away_team": "Granada",
+    "match_date": "2026-09-20",
+    "score": "3-2",
+    "over15": {
+      "pred": 0.8031,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.538,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.4133,
+      "hit": false,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.3733,
+      "is_result": true
+    },
+    "draw": {
+      "pred": 0.2833,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.3434,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.5677,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.4466,
+      "hit": false,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.1927,
+      "hit": false,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.2051,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.1698,
+      "hit": true,
+      "label": "BTTS+Away"
+    },
+    "ht_over15": {
+      "pred": 0.3452,
+      "hit": false,
+      "label": "HT O1.5"
+    },
+    "ht_over05": {
+      "pred": 0.7,
       "hit": true,
       "label": "HT O0.5"
     }
@@ -12184,6 +12381,75 @@ const RECENT_RESULTS = [
     "ht_over05": {
       "pred": 0.8013,
       "hit": true,
+      "label": "HT O0.5"
+    }
+  },
+  {
+    "league": "Ligue 1",
+    "home_team": "Marseille",
+    "away_team": "Paris SG",
+    "match_date": "2026-09-20",
+    "score": "1-2",
+    "over15": {
+      "pred": 0.8513,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.6773,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.3952,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.3471,
+      "is_result": false
+    },
+    "draw": {
+      "pred": 0.2422,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.4107,
+      "is_result": true
+    },
+    "btts": {
+      "pred": 0.719,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.5646,
+      "hit": true,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.2528,
+      "hit": true,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.2625,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.2037,
+      "hit": false,
+      "label": "BTTS+Away"
+    },
+    "ht_over15": {
+      "pred": 0.3935,
+      "hit": true,
+      "label": "HT O1.5"
+    },
+    "ht_over05": {
+      "pred": 0.7248,
+      "hit": false,
       "label": "HT O0.5"
     }
   },
@@ -19658,6 +19924,75 @@ const RECENT_RESULTS = [
     },
     "ht_over05": {
       "pred": 0.7074,
+      "hit": true,
+      "label": "HT O0.5"
+    }
+  },
+  {
+    "league": "Serie A",
+    "home_team": "Milan",
+    "away_team": "Lecce",
+    "match_date": "2026-09-20",
+    "score": "3-0",
+    "over15": {
+      "pred": 0.8024,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.5379,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.4087,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.5032,
+      "is_result": true
+    },
+    "draw": {
+      "pred": 0.277,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.2198,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.5376,
+      "hit": false,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.4489,
+      "hit": true,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.2086,
+      "hit": true,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.2219,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.1072,
+      "hit": true,
+      "label": "BTTS+Away"
+    },
+    "ht_over15": {
+      "pred": 0.3392,
+      "hit": true,
+      "label": "HT O1.5"
+    },
+    "ht_over05": {
+      "pred": 0.7234,
       "hit": true,
       "label": "HT O0.5"
     }
