@@ -355,6 +355,65 @@ const RECENT_RESULTS = [
   },
   {
     "league": "Argentina Primera Division",
+    "home_team": "San Lorenzo",
+    "away_team": "Boca Juniors",
+    "match_date": "2026-09-20",
+    "score": "0-2",
+    "over15": {
+      "pred": 0.7936,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.4823,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.3501,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.3042,
+      "is_result": false
+    },
+    "draw": {
+      "pred": 0.2879,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.4079,
+      "is_result": true
+    },
+    "btts": {
+      "pred": 0.5152,
+      "hit": false,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.3879,
+      "hit": true,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.1622,
+      "hit": true,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.1926,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.1603,
+      "hit": true,
+      "label": "BTTS+Away"
+    }
+  },
+  {
+    "league": "Argentina Primera Division",
     "home_team": "Union de Santa Fe",
     "away_team": "Independiente",
     "match_date": "2026-09-19",
@@ -473,6 +532,124 @@ const RECENT_RESULTS = [
   },
   {
     "league": "Austria Bundesliga",
+    "home_team": "Hartberg",
+    "away_team": "LASK",
+    "match_date": "2026-09-20",
+    "score": "3-3",
+    "over15": {
+      "pred": 0.891,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.71,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.4607,
+      "hit": false,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.3559,
+      "is_result": false
+    },
+    "draw": {
+      "pred": 0.2422,
+      "is_result": true
+    },
+    "away": {
+      "pred": 0.4019,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.7855,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.6167,
+      "hit": true,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.2966,
+      "hit": true,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.2775,
+      "hit": false,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.2115,
+      "hit": true,
+      "label": "BTTS+Away"
+    }
+  },
+  {
+    "league": "Austria Bundesliga",
+    "home_team": "Ried",
+    "away_team": "Wolfsberger AC",
+    "match_date": "2026-09-20",
+    "score": "4-1",
+    "over15": {
+      "pred": 0.809,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.5128,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.3751,
+      "hit": false,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.37,
+      "is_result": true
+    },
+    "draw": {
+      "pred": 0.3064,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.3236,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.5158,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.4376,
+      "hit": false,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.173,
+      "hit": false,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.2006,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.1422,
+      "hit": true,
+      "label": "BTTS+Away"
+    }
+  },
+  {
+    "league": "Austria Bundesliga",
     "home_team": "SK Rapid",
     "away_team": "Tirol",
     "match_date": "2026-09-18",
@@ -526,6 +703,65 @@ const RECENT_RESULTS = [
     },
     "btts_away": {
       "pred": 0.104,
+      "hit": true,
+      "label": "BTTS+Away"
+    }
+  },
+  {
+    "league": "Austria Bundesliga",
+    "home_team": "Salzburg",
+    "away_team": "Sturm Graz",
+    "match_date": "2026-09-20",
+    "score": "3-0",
+    "over15": {
+      "pred": 0.8817,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.6909,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.4394,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.5177,
+      "is_result": true
+    },
+    "draw": {
+      "pred": 0.243,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.2393,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.7099,
+      "hit": false,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.5661,
+      "hit": false,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.347,
+      "hit": true,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.1986,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.1644,
       "hit": true,
       "label": "BTTS+Away"
     }
@@ -644,6 +880,65 @@ const RECENT_RESULTS = [
     },
     "btts_away": {
       "pred": 0.0969,
+      "hit": true,
+      "label": "BTTS+Away"
+    }
+  },
+  {
+    "league": "Brazil Serie A",
+    "home_team": "Gremio",
+    "away_team": "Palmeiras",
+    "match_date": "2026-09-20",
+    "score": "0-0",
+    "over15": {
+      "pred": 0.8023,
+      "hit": false,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.538,
+      "hit": false,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.4142,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.3215,
+      "is_result": false
+    },
+    "draw": {
+      "pred": 0.2765,
+      "is_result": true
+    },
+    "away": {
+      "pred": 0.402,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.5726,
+      "hit": false,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.447,
+      "hit": true,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.1855,
+      "hit": true,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.2138,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.1732,
       "hit": true,
       "label": "BTTS+Away"
     }
@@ -1093,6 +1388,75 @@ const RECENT_RESULTS = [
   },
   {
     "league": "Bundesliga",
+    "home_team": "Leverkusen",
+    "away_team": "RB Leipzig",
+    "match_date": "2026-09-20",
+    "score": "2-0",
+    "over15": {
+      "pred": 0.9304,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.8962,
+      "hit": false,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.6319,
+      "hit": false,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.6012,
+      "is_result": true
+    },
+    "draw": {
+      "pred": 0.2026,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.1962,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.7754,
+      "hit": false,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.6878,
+      "hit": false,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.3903,
+      "hit": true,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.2068,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.1783,
+      "hit": true,
+      "label": "BTTS+Away"
+    },
+    "ht_over15": {
+      "pred": 0.5151,
+      "hit": false,
+      "label": "HT O1.5"
+    },
+    "ht_over05": {
+      "pred": 0.8937,
+      "hit": true,
+      "label": "HT O0.5"
+    }
+  },
+  {
+    "league": "Bundesliga",
     "home_team": "M'gladbach",
     "away_team": "Mainz",
     "match_date": "2026-09-19",
@@ -1157,6 +1521,144 @@ const RECENT_RESULTS = [
     "ht_over05": {
       "pred": 0.8151,
       "hit": true,
+      "label": "HT O0.5"
+    }
+  },
+  {
+    "league": "Bundesliga",
+    "home_team": "Paderborn",
+    "away_team": "Hoffenheim",
+    "match_date": "2026-09-20",
+    "score": "3-1",
+    "over15": {
+      "pred": 0.7596,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.4147,
+      "hit": false,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.3285,
+      "hit": false,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.2787,
+      "is_result": true
+    },
+    "draw": {
+      "pred": 0.2455,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.4759,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.4676,
+      "hit": false,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.2804,
+      "hit": false,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.0437,
+      "hit": false,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.2472,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.1768,
+      "hit": true,
+      "label": "BTTS+Away"
+    },
+    "ht_over15": {
+      "pred": 0.3455,
+      "hit": false,
+      "label": "HT O1.5"
+    },
+    "ht_over05": {
+      "pred": 0.7076,
+      "hit": true,
+      "label": "HT O0.5"
+    }
+  },
+  {
+    "league": "Bundesliga",
+    "home_team": "Schalke 04",
+    "away_team": "Elversberg",
+    "match_date": "2026-09-20",
+    "score": "0-0",
+    "over15": {
+      "pred": 0.4632,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.3128,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.0827,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.311,
+      "is_result": false
+    },
+    "draw": {
+      "pred": 0.3071,
+      "is_result": true
+    },
+    "away": {
+      "pred": 0.382,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.3023,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.2024,
+      "hit": true,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.0387,
+      "hit": true,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.202,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.0617,
+      "hit": true,
+      "label": "BTTS+Away"
+    },
+    "ht_over15": {
+      "pred": 0.3455,
+      "hit": true,
+      "label": "HT O1.5"
+    },
+    "ht_over05": {
+      "pred": 0.709,
+      "hit": false,
       "label": "HT O0.5"
     }
   },
@@ -1300,6 +1802,144 @@ const RECENT_RESULTS = [
   },
   {
     "league": "Bundesliga 2",
+    "home_team": "Bielefeld",
+    "away_team": "Heidenheim",
+    "match_date": "2026-09-20",
+    "score": "2-2",
+    "over15": {
+      "pred": 0.884,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.7339,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.4811,
+      "hit": false,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.4077,
+      "is_result": false
+    },
+    "draw": {
+      "pred": 0.2295,
+      "is_result": true
+    },
+    "away": {
+      "pred": 0.3628,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.7797,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.6438,
+      "hit": true,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.3302,
+      "hit": true,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.247,
+      "hit": false,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.2024,
+      "hit": true,
+      "label": "BTTS+Away"
+    },
+    "ht_over15": {
+      "pred": 0.5079,
+      "hit": true,
+      "label": "HT O1.5"
+    },
+    "ht_over05": {
+      "pred": 0.8675,
+      "hit": true,
+      "label": "HT O0.5"
+    }
+  },
+  {
+    "league": "Bundesliga 2",
+    "home_team": "Cottbus",
+    "away_team": "St Pauli",
+    "match_date": "2026-09-20",
+    "score": "1-1",
+    "over15": {
+      "pred": 0.9339,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.8782,
+      "hit": false,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.6141,
+      "hit": false,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.5646,
+      "is_result": false
+    },
+    "draw": {
+      "pred": 0.2069,
+      "is_result": true
+    },
+    "away": {
+      "pred": 0.2284,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.7948,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.7198,
+      "hit": false,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.3951,
+      "hit": true,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.2149,
+      "hit": false,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.1849,
+      "hit": true,
+      "label": "BTTS+Away"
+    },
+    "ht_over15": {
+      "pred": 0.4339,
+      "hit": true,
+      "label": "HT O1.5"
+    },
+    "ht_over05": {
+      "pred": 0.7163,
+      "hit": true,
+      "label": "HT O0.5"
+    }
+  },
+  {
+    "league": "Bundesliga 2",
     "home_team": "Dresden",
     "away_team": "Hertha",
     "match_date": "2026-09-19",
@@ -1432,6 +2072,75 @@ const RECENT_RESULTS = [
     },
     "ht_over05": {
       "pred": 0.8696,
+      "hit": true,
+      "label": "HT O0.5"
+    }
+  },
+  {
+    "league": "Bundesliga 2",
+    "home_team": "Hannover",
+    "away_team": "Bochum",
+    "match_date": "2026-09-20",
+    "score": "2-1",
+    "over15": {
+      "pred": 0.7995,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.5375,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.3903,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.4932,
+      "is_result": true
+    },
+    "draw": {
+      "pred": 0.2758,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.2311,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.5714,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.4451,
+      "hit": false,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.2239,
+      "hit": false,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.2146,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.1329,
+      "hit": true,
+      "label": "BTTS+Away"
+    },
+    "ht_over15": {
+      "pred": 0.3973,
+      "hit": false,
+      "label": "HT O1.5"
+    },
+    "ht_over05": {
+      "pred": 0.7271,
       "hit": true,
       "label": "HT O0.5"
     }
@@ -2460,6 +3169,75 @@ const RECENT_RESULTS = [
   {
     "league": "Championship",
     "home_team": "Norwich",
+    "away_team": "Bolton",
+    "match_date": "2026-09-20",
+    "score": "3-4",
+    "over15": {
+      "pred": 0.7915,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.5471,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.359,
+      "hit": false,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.5346,
+      "is_result": false
+    },
+    "draw": {
+      "pred": 0.2698,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.1956,
+      "is_result": true
+    },
+    "btts": {
+      "pred": 0.5985,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.4418,
+      "hit": false,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.2706,
+      "hit": true,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.2119,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.1159,
+      "hit": false,
+      "label": "BTTS+Away"
+    },
+    "ht_over15": {
+      "pred": 0.4602,
+      "hit": false,
+      "label": "HT O1.5"
+    },
+    "ht_over05": {
+      "pred": 0.6996,
+      "hit": true,
+      "label": "HT O0.5"
+    }
+  },
+  {
+    "league": "Championship",
+    "home_team": "Norwich",
     "away_team": "Burnley",
     "match_date": NaN,
     "score": "4-1",
@@ -2782,6 +3560,75 @@ const RECENT_RESULTS = [
   },
   {
     "league": "Championship",
+    "home_team": "Wolves",
+    "away_team": "West Brom",
+    "match_date": "2026-09-20",
+    "score": "1-0",
+    "over15": {
+      "pred": 0.8188,
+      "hit": false,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.6593,
+      "hit": false,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.3431,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.5265,
+      "is_result": true
+    },
+    "draw": {
+      "pred": 0.2482,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.2253,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.5909,
+      "hit": false,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.5229,
+      "hit": false,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.2823,
+      "hit": true,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.1686,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.14,
+      "hit": true,
+      "label": "BTTS+Away"
+    },
+    "ht_over15": {
+      "pred": 0.5029,
+      "hit": false,
+      "label": "HT O1.5"
+    },
+    "ht_over05": {
+      "pred": 0.8766,
+      "hit": false,
+      "label": "HT O0.5"
+    }
+  },
+  {
+    "league": "Championship",
     "home_team": "Wrexham",
     "away_team": "Birmingham",
     "match_date": NaN,
@@ -2933,6 +3780,124 @@ const RECENT_RESULTS = [
     },
     "btts_away": {
       "pred": 0.164,
+      "hit": true,
+      "label": "BTTS+Away"
+    }
+  },
+  {
+    "league": "Denmark Superliga",
+    "home_team": "Brondby",
+    "away_team": "FC Copenhagen",
+    "match_date": "2026-09-20",
+    "score": "0-1",
+    "over15": {
+      "pred": 0.7859,
+      "hit": false,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.6412,
+      "hit": false,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.2933,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.3183,
+      "is_result": false
+    },
+    "draw": {
+      "pred": 0.2527,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.429,
+      "is_result": true
+    },
+    "btts": {
+      "pred": 0.606,
+      "hit": false,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.5183,
+      "hit": false,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.203,
+      "hit": true,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.2276,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.1755,
+      "hit": true,
+      "label": "BTTS+Away"
+    }
+  },
+  {
+    "league": "Denmark Superliga",
+    "home_team": "Horsens",
+    "away_team": "Aarhus",
+    "match_date": "2026-09-20",
+    "score": "2-2",
+    "over15": {
+      "pred": 0.779,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.6241,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.3127,
+      "hit": false,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.3304,
+      "is_result": false
+    },
+    "draw": {
+      "pred": 0.265,
+      "is_result": true
+    },
+    "away": {
+      "pred": 0.4046,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.5607,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.5005,
+      "hit": true,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.1864,
+      "hit": true,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.2102,
+      "hit": false,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.1641,
       "hit": true,
       "label": "BTTS+Away"
     }
@@ -3112,6 +4077,193 @@ const RECENT_RESULTS = [
       "pred": 0.089,
       "hit": true,
       "label": "BTTS+Away"
+    }
+  },
+  {
+    "league": "Denmark Superliga",
+    "home_team": "Sonderjyske",
+    "away_team": "Randers FC",
+    "match_date": "2026-09-20",
+    "score": "4-2",
+    "over15": {
+      "pred": 0.8077,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.5211,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.3823,
+      "hit": false,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.3623,
+      "is_result": true
+    },
+    "draw": {
+      "pred": 0.3029,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.3348,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.527,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.4501,
+      "hit": false,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.1735,
+      "hit": false,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.201,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.1525,
+      "hit": true,
+      "label": "BTTS+Away"
+    }
+  },
+  {
+    "league": "Denmark Superliga",
+    "home_team": "Viborg",
+    "away_team": "Nordsjaelland",
+    "match_date": "2026-09-20",
+    "score": "4-1",
+    "over15": {
+      "pred": 0.7802,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.6155,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.3179,
+      "hit": false,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.3092,
+      "is_result": true
+    },
+    "draw": {
+      "pred": 0.2575,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.4333,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.5578,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.4939,
+      "hit": false,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.1836,
+      "hit": false,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.2101,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.1641,
+      "hit": true,
+      "label": "BTTS+Away"
+    }
+  },
+  {
+    "league": "Eredivisie",
+    "home_team": "AZ Alkmaar",
+    "away_team": "Telstar",
+    "match_date": "2026-09-20",
+    "score": "1-0",
+    "over15": {
+      "pred": 0.7774,
+      "hit": false,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.6276,
+      "hit": false,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.3092,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.5379,
+      "is_result": true
+    },
+    "draw": {
+      "pred": 0.2626,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.1995,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.5721,
+      "hit": false,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.4811,
+      "hit": true,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.2746,
+      "hit": true,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.1792,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.1183,
+      "hit": true,
+      "label": "BTTS+Away"
+    },
+    "ht_over15": {
+      "pred": 0.3943,
+      "hit": true,
+      "label": "HT O1.5"
+    },
+    "ht_over05": {
+      "pred": 0.7235,
+      "hit": true,
+      "label": "HT O0.5"
     }
   },
   {
@@ -3318,6 +4470,75 @@ const RECENT_RESULTS = [
   },
   {
     "league": "Eredivisie",
+    "home_team": "Feyenoord",
+    "away_team": "Utrecht",
+    "match_date": "2026-09-20",
+    "score": "5-0",
+    "over15": {
+      "pred": 0.9175,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.7792,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.5222,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.523,
+      "is_result": true
+    },
+    "draw": {
+      "pred": 0.2382,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.2387,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.7726,
+      "hit": false,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.6244,
+      "hit": false,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.3784,
+      "hit": true,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.2149,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.1794,
+      "hit": true,
+      "label": "BTTS+Away"
+    },
+    "ht_over15": {
+      "pred": 0.4827,
+      "hit": false,
+      "label": "HT O1.5"
+    },
+    "ht_over05": {
+      "pred": 0.8531,
+      "hit": true,
+      "label": "HT O0.5"
+    }
+  },
+  {
+    "league": "Eredivisie",
     "home_team": "Groningen",
     "away_team": "Zwolle",
     "match_date": "2026-09-18",
@@ -3387,6 +4608,75 @@ const RECENT_RESULTS = [
   },
   {
     "league": "Eredivisie",
+    "home_team": "Nijmegen",
+    "away_team": "Go Ahead Eagles",
+    "match_date": "2026-09-20",
+    "score": "1-1",
+    "over15": {
+      "pred": 0.8293,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.6599,
+      "hit": false,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.3451,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.405,
+      "is_result": false
+    },
+    "draw": {
+      "pred": 0.2679,
+      "is_result": true
+    },
+    "away": {
+      "pred": 0.327,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.6765,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.5424,
+      "hit": false,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.2585,
+      "hit": true,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.2359,
+      "hit": false,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.1821,
+      "hit": true,
+      "label": "BTTS+Away"
+    },
+    "ht_over15": {
+      "pred": 0.3885,
+      "hit": false,
+      "label": "HT O1.5"
+    },
+    "ht_over05": {
+      "pred": 0.725,
+      "hit": true,
+      "label": "HT O0.5"
+    }
+  },
+  {
+    "league": "Eredivisie",
     "home_team": "Sparta Rotterdam",
     "away_team": "Heerenveen",
     "match_date": "2026-09-19",
@@ -3450,6 +4740,75 @@ const RECENT_RESULTS = [
     },
     "ht_over05": {
       "pred": 0.6538,
+      "hit": true,
+      "label": "HT O0.5"
+    }
+  },
+  {
+    "league": "Eredivisie",
+    "home_team": "Twente",
+    "away_team": "PSV Eindhoven",
+    "match_date": "2026-09-20",
+    "score": "3-2",
+    "over15": {
+      "pred": 0.9634,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.9634,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.7192,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.2936,
+      "is_result": true
+    },
+    "draw": {
+      "pred": 0.1845,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.5219,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.7878,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.7682,
+      "hit": true,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.2007,
+      "hit": false,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.1754,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.4118,
+      "hit": true,
+      "label": "BTTS+Away"
+    },
+    "ht_over15": {
+      "pred": 0.5654,
+      "hit": true,
+      "label": "HT O1.5"
+    },
+    "ht_over05": {
+      "pred": 0.9124,
       "hit": true,
       "label": "HT O0.5"
     }
@@ -4377,6 +5736,75 @@ const RECENT_RESULTS = [
   },
   {
     "league": "Jupiler League",
+    "home_team": "Antwerp",
+    "away_team": "St. Gilloise",
+    "match_date": "2026-09-20",
+    "score": "0-2",
+    "over15": {
+      "pred": 0.8026,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.538,
+      "hit": false,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.4151,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.2747,
+      "is_result": false
+    },
+    "draw": {
+      "pred": 0.2176,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.5077,
+      "is_result": true
+    },
+    "btts": {
+      "pred": 0.5106,
+      "hit": false,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.4424,
+      "hit": true,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.0739,
+      "hit": true,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.2361,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.2006,
+      "hit": true,
+      "label": "BTTS+Away"
+    },
+    "ht_over15": {
+      "pred": 0.3385,
+      "hit": true,
+      "label": "HT O1.5"
+    },
+    "ht_over05": {
+      "pred": 0.7256,
+      "hit": false,
+      "label": "HT O0.5"
+    }
+  },
+  {
+    "league": "Jupiler League",
     "home_team": "Charleroi",
     "away_team": "Cercle Brugge",
     "match_date": "2026-09-19",
@@ -4440,6 +5868,75 @@ const RECENT_RESULTS = [
     },
     "ht_over05": {
       "pred": 0.8128,
+      "hit": true,
+      "label": "HT O0.5"
+    }
+  },
+  {
+    "league": "Jupiler League",
+    "home_team": "Club Brugge",
+    "away_team": "Genk",
+    "match_date": "2026-09-20",
+    "score": "3-0",
+    "over15": {
+      "pred": 0.9173,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.8157,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.5548,
+      "hit": false,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.7008,
+      "is_result": true
+    },
+    "draw": {
+      "pred": 0.2083,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.0909,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.5719,
+      "hit": false,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.5156,
+      "hit": false,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.3311,
+      "hit": true,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.1803,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.0606,
+      "hit": true,
+      "label": "BTTS+Away"
+    },
+    "ht_over15": {
+      "pred": 0.4898,
+      "hit": true,
+      "label": "HT O1.5"
+    },
+    "ht_over05": {
+      "pred": 0.8627,
       "hit": true,
       "label": "HT O0.5"
     }
@@ -4510,6 +6007,75 @@ const RECENT_RESULTS = [
     "ht_over05": {
       "pred": 0.7845,
       "hit": true,
+      "label": "HT O0.5"
+    }
+  },
+  {
+    "league": "Jupiler League",
+    "home_team": "Kortrijk",
+    "away_team": "Beveren",
+    "match_date": "2026-09-20",
+    "score": "1-0",
+    "over15": {
+      "pred": 0.8048,
+      "hit": false,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.4983,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.363,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.2897,
+      "is_result": true
+    },
+    "draw": {
+      "pred": 0.2624,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.448,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.5161,
+      "hit": false,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.3984,
+      "hit": true,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.1538,
+      "hit": true,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.2034,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.159,
+      "hit": true,
+      "label": "BTTS+Away"
+    },
+    "ht_over15": {
+      "pred": 0.339,
+      "hit": true,
+      "label": "HT O1.5"
+    },
+    "ht_over05": {
+      "pred": 0.7244,
+      "hit": false,
       "label": "HT O0.5"
     }
   },
@@ -4647,6 +6213,75 @@ const RECENT_RESULTS = [
     },
     "ht_over05": {
       "pred": 0.6246,
+      "hit": true,
+      "label": "HT O0.5"
+    }
+  },
+  {
+    "league": "Jupiler League",
+    "home_team": "St Truiden",
+    "away_team": "Westerlo",
+    "match_date": "2026-09-20",
+    "score": "0-2",
+    "over15": {
+      "pred": 0.8048,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.6553,
+      "hit": false,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.3319,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.5199,
+      "is_result": false
+    },
+    "draw": {
+      "pred": 0.2458,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.2343,
+      "is_result": true
+    },
+    "btts": {
+      "pred": 0.5788,
+      "hit": false,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.5202,
+      "hit": false,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.2724,
+      "hit": true,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.1667,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.1398,
+      "hit": true,
+      "label": "BTTS+Away"
+    },
+    "ht_over15": {
+      "pred": 0.4284,
+      "hit": true,
+      "label": "HT O1.5"
+    },
+    "ht_over05": {
+      "pred": 0.7137,
       "hit": true,
       "label": "HT O0.5"
     }
@@ -4856,6 +6491,75 @@ const RECENT_RESULTS = [
       "pred": 0.6092,
       "hit": true,
       "label": "Goal Each Half"
+    }
+  },
+  {
+    "league": "La Liga",
+    "home_team": "Ath Madrid",
+    "away_team": "Real Madrid",
+    "match_date": "2026-09-20",
+    "score": "2-1",
+    "over15": {
+      "pred": 0.8825,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.7298,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.4775,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.4242,
+      "is_result": true
+    },
+    "draw": {
+      "pred": 0.2309,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.3448,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.7742,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.6352,
+      "hit": true,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.3359,
+      "hit": false,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.2394,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.1988,
+      "hit": true,
+      "label": "BTTS+Away"
+    },
+    "ht_over15": {
+      "pred": 0.3966,
+      "hit": true,
+      "label": "HT O1.5"
+    },
+    "ht_over05": {
+      "pred": 0.7266,
+      "hit": false,
+      "label": "HT O0.5"
     }
   },
   {
@@ -5204,6 +6908,144 @@ const RECENT_RESULTS = [
     },
     "ht_over05": {
       "pred": 0.713,
+      "hit": true,
+      "label": "HT O0.5"
+    }
+  },
+  {
+    "league": "La Liga",
+    "home_team": "Getafe",
+    "away_team": "Malaga",
+    "match_date": "2026-09-20",
+    "score": "1-0",
+    "over15": {
+      "pred": 0.3885,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.3285,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.0572,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.4384,
+      "is_result": true
+    },
+    "draw": {
+      "pred": 0.3504,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.2112,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.2277,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.1251,
+      "hit": true,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.0883,
+      "hit": true,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.1198,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.0195,
+      "hit": true,
+      "label": "BTTS+Away"
+    },
+    "ht_over15": {
+      "pred": 0.3405,
+      "hit": true,
+      "label": "HT O1.5"
+    },
+    "ht_over05": {
+      "pred": 0.7157,
+      "hit": false,
+      "label": "HT O0.5"
+    }
+  },
+  {
+    "league": "La Liga",
+    "home_team": "La Coruna",
+    "away_team": "Betis",
+    "match_date": "2026-09-20",
+    "score": "1-1",
+    "over15": {
+      "pred": 0.8051,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.5383,
+      "hit": false,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.4043,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.3934,
+      "is_result": false
+    },
+    "draw": {
+      "pred": 0.2886,
+      "is_result": true
+    },
+    "away": {
+      "pred": 0.3179,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.5474,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.4494,
+      "hit": true,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.1877,
+      "hit": true,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.1983,
+      "hit": false,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.1614,
+      "hit": true,
+      "label": "BTTS+Away"
+    },
+    "ht_over15": {
+      "pred": 0.4248,
+      "hit": true,
+      "label": "HT O1.5"
+    },
+    "ht_over05": {
+      "pred": 0.7193,
       "hit": true,
       "label": "HT O0.5"
     }
@@ -5623,6 +7465,75 @@ const RECENT_RESULTS = [
     }
   },
   {
+    "league": "La Liga",
+    "home_team": "Villarreal",
+    "away_team": "Levante",
+    "match_date": "2026-09-20",
+    "score": "3-1",
+    "over15": {
+      "pred": 0.8334,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.6735,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.3837,
+      "hit": false,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.568,
+      "is_result": true
+    },
+    "draw": {
+      "pred": 0.2213,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.2107,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.5892,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.5323,
+      "hit": true,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.2923,
+      "hit": false,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.172,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.1249,
+      "hit": true,
+      "label": "BTTS+Away"
+    },
+    "ht_over15": {
+      "pred": 0.4726,
+      "hit": false,
+      "label": "HT O1.5"
+    },
+    "ht_over05": {
+      "pred": 0.6985,
+      "hit": true,
+      "label": "HT O0.5"
+    }
+  },
+  {
     "league": "La Liga 2",
     "home_team": "Albacete",
     "away_team": "Cordoba",
@@ -5687,6 +7598,75 @@ const RECENT_RESULTS = [
     },
     "ht_over05": {
       "pred": 0.7042,
+      "hit": true,
+      "label": "HT O0.5"
+    }
+  },
+  {
+    "league": "La Liga 2",
+    "home_team": "Almeria",
+    "away_team": "Celta B",
+    "match_date": "2026-09-20",
+    "score": "2-0",
+    "over15": {
+      "pred": 0.9337,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.9337,
+      "hit": false,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.6362,
+      "hit": false,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.6196,
+      "is_result": true
+    },
+    "draw": {
+      "pred": 0.1927,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.1877,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.7815,
+      "hit": false,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.7299,
+      "hit": false,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.4032,
+      "hit": true,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.2025,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.1757,
+      "hit": true,
+      "label": "BTTS+Away"
+    },
+    "ht_over15": {
+      "pred": 0.4931,
+      "hit": false,
+      "label": "HT O1.5"
+    },
+    "ht_over05": {
+      "pred": 0.8563,
       "hit": true,
       "label": "HT O0.5"
     }
@@ -5964,6 +7944,75 @@ const RECENT_RESULTS = [
   },
   {
     "league": "La Liga 2",
+    "home_team": "Ceuta",
+    "away_team": "Valladolid",
+    "match_date": "2026-09-20",
+    "score": "1-1",
+    "over15": {
+      "pred": 0.8047,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.5382,
+      "hit": false,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.4079,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.4798,
+      "is_result": false
+    },
+    "draw": {
+      "pred": 0.287,
+      "is_result": true
+    },
+    "away": {
+      "pred": 0.2332,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.5267,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.4508,
+      "hit": true,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.2026,
+      "hit": true,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.2118,
+      "hit": false,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.1123,
+      "hit": true,
+      "label": "BTTS+Away"
+    },
+    "ht_over15": {
+      "pred": 0.3524,
+      "hit": true,
+      "label": "HT O1.5"
+    },
+    "ht_over05": {
+      "pred": 0.7384,
+      "hit": false,
+      "label": "HT O0.5"
+    }
+  },
+  {
+    "league": "La Liga 2",
     "home_team": "Eldense",
     "away_team": "Eibar",
     "match_date": "2026-09-19",
@@ -6027,6 +8076,144 @@ const RECENT_RESULTS = [
     },
     "ht_over05": {
       "pred": 0.561,
+      "hit": true,
+      "label": "HT O0.5"
+    }
+  },
+  {
+    "league": "La Liga 2",
+    "home_team": "Las Palmas",
+    "away_team": "Burgos",
+    "match_date": "2026-09-20",
+    "score": "1-2",
+    "over15": {
+      "pred": 0.727,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.3572,
+      "hit": false,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.3132,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.3627,
+      "is_result": false
+    },
+    "draw": {
+      "pred": 0.3134,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.3239,
+      "is_result": true
+    },
+    "btts": {
+      "pred": 0.5347,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.3056,
+      "hit": false,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.1766,
+      "hit": true,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.257,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.1011,
+      "hit": false,
+      "label": "BTTS+Away"
+    },
+    "ht_over15": {
+      "pred": 0.3364,
+      "hit": true,
+      "label": "HT O1.5"
+    },
+    "ht_over05": {
+      "pred": 0.7226,
+      "hit": true,
+      "label": "HT O0.5"
+    }
+  },
+  {
+    "league": "La Liga 2",
+    "home_team": "Sabadell",
+    "away_team": "Oviedo",
+    "match_date": "2026-09-20",
+    "score": "3-1",
+    "over15": {
+      "pred": 0.7639,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.4397,
+      "hit": false,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.3358,
+      "hit": false,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.4744,
+      "is_result": true
+    },
+    "draw": {
+      "pred": 0.304,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.2216,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.5296,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.345,
+      "hit": false,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.189,
+      "hit": false,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.2673,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.0734,
+      "hit": true,
+      "label": "BTTS+Away"
+    },
+    "ht_over15": {
+      "pred": 0.3348,
+      "hit": false,
+      "label": "HT O1.5"
+    },
+    "ht_over05": {
+      "pred": 0.726,
       "hit": true,
       "label": "HT O0.5"
     }
@@ -8499,6 +10686,144 @@ const RECENT_RESULTS = [
   },
   {
     "league": "Liga I",
+    "home_team": "Estoril",
+    "away_team": "Casa Pia",
+    "match_date": "2026-09-20",
+    "score": "1-2",
+    "over15": {
+      "pred": 0.8094,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.5219,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.3829,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.5179,
+      "is_result": false
+    },
+    "draw": {
+      "pred": 0.2857,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.1965,
+      "is_result": true
+    },
+    "btts": {
+      "pred": 0.5156,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.4171,
+      "hit": false,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.1931,
+      "hit": true,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.254,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.0685,
+      "hit": false,
+      "label": "BTTS+Away"
+    },
+    "ht_over15": {
+      "pred": 0.3994,
+      "hit": true,
+      "label": "HT O1.5"
+    },
+    "ht_over05": {
+      "pred": 0.7358,
+      "hit": false,
+      "label": "HT O0.5"
+    }
+  },
+  {
+    "league": "Liga I",
+    "home_team": "Estrela",
+    "away_team": "Academico Viseu",
+    "match_date": "2026-09-20",
+    "score": "0-2",
+    "over15": {
+      "pred": 0.8015,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.5377,
+      "hit": false,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.4011,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.3655,
+      "is_result": false
+    },
+    "draw": {
+      "pred": 0.2783,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.3562,
+      "is_result": true
+    },
+    "btts": {
+      "pred": 0.583,
+      "hit": false,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.4444,
+      "hit": true,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.1982,
+      "hit": true,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.2097,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.175,
+      "hit": true,
+      "label": "BTTS+Away"
+    },
+    "ht_over15": {
+      "pred": 0.3364,
+      "hit": false,
+      "label": "HT O1.5"
+    },
+    "ht_over05": {
+      "pred": 0.7133,
+      "hit": true,
+      "label": "HT O0.5"
+    }
+  },
+  {
+    "league": "Liga I",
     "home_team": "Gil Vicente",
     "away_team": "Maritimo",
     "match_date": "2026-09-19",
@@ -8563,6 +10888,75 @@ const RECENT_RESULTS = [
     "ht_over05": {
       "pred": 0.8027,
       "hit": true,
+      "label": "HT O0.5"
+    }
+  },
+  {
+    "league": "Liga I",
+    "home_team": "Guimaraes",
+    "away_team": "Moreirense",
+    "match_date": "2026-09-20",
+    "score": "1-1",
+    "over15": {
+      "pred": 0.8006,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.5001,
+      "hit": false,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.3644,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.4619,
+      "is_result": false
+    },
+    "draw": {
+      "pred": 0.2959,
+      "is_result": true
+    },
+    "away": {
+      "pred": 0.2423,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.516,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.4063,
+      "hit": true,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.1906,
+      "hit": true,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.2311,
+      "hit": false,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.0942,
+      "hit": true,
+      "label": "BTTS+Away"
+    },
+    "ht_over15": {
+      "pred": 0.3696,
+      "hit": true,
+      "label": "HT O1.5"
+    },
+    "ht_over05": {
+      "pred": 0.7352,
+      "hit": false,
       "label": "HT O0.5"
     }
   },
@@ -8765,6 +11159,75 @@ const RECENT_RESULTS = [
   },
   {
     "league": "Liga I",
+    "home_team": "Santa Clara",
+    "away_team": "Sp Braga",
+    "match_date": "2026-09-20",
+    "score": "0-0",
+    "over15": {
+      "pred": 0.7771,
+      "hit": false,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.6423,
+      "hit": false,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.296,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.3748,
+      "is_result": false
+    },
+    "draw": {
+      "pred": 0.2425,
+      "is_result": true
+    },
+    "away": {
+      "pred": 0.3826,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.5901,
+      "hit": false,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.5219,
+      "hit": false,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.206,
+      "hit": true,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.2091,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.175,
+      "hit": true,
+      "label": "BTTS+Away"
+    },
+    "ht_over15": {
+      "pred": 0.418,
+      "hit": true,
+      "label": "HT O1.5"
+    },
+    "ht_over05": {
+      "pred": 0.7311,
+      "hit": false,
+      "label": "HT O0.5"
+    }
+  },
+  {
+    "league": "Liga I",
     "home_team": "Sp Braga",
     "away_team": "Estoril",
     "match_date": "2026-09-14",
@@ -8892,6 +11355,75 @@ const RECENT_RESULTS = [
     },
     "ht_over05": {
       "pred": 0.8518,
+      "hit": true,
+      "label": "HT O0.5"
+    }
+  },
+  {
+    "league": "Ligi 1",
+    "home_team": "Amedspor",
+    "away_team": "Besiktas",
+    "match_date": "2026-09-20",
+    "score": "3-2",
+    "over15": {
+      "pred": 0.9545,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.9545,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.6922,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.6256,
+      "is_result": true
+    },
+    "draw": {
+      "pred": 0.192,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.1824,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.8022,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.8022,
+      "hit": true,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.4474,
+      "hit": false,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.1855,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.1693,
+      "hit": true,
+      "label": "BTTS+Away"
+    },
+    "ht_over15": {
+      "pred": 0.4305,
+      "hit": false,
+      "label": "HT O1.5"
+    },
+    "ht_over05": {
+      "pred": 0.7129,
       "hit": true,
       "label": "HT O0.5"
     }
@@ -9031,6 +11563,213 @@ const RECENT_RESULTS = [
     "ht_over05": {
       "pred": 0.8871,
       "hit": false,
+      "label": "HT O0.5"
+    }
+  },
+  {
+    "league": "Ligi 1",
+    "home_team": "Erzurumspor",
+    "away_team": "Samsunspor",
+    "match_date": "2026-09-20",
+    "score": "1-0",
+    "over15": {
+      "pred": 0.7471,
+      "hit": false,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.3844,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.3202,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.2867,
+      "is_result": true
+    },
+    "draw": {
+      "pred": 0.2607,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.4525,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.5204,
+      "hit": false,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.2844,
+      "hit": true,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.0579,
+      "hit": true,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.2831,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.1794,
+      "hit": true,
+      "label": "BTTS+Away"
+    },
+    "ht_over15": {
+      "pred": 0.3433,
+      "hit": true,
+      "label": "HT O1.5"
+    },
+    "ht_over05": {
+      "pred": 0.7128,
+      "hit": true,
+      "label": "HT O0.5"
+    }
+  },
+  {
+    "league": "Ligi 1",
+    "home_team": "Fenerbahce",
+    "away_team": "Eyupspor",
+    "match_date": "2026-09-20",
+    "score": "8-0",
+    "over15": {
+      "pred": 0.7842,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.5963,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.3296,
+      "hit": false,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.7408,
+      "is_result": true
+    },
+    "draw": {
+      "pred": 0.1875,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.0717,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.5107,
+      "hit": false,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.4511,
+      "hit": true,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.29,
+      "hit": true,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.1792,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.0415,
+      "hit": true,
+      "label": "BTTS+Away"
+    },
+    "ht_over15": {
+      "pred": 0.3588,
+      "hit": false,
+      "label": "HT O1.5"
+    },
+    "ht_over05": {
+      "pred": 0.7327,
+      "hit": true,
+      "label": "HT O0.5"
+    }
+  },
+  {
+    "league": "Ligi 1",
+    "home_team": "Goztep",
+    "away_team": "Rizespor",
+    "match_date": "2026-09-20",
+    "score": "2-2",
+    "over15": {
+      "pred": 0.8554,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.6786,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.3991,
+      "hit": false,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.5406,
+      "is_result": false
+    },
+    "draw": {
+      "pred": 0.238,
+      "is_result": true
+    },
+    "away": {
+      "pred": 0.2214,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.6441,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.5447,
+      "hit": true,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.3188,
+      "hit": true,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.1761,
+      "hit": false,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.1491,
+      "hit": true,
+      "label": "BTTS+Away"
+    },
+    "ht_over15": {
+      "pred": 0.3942,
+      "hit": true,
+      "label": "HT O1.5"
+    },
+    "ht_over05": {
+      "pred": 0.7227,
+      "hit": true,
       "label": "HT O0.5"
     }
   },
@@ -9243,6 +11982,75 @@ const RECENT_RESULTS = [
   },
   {
     "league": "Ligue 1",
+    "home_team": "Auxerre",
+    "away_team": "Brest",
+    "match_date": "2026-09-20",
+    "score": "2-1",
+    "over15": {
+      "pred": 0.7786,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.6289,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.3077,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.4069,
+      "is_result": true
+    },
+    "draw": {
+      "pred": 0.2687,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.3244,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.5647,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.5045,
+      "hit": true,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.2017,
+      "hit": false,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.2034,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.1597,
+      "hit": true,
+      "label": "BTTS+Away"
+    },
+    "ht_over15": {
+      "pred": 0.4595,
+      "hit": true,
+      "label": "HT O1.5"
+    },
+    "ht_over05": {
+      "pred": 0.7017,
+      "hit": true,
+      "label": "HT O0.5"
+    }
+  },
+  {
+    "league": "Ligue 1",
     "home_team": "Le Mans",
     "away_team": "Lorient",
     "match_date": "2026-09-19",
@@ -9444,6 +12252,75 @@ const RECENT_RESULTS = [
     },
     "ht_over05": {
       "pred": 0.7894,
+      "hit": true,
+      "label": "HT O0.5"
+    }
+  },
+  {
+    "league": "Ligue 1",
+    "home_team": "Nice",
+    "away_team": "Lille",
+    "match_date": "2026-09-20",
+    "score": "2-1",
+    "over15": {
+      "pred": 0.8112,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.5038,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.3676,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.2878,
+      "is_result": true
+    },
+    "draw": {
+      "pred": 0.259,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.4532,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.5153,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.4016,
+      "hit": false,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.1527,
+      "hit": false,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.2029,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.1597,
+      "hit": true,
+      "label": "BTTS+Away"
+    },
+    "ht_over15": {
+      "pred": 0.3408,
+      "hit": true,
+      "label": "HT O1.5"
+    },
+    "ht_over05": {
+      "pred": 0.7396,
       "hit": true,
       "label": "HT O0.5"
     }
@@ -12974,6 +15851,65 @@ const RECENT_RESULTS = [
   },
   {
     "league": "Norway Eliteserien",
+    "home_team": "Sandefjord",
+    "away_team": "Start",
+    "match_date": "2026-09-20",
+    "score": "3-0",
+    "over15": {
+      "pred": 0.8003,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.5376,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.3972,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.516,
+      "is_result": true
+    },
+    "draw": {
+      "pred": 0.2751,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.2089,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.5496,
+      "hit": false,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.4475,
+      "hit": true,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.2178,
+      "hit": true,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.2252,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.1066,
+      "hit": true,
+      "label": "BTTS+Away"
+    }
+  },
+  {
+    "league": "Norway Eliteserien",
     "home_team": "Sarpsborg 08",
     "away_team": "KFUM Oslo",
     "match_date": "2026-09-18",
@@ -13028,6 +15964,183 @@ const RECENT_RESULTS = [
     "btts_away": {
       "pred": 0.1149,
       "hit": false,
+      "label": "BTTS+Away"
+    }
+  },
+  {
+    "league": "Norway Eliteserien",
+    "home_team": "Tromso",
+    "away_team": "HamKam",
+    "match_date": "2026-09-20",
+    "score": "3-2",
+    "over15": {
+      "pred": 0.7911,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.6511,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.3201,
+      "hit": false,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.6016,
+      "is_result": true
+    },
+    "draw": {
+      "pred": 0.2184,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.18,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.574,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.4928,
+      "hit": false,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.3026,
+      "hit": false,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.1763,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.0952,
+      "hit": true,
+      "label": "BTTS+Away"
+    }
+  },
+  {
+    "league": "Norway Eliteserien",
+    "home_team": "Valerenga",
+    "away_team": "Fredrikstad",
+    "match_date": "2026-09-20",
+    "score": "1-1",
+    "over15": {
+      "pred": 0.787,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.5857,
+      "hit": false,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.3359,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.4496,
+      "is_result": false
+    },
+    "draw": {
+      "pred": 0.2664,
+      "is_result": true
+    },
+    "away": {
+      "pred": 0.284,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.5754,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.4762,
+      "hit": true,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.2149,
+      "hit": true,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.1992,
+      "hit": false,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.1614,
+      "hit": true,
+      "label": "BTTS+Away"
+    }
+  },
+  {
+    "league": "Norway Eliteserien",
+    "home_team": "Viking",
+    "away_team": "Lillestrom",
+    "match_date": "2026-09-20",
+    "score": "3-0",
+    "over15": {
+      "pred": 0.8771,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.7101,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.4602,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.6954,
+      "is_result": true
+    },
+    "draw": {
+      "pred": 0.1866,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.118,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.5683,
+      "hit": false,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.5137,
+      "hit": false,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.3322,
+      "hit": true,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.163,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.0731,
+      "hit": true,
       "label": "BTTS+Away"
     }
   },
@@ -13087,6 +16200,65 @@ const RECENT_RESULTS = [
     "btts_away": {
       "pred": 0.0935,
       "hit": true,
+      "label": "BTTS+Away"
+    }
+  },
+  {
+    "league": "Poland Ekstraklasa",
+    "home_team": "Jagiellonia",
+    "away_team": "Legia",
+    "match_date": "2026-09-20",
+    "score": "1-3",
+    "over15": {
+      "pred": 0.778,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.6241,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.3127,
+      "hit": false,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.4411,
+      "is_result": false
+    },
+    "draw": {
+      "pred": 0.2823,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.2766,
+      "is_result": true
+    },
+    "btts": {
+      "pred": 0.5544,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.4967,
+      "hit": false,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.2125,
+      "hit": true,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.1944,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.1475,
+      "hit": false,
       "label": "BTTS+Away"
     }
   },
@@ -13204,6 +16376,65 @@ const RECENT_RESULTS = [
     },
     "btts_away": {
       "pred": 0.1785,
+      "hit": true,
+      "label": "BTTS+Away"
+    }
+  },
+  {
+    "league": "Poland Ekstraklasa",
+    "home_team": "Lech Poznan",
+    "away_team": "Radomiak Radom",
+    "match_date": "2026-09-20",
+    "score": "5-1",
+    "over15": {
+      "pred": 0.8706,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.6831,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.4126,
+      "hit": false,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.6062,
+      "is_result": true
+    },
+    "draw": {
+      "pred": 0.2224,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.1714,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.585,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.5285,
+      "hit": true,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.3034,
+      "hit": false,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.1785,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.1031,
       "hit": true,
       "label": "BTTS+Away"
     }
@@ -13441,6 +16672,75 @@ const RECENT_RESULTS = [
       "pred": 0.3047,
       "hit": true,
       "label": "HT O1.5"
+    }
+  },
+  {
+    "league": "Premier League",
+    "home_team": "Bournemouth",
+    "away_team": "Liverpool",
+    "match_date": "2026-09-20",
+    "score": "0-1",
+    "over15": {
+      "pred": 0.8066,
+      "hit": false,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.6478,
+      "hit": false,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.3115,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.3944,
+      "is_result": false
+    },
+    "draw": {
+      "pred": 0.2738,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.3318,
+      "is_result": true
+    },
+    "btts": {
+      "pred": 0.6421,
+      "hit": false,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.528,
+      "hit": false,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.2327,
+      "hit": true,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.2319,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.1774,
+      "hit": true,
+      "label": "BTTS+Away"
+    },
+    "ht_over15": {
+      "pred": 0.333,
+      "hit": true,
+      "label": "HT O1.5"
+    },
+    "ht_over05": {
+      "pred": 0.7386,
+      "hit": false,
+      "label": "HT O0.5"
     }
   },
   {
@@ -13739,6 +17039,75 @@ const RECENT_RESULTS = [
   },
   {
     "league": "Premier League",
+    "home_team": "Fulham",
+    "away_team": "Man United",
+    "match_date": "2026-09-20",
+    "score": "1-1",
+    "over15": {
+      "pred": 0.7785,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.6201,
+      "hit": false,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.3151,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.4114,
+      "is_result": false
+    },
+    "draw": {
+      "pred": 0.2832,
+      "is_result": true
+    },
+    "away": {
+      "pred": 0.3054,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.5596,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.4974,
+      "hit": true,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.199,
+      "hit": true,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.2056,
+      "hit": false,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.155,
+      "hit": true,
+      "label": "BTTS+Away"
+    },
+    "ht_over15": {
+      "pred": 0.3408,
+      "hit": true,
+      "label": "HT O1.5"
+    },
+    "ht_over05": {
+      "pred": 0.7226,
+      "hit": false,
+      "label": "HT O0.5"
+    }
+  },
+  {
+    "league": "Premier League",
     "home_team": "Leeds",
     "away_team": "Brentford",
     "match_date": NaN,
@@ -13764,6 +17133,75 @@ const RECENT_RESULTS = [
       "pred": 0.3397,
       "hit": true,
       "label": "HT O1.5"
+    }
+  },
+  {
+    "league": "Premier League",
+    "home_team": "Leeds",
+    "away_team": "Crystal Palace",
+    "match_date": "2026-09-20",
+    "score": "0-0",
+    "over15": {
+      "pred": 0.7943,
+      "hit": false,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.5372,
+      "hit": false,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.3758,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.4356,
+      "is_result": false
+    },
+    "draw": {
+      "pred": 0.2935,
+      "is_result": true
+    },
+    "away": {
+      "pred": 0.2709,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.5919,
+      "hit": false,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.4423,
+      "hit": true,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.204,
+      "hit": true,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.2217,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.1662,
+      "hit": true,
+      "label": "BTTS+Away"
+    },
+    "ht_over15": {
+      "pred": 0.3505,
+      "hit": true,
+      "label": "HT O1.5"
+    },
+    "ht_over05": {
+      "pred": 0.6949,
+      "hit": false,
+      "label": "HT O0.5"
     }
   },
   {
@@ -13857,6 +17295,75 @@ const RECENT_RESULTS = [
       "pred": 0.3576,
       "hit": true,
       "label": "HT O1.5"
+    }
+  },
+  {
+    "league": "Premier League",
+    "home_team": "Man City",
+    "away_team": "Sunderland",
+    "match_date": "2026-09-20",
+    "score": "5-3",
+    "over15": {
+      "pred": 0.7811,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.6063,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.3235,
+      "hit": false,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.6148,
+      "is_result": true
+    },
+    "draw": {
+      "pred": 0.2423,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.1429,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.6004,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.4454,
+      "hit": false,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.3018,
+      "hit": false,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.2233,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.0752,
+      "hit": true,
+      "label": "BTTS+Away"
+    },
+    "ht_over15": {
+      "pred": 0.342,
+      "hit": false,
+      "label": "HT O1.5"
+    },
+    "ht_over05": {
+      "pred": 0.7366,
+      "hit": true,
+      "label": "HT O0.5"
     }
   },
   {
@@ -15164,6 +18671,75 @@ const RECENT_RESULTS = [
   },
   {
     "league": "Scottish Premiership",
+    "home_team": "Celtic",
+    "away_team": "Rangers",
+    "match_date": "2026-09-20",
+    "score": "0-1",
+    "over15": {
+      "pred": 0.9375,
+      "hit": false,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.9375,
+      "hit": false,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.646,
+      "hit": false,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.547,
+      "is_result": false
+    },
+    "draw": {
+      "pred": 0.2064,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.2466,
+      "is_result": true
+    },
+    "btts": {
+      "pred": 0.8019,
+      "hit": false,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.8019,
+      "hit": false,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.3978,
+      "hit": true,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.2155,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.1886,
+      "hit": true,
+      "label": "BTTS+Away"
+    },
+    "ht_over15": {
+      "pred": 0.5285,
+      "hit": false,
+      "label": "HT O1.5"
+    },
+    "ht_over05": {
+      "pred": 0.9214,
+      "hit": true,
+      "label": "HT O0.5"
+    }
+  },
+  {
+    "league": "Scottish Premiership",
     "home_team": "Dundee",
     "away_team": "Hibernian",
     "match_date": NaN,
@@ -15817,6 +19393,144 @@ const RECENT_RESULTS = [
   },
   {
     "league": "Serie A",
+    "home_team": "Fiorentina",
+    "away_team": "Napoli",
+    "match_date": "2026-09-20",
+    "score": "1-1",
+    "over15": {
+      "pred": 0.7971,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.5371,
+      "hit": false,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.3705,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.2862,
+      "is_result": false
+    },
+    "draw": {
+      "pred": 0.226,
+      "is_result": true
+    },
+    "away": {
+      "pred": 0.4878,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.5832,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.4428,
+      "hit": true,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.1791,
+      "hit": true,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.2244,
+      "hit": false,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.1797,
+      "hit": true,
+      "label": "BTTS+Away"
+    },
+    "ht_over15": {
+      "pred": 0.3573,
+      "hit": true,
+      "label": "HT O1.5"
+    },
+    "ht_over05": {
+      "pred": 0.7333,
+      "hit": true,
+      "label": "HT O0.5"
+    }
+  },
+  {
+    "league": "Serie A",
+    "home_team": "Frosinone",
+    "away_team": "Como",
+    "match_date": "2026-09-20",
+    "score": "2-0",
+    "over15": {
+      "pred": 0.7995,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.5375,
+      "hit": false,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.3889,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.2979,
+      "is_result": true
+    },
+    "draw": {
+      "pred": 0.2551,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.4471,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.5891,
+      "hit": false,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.4432,
+      "hit": true,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.1918,
+      "hit": true,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.2117,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.1856,
+      "hit": true,
+      "label": "BTTS+Away"
+    },
+    "ht_over15": {
+      "pred": 0.4008,
+      "hit": false,
+      "label": "HT O1.5"
+    },
+    "ht_over05": {
+      "pred": 0.7214,
+      "hit": true,
+      "label": "HT O0.5"
+    }
+  },
+  {
+    "league": "Serie A",
     "home_team": "Inter",
     "away_team": "Udinese",
     "match_date": "2026-09-14",
@@ -15877,6 +19591,75 @@ const RECENT_RESULTS = [
       "pred": 0.3648,
       "hit": false,
       "label": "HT O1.5"
+    }
+  },
+  {
+    "league": "Serie A",
+    "home_team": "Juventus",
+    "away_team": "Atalanta",
+    "match_date": "2026-09-20",
+    "score": "2-0",
+    "over15": {
+      "pred": 0.7933,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.5517,
+      "hit": false,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.3562,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.2946,
+      "is_result": true
+    },
+    "draw": {
+      "pred": 0.2429,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.4625,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.5925,
+      "hit": false,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.4558,
+      "hit": true,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.1943,
+      "hit": true,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.2129,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.1853,
+      "hit": true,
+      "label": "BTTS+Away"
+    },
+    "ht_over15": {
+      "pred": 0.3452,
+      "hit": true,
+      "label": "HT O1.5"
+    },
+    "ht_over05": {
+      "pred": 0.7074,
+      "hit": true,
+      "label": "HT O0.5"
     }
   },
   {
@@ -15944,6 +19727,75 @@ const RECENT_RESULTS = [
     },
     "ht_over05": {
       "pred": 0.8193,
+      "hit": false,
+      "label": "HT O0.5"
+    }
+  },
+  {
+    "league": "Serie A",
+    "home_team": "Parma",
+    "away_team": "Genoa",
+    "match_date": "2026-09-20",
+    "score": "2-1",
+    "over15": {
+      "pred": 0.6391,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.3026,
+      "hit": false,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.2961,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.3506,
+      "is_result": true
+    },
+    "draw": {
+      "pred": 0.319,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.3303,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.4329,
+      "hit": false,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.2518,
+      "hit": false,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.1362,
+      "hit": false,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.2278,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.069,
+      "hit": true,
+      "label": "BTTS+Away"
+    },
+    "ht_over15": {
+      "pred": 0.3682,
+      "hit": true,
+      "label": "HT O1.5"
+    },
+    "ht_over05": {
+      "pred": 0.4555,
       "hit": false,
       "label": "HT O0.5"
     }
@@ -16221,6 +20073,75 @@ const RECENT_RESULTS = [
   },
   {
     "league": "Serie B",
+    "home_team": "Arezzo",
+    "away_team": "Sudtirol",
+    "match_date": "2026-09-20",
+    "score": "1-4",
+    "over15": {
+      "pred": 0.8044,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.5384,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.4007,
+      "hit": false,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.4563,
+      "is_result": false
+    },
+    "draw": {
+      "pred": 0.2994,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.2443,
+      "is_result": true
+    },
+    "btts": {
+      "pred": 0.5384,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.4515,
+      "hit": false,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.2028,
+      "hit": true,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.2113,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.1243,
+      "hit": false,
+      "label": "BTTS+Away"
+    },
+    "ht_over15": {
+      "pred": 0.0433,
+      "hit": true,
+      "label": "HT O1.5"
+    },
+    "ht_over05": {
+      "pred": 0.277,
+      "hit": false,
+      "label": "HT O0.5"
+    }
+  },
+  {
+    "league": "Serie B",
     "home_team": "Ascoli",
     "away_team": "Avellino",
     "match_date": "2026-09-19",
@@ -16491,6 +20412,144 @@ const RECENT_RESULTS = [
     },
     "ht_over05": {
       "pred": 0.624,
+      "hit": true,
+      "label": "HT O0.5"
+    }
+  },
+  {
+    "league": "Serie B",
+    "home_team": "Mantova",
+    "away_team": "Pisa",
+    "match_date": "2026-09-20",
+    "score": "2-2",
+    "over15": {
+      "pred": 0.899,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.7393,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.4863,
+      "hit": false,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.3331,
+      "is_result": false
+    },
+    "draw": {
+      "pred": 0.2324,
+      "is_result": true
+    },
+    "away": {
+      "pred": 0.4345,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.7968,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.6468,
+      "hit": true,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.2875,
+      "hit": true,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.2897,
+      "hit": false,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.2196,
+      "hit": true,
+      "label": "BTTS+Away"
+    },
+    "ht_over15": {
+      "pred": 0.5157,
+      "hit": true,
+      "label": "HT O1.5"
+    },
+    "ht_over05": {
+      "pred": 0.8736,
+      "hit": true,
+      "label": "HT O0.5"
+    }
+  },
+  {
+    "league": "Serie B",
+    "home_team": "Modena",
+    "away_team": "Empoli",
+    "match_date": "2026-09-20",
+    "score": "2-1",
+    "over15": {
+      "pred": 0.7852,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.5848,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.3363,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.5325,
+      "is_result": true
+    },
+    "draw": {
+      "pred": 0.2657,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.2019,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.5899,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.4583,
+      "hit": false,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.2736,
+      "hit": false,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.1946,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.1216,
+      "hit": true,
+      "label": "BTTS+Away"
+    },
+    "ht_over15": {
+      "pred": 0.3355,
+      "hit": true,
+      "label": "HT O1.5"
+    },
+    "ht_over05": {
+      "pred": 0.7263,
       "hit": true,
       "label": "HT O0.5"
     }
@@ -16921,6 +20980,65 @@ const RECENT_RESULTS = [
   },
   {
     "league": "Switzerland Super League",
+    "home_team": "Basel",
+    "away_team": "St. Gallen",
+    "match_date": "2026-09-20",
+    "score": "1-3",
+    "over15": {
+      "pred": 0.7823,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.6146,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.3186,
+      "hit": false,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.3287,
+      "is_result": false
+    },
+    "draw": {
+      "pred": 0.2516,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.4197,
+      "is_result": true
+    },
+    "btts": {
+      "pred": 0.5604,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.4951,
+      "hit": false,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.1882,
+      "hit": true,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.2051,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.1671,
+      "hit": false,
+      "label": "BTTS+Away"
+    }
+  },
+  {
+    "league": "Switzerland Super League",
     "home_team": "Grasshoppers",
     "away_team": "Sion",
     "match_date": "2026-09-15",
@@ -16975,6 +21093,65 @@ const RECENT_RESULTS = [
     "btts_away": {
       "pred": 0.2033,
       "hit": false,
+      "label": "BTTS+Away"
+    }
+  },
+  {
+    "league": "Switzerland Super League",
+    "home_team": "Lausanne",
+    "away_team": "Lugano",
+    "match_date": "2026-09-20",
+    "score": "0-4",
+    "over15": {
+      "pred": 0.7993,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.5375,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.3907,
+      "hit": false,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.286,
+      "is_result": false
+    },
+    "draw": {
+      "pred": 0.2414,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.4727,
+      "is_result": true
+    },
+    "btts": {
+      "pred": 0.5656,
+      "hit": false,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.4459,
+      "hit": true,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.1762,
+      "hit": true,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.209,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.1804,
+      "hit": true,
       "label": "BTTS+Away"
     }
   },
@@ -17210,6 +21387,65 @@ const RECENT_RESULTS = [
     },
     "btts_away": {
       "pred": 0.1513,
+      "hit": false,
+      "label": "BTTS+Away"
+    }
+  },
+  {
+    "league": "Switzerland Super League",
+    "home_team": "Vaduz",
+    "away_team": "Thun",
+    "match_date": "2026-09-20",
+    "score": "1-2",
+    "over15": {
+      "pred": 0.9169,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.8186,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.5578,
+      "hit": false,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.418,
+      "is_result": false
+    },
+    "draw": {
+      "pred": 0.2274,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.3546,
+      "is_result": true
+    },
+    "btts": {
+      "pred": 0.8063,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.7462,
+      "hit": true,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.3601,
+      "hit": true,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.2457,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.2005,
       "hit": false,
       "label": "BTTS+Away"
     }
