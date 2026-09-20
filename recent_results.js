@@ -1239,6 +1239,65 @@ const RECENT_RESULTS = [
     }
   },
   {
+    "league": "Brazil Serie A",
+    "home_team": "Vitoria",
+    "away_team": "Cruzeiro",
+    "match_date": "2026-09-20",
+    "score": "1-3",
+    "over15": {
+      "pred": 0.8031,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.5381,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.4116,
+      "hit": false,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.3325,
+      "is_result": false
+    },
+    "draw": {
+      "pred": 0.2817,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.3859,
+      "is_result": true
+    },
+    "btts": {
+      "pred": 0.567,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.4479,
+      "hit": false,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.1848,
+      "hit": true,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.2119,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.1703,
+      "hit": false,
+      "label": "BTTS+Away"
+    }
+  },
+  {
     "league": "Bundesliga",
     "home_team": "Bayern Munich",
     "away_team": "Union Berlin",
