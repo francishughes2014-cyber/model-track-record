@@ -1,5 +1,64 @@
 const RECENT_RESULTS = [
   {
+    "league": "Argentina Primera Division",
+    "home_team": "Huracan",
+    "away_team": "Gimnasia L.P.",
+    "match_date": "2026-10-16",
+    "score": "1-2",
+    "over15": {
+      "pred": 0.8127,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.5115,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.3797,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.4264,
+      "is_result": false
+    },
+    "draw": {
+      "pred": 0.2977,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.2759,
+      "is_result": true
+    },
+    "btts": {
+      "pred": 0.511,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.4264,
+      "hit": false,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.192,
+      "hit": true,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.1995,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.1194,
+      "hit": false,
+      "label": "BTTS+Away"
+    }
+  },
+  {
     "league": "Brazil Serie A",
     "home_team": "Bragantino",
     "away_team": "Cruzeiro",
@@ -125,6 +184,11 @@ const RECENT_RESULTS = [
       "pred": 0.7516,
       "hit": true,
       "label": "HT O0.5"
+    },
+    "goal_each_half": {
+      "pred": 0.6107,
+      "hit": true,
+      "label": "Goal Each Half"
     }
   },
   {
@@ -134,24 +198,24 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "1-2",
     "over25": {
-      "pred": 0.5344,
+      "pred": 0.5374,
       "hit": true,
       "label": "O 2.5"
     },
     "home": {
-      "pred": 0.3915,
+      "pred": 0.3785,
       "is_result": false
     },
     "draw": {
-      "pred": 0.2734,
+      "pred": 0.2697,
       "is_result": false
     },
     "away": {
-      "pred": 0.3351,
+      "pred": 0.3518,
       "is_result": true
     },
     "ht_over15": {
-      "pred": 0.4235,
+      "pred": 0.4326,
       "hit": true,
       "label": "HT O1.5"
     }
@@ -163,24 +227,24 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "0-1",
     "over25": {
-      "pred": 0.5197,
+      "pred": 0.5352,
       "hit": false,
       "label": "O 2.5"
     },
     "home": {
-      "pred": 0.44,
+      "pred": 0.5825,
       "is_result": false
     },
     "draw": {
-      "pred": 0.293,
+      "pred": 0.2412,
       "is_result": false
     },
     "away": {
-      "pred": 0.2671,
+      "pred": 0.1763,
       "is_result": true
     },
     "ht_over15": {
-      "pred": 0.3731,
+      "pred": 0.3389,
       "hit": true,
       "label": "HT O1.5"
     }
@@ -252,6 +316,11 @@ const RECENT_RESULTS = [
       "pred": 0.7034,
       "hit": true,
       "label": "HT O0.5"
+    },
+    "goal_each_half": {
+      "pred": 0.5938,
+      "hit": false,
+      "label": "Goal Each Half"
     }
   },
   {
@@ -261,24 +330,24 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "2-1",
     "over25": {
-      "pred": 0.5262,
+      "pred": 0.5224,
       "hit": true,
       "label": "O 2.5"
     },
     "home": {
-      "pred": 0.437,
+      "pred": 0.4226,
       "is_result": true
     },
     "draw": {
-      "pred": 0.2867,
+      "pred": 0.2837,
       "is_result": false
     },
     "away": {
-      "pred": 0.2763,
+      "pred": 0.2937,
       "is_result": false
     },
     "ht_over15": {
-      "pred": 0.3053,
+      "pred": 0.3026,
       "hit": true,
       "label": "HT O1.5"
     }
@@ -350,6 +419,11 @@ const RECENT_RESULTS = [
       "pred": 0.7274,
       "hit": true,
       "label": "HT O0.5"
+    },
+    "goal_each_half": {
+      "pred": 0.6199,
+      "hit": true,
+      "label": "Goal Each Half"
     }
   },
   {
@@ -359,24 +433,24 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "2-2",
     "over25": {
-      "pred": 0.5677,
+      "pred": 0.6193,
       "hit": true,
       "label": "O 2.5"
     },
     "home": {
-      "pred": 0.373,
+      "pred": 0.4264,
       "is_result": false
     },
     "draw": {
-      "pred": 0.2602,
+      "pred": 0.2441,
       "is_result": true
     },
     "away": {
-      "pred": 0.3668,
+      "pred": 0.3294,
       "is_result": false
     },
     "ht_over15": {
-      "pred": 0.3808,
+      "pred": 0.4004,
       "hit": false,
       "label": "HT O1.5"
     }
@@ -448,6 +522,11 @@ const RECENT_RESULTS = [
       "pred": 0.7368,
       "hit": true,
       "label": "HT O0.5"
+    },
+    "goal_each_half": {
+      "pred": 0.6143,
+      "hit": true,
+      "label": "Goal Each Half"
     }
   },
   {
@@ -457,20 +536,20 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "1-0",
     "over25": {
-      "pred": 0.5209,
+      "pred": 0.5205,
       "hit": false,
       "label": "O 2.5"
     },
     "home": {
-      "pred": 0.3514,
+      "pred": 0.3757,
       "is_result": true
     },
     "draw": {
-      "pred": 0.2976,
+      "pred": 0.2888,
       "is_result": false
     },
     "away": {
-      "pred": 0.351,
+      "pred": 0.3355,
       "is_result": false
     },
     "ht_over15": {
@@ -486,26 +565,100 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "0-3",
     "over25": {
-      "pred": 0.5354,
+      "pred": 0.5392,
       "hit": true,
       "label": "O 2.5"
     },
     "home": {
-      "pred": 0.4163,
+      "pred": 0.4022,
       "is_result": false
     },
     "draw": {
-      "pred": 0.27,
+      "pred": 0.267,
       "is_result": false
     },
     "away": {
-      "pred": 0.3137,
+      "pred": 0.3308,
       "is_result": true
     },
     "ht_over15": {
-      "pred": 0.3918,
+      "pred": 0.3944,
       "hit": false,
       "label": "HT O1.5"
+    }
+  },
+  {
+    "league": "Championship",
+    "home_team": "Lincoln",
+    "away_team": "West Ham",
+    "match_date": "2026-10-14",
+    "score": "0-6",
+    "over15": {
+      "pred": 0.8071,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.6437,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.3753,
+      "hit": false,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.293,
+      "is_result": false
+    },
+    "draw": {
+      "pred": 0.2001,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.5069,
+      "is_result": true
+    },
+    "btts": {
+      "pred": 0.5938,
+      "hit": false,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.4804,
+      "hit": true,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.1624,
+      "hit": true,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.1855,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.2458,
+      "hit": true,
+      "label": "BTTS+Away"
+    },
+    "ht_over15": {
+      "pred": 0.4573,
+      "hit": true,
+      "label": "HT O1.5"
+    },
+    "ht_over05": {
+      "pred": 0.7568,
+      "hit": true,
+      "label": "HT O0.5"
+    },
+    "goal_each_half": {
+      "pred": 0.6182,
+      "hit": true,
+      "label": "Goal Each Half"
     }
   },
   {
@@ -515,24 +668,24 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "3-1",
     "over25": {
-      "pred": 0.5465,
+      "pred": 0.5615,
       "hit": true,
       "label": "O 2.5"
     },
     "home": {
-      "pred": 0.5034,
+      "pred": 0.4977,
       "is_result": true
     },
     "draw": {
-      "pred": 0.2524,
+      "pred": 0.2476,
       "is_result": false
     },
     "away": {
-      "pred": 0.2442,
+      "pred": 0.2547,
       "is_result": false
     },
     "ht_over15": {
-      "pred": 0.3558,
+      "pred": 0.3456,
       "hit": true,
       "label": "HT O1.5"
     }
@@ -604,6 +757,11 @@ const RECENT_RESULTS = [
       "pred": 0.7483,
       "hit": false,
       "label": "HT O0.5"
+    },
+    "goal_each_half": {
+      "pred": 0.6045,
+      "hit": false,
+      "label": "Goal Each Half"
     }
   },
   {
@@ -613,26 +771,248 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "4-1",
     "over25": {
-      "pred": 0.6349,
+      "pred": 0.6367,
       "hit": true,
       "label": "O 2.5"
     },
     "home": {
-      "pred": 0.4359,
+      "pred": 0.445,
       "is_result": true
     },
     "draw": {
-      "pred": 0.2443,
+      "pred": 0.2388,
       "is_result": false
     },
     "away": {
-      "pred": 0.3198,
+      "pred": 0.3162,
       "is_result": false
     },
     "ht_over15": {
-      "pred": 0.5227,
+      "pred": 0.5109,
       "hit": true,
       "label": "HT O1.5"
+    }
+  },
+  {
+    "league": "Championship",
+    "home_team": "Norwich",
+    "away_team": "Southampton",
+    "match_date": "2026-10-14",
+    "score": "0-1",
+    "over15": {
+      "pred": 0.8516,
+      "hit": false,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.6762,
+      "hit": false,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.3897,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.404,
+      "is_result": false
+    },
+    "draw": {
+      "pred": 0.2481,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.3479,
+      "is_result": true
+    },
+    "btts": {
+      "pred": 0.6583,
+      "hit": false,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.562,
+      "hit": false,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.2647,
+      "hit": true,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.222,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.1717,
+      "hit": true,
+      "label": "BTTS+Away"
+    },
+    "ht_over15": {
+      "pred": 0.4637,
+      "hit": true,
+      "label": "HT O1.5"
+    },
+    "ht_over05": {
+      "pred": 0.7592,
+      "hit": false,
+      "label": "HT O0.5"
+    },
+    "goal_each_half": {
+      "pred": 0.6265,
+      "hit": false,
+      "label": "Goal Each Half"
+    }
+  },
+  {
+    "league": "Championship",
+    "home_team": "Portsmouth",
+    "away_team": "Sheffield United",
+    "match_date": "2026-10-14",
+    "score": "3-2",
+    "over15": {
+      "pred": 0.8005,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.5354,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.3975,
+      "hit": false,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.3734,
+      "is_result": true
+    },
+    "draw": {
+      "pred": 0.2852,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.3414,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.6035,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.4593,
+      "hit": false,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.214,
+      "hit": false,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.2214,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.1681,
+      "hit": true,
+      "label": "BTTS+Away"
+    },
+    "ht_over15": {
+      "pred": 0.3398,
+      "hit": true,
+      "label": "HT O1.5"
+    },
+    "ht_over05": {
+      "pred": 0.7372,
+      "hit": true,
+      "label": "HT O0.5"
+    },
+    "goal_each_half": {
+      "pred": 0.5979,
+      "hit": true,
+      "label": "Goal Each Half"
+    }
+  },
+  {
+    "league": "Championship",
+    "home_team": "QPR",
+    "away_team": "Derby",
+    "match_date": "2026-10-14",
+    "score": "4-1",
+    "over15": {
+      "pred": 0.8043,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.5307,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.4265,
+      "hit": false,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.4569,
+      "is_result": true
+    },
+    "draw": {
+      "pred": 0.2857,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.2574,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.5708,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.4531,
+      "hit": false,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.2171,
+      "hit": false,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.2116,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.1421,
+      "hit": true,
+      "label": "BTTS+Away"
+    },
+    "ht_over15": {
+      "pred": 0.3311,
+      "hit": false,
+      "label": "HT O1.5"
+    },
+    "ht_over05": {
+      "pred": 0.7271,
+      "hit": true,
+      "label": "HT O0.5"
+    },
+    "goal_each_half": {
+      "pred": 0.5903,
+      "hit": true,
+      "label": "Goal Each Half"
     }
   },
   {
@@ -642,24 +1022,24 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "5-1",
     "over25": {
-      "pred": 0.672,
+      "pred": 0.6588,
       "hit": true,
       "label": "O 2.5"
     },
     "home": {
-      "pred": 0.4858,
+      "pred": 0.4889,
       "is_result": true
     },
     "draw": {
-      "pred": 0.2264,
+      "pred": 0.2268,
       "is_result": false
     },
     "away": {
-      "pred": 0.2878,
+      "pred": 0.2843,
       "is_result": false
     },
     "ht_over15": {
-      "pred": 0.4154,
+      "pred": 0.4008,
       "hit": false,
       "label": "HT O1.5"
     }
@@ -731,6 +1111,11 @@ const RECENT_RESULTS = [
       "pred": 0.7512,
       "hit": false,
       "label": "HT O0.5"
+    },
+    "goal_each_half": {
+      "pred": 0.6054,
+      "hit": false,
+      "label": "Goal Each Half"
     }
   },
   {
@@ -740,24 +1125,24 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "1-1",
     "over25": {
-      "pred": 0.6539,
+      "pred": 0.6811,
       "hit": false,
       "label": "O 2.5"
     },
     "home": {
-      "pred": 0.2172,
+      "pred": 0.1662,
       "is_result": false
     },
     "draw": {
-      "pred": 0.2191,
+      "pred": 0.1876,
       "is_result": true
     },
     "away": {
-      "pred": 0.5637,
+      "pred": 0.6462,
       "is_result": false
     },
     "ht_over15": {
-      "pred": 0.5527,
+      "pred": 0.5594,
       "hit": true,
       "label": "HT O1.5"
     }
@@ -829,6 +1214,11 @@ const RECENT_RESULTS = [
       "pred": 0.9041,
       "hit": true,
       "label": "HT O0.5"
+    },
+    "goal_each_half": {
+      "pred": 0.7177,
+      "hit": true,
+      "label": "Goal Each Half"
     }
   },
   {
@@ -838,25 +1228,25 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "4-1",
     "over25": {
-      "pred": 0.6304,
+      "pred": 0.631,
       "hit": true,
       "label": "O 2.5"
     },
     "home": {
-      "pred": 0.5867,
+      "pred": 0.5459,
       "is_result": true
     },
     "draw": {
-      "pred": 0.2205,
+      "pred": 0.226,
       "is_result": false
     },
     "away": {
-      "pred": 0.1928,
+      "pred": 0.2281,
       "is_result": false
     },
     "ht_over15": {
-      "pred": 0.5279,
-      "hit": true,
+      "pred": 0.4882,
+      "hit": false,
       "label": "HT O1.5"
     }
   },
@@ -867,24 +1257,24 @@ const RECENT_RESULTS = [
     "match_date": NaN,
     "score": "1-2",
     "over25": {
-      "pred": 0.6133,
+      "pred": 0.6198,
       "hit": true,
       "label": "O 2.5"
     },
     "home": {
-      "pred": 0.4349,
+      "pred": 0.4138,
       "is_result": false
     },
     "draw": {
-      "pred": 0.2487,
+      "pred": 0.2448,
       "is_result": false
     },
     "away": {
-      "pred": 0.3165,
+      "pred": 0.3414,
       "is_result": true
     },
     "ht_over15": {
-      "pred": 0.5097,
+      "pred": 0.5105,
       "hit": false,
       "label": "HT O1.5"
     }
@@ -956,6 +1346,11 @@ const RECENT_RESULTS = [
       "pred": 0.7333,
       "hit": false,
       "label": "HT O0.5"
+    },
+    "goal_each_half": {
+      "pred": 0.5945,
+      "hit": false,
+      "label": "Goal Each Half"
     }
   },
   {
@@ -1028,6 +1423,80 @@ const RECENT_RESULTS = [
     },
     "goal_each_half": {
       "pred": 0.5954,
+      "hit": false,
+      "label": "Goal Each Half"
+    }
+  },
+  {
+    "league": "Scottish Championship",
+    "home_team": "Queens Park",
+    "away_team": "Inverness C",
+    "match_date": "2026-10-13",
+    "score": "2-1",
+    "over15": {
+      "pred": 0.8006,
+      "hit": true,
+      "label": "O 1.5"
+    },
+    "over25": {
+      "pred": 0.5329,
+      "hit": true,
+      "label": "O 2.5"
+    },
+    "over35": {
+      "pred": 0.4099,
+      "hit": true,
+      "label": "O 3.5"
+    },
+    "home": {
+      "pred": 0.291,
+      "is_result": true
+    },
+    "draw": {
+      "pred": 0.2415,
+      "is_result": false
+    },
+    "away": {
+      "pred": 0.4674,
+      "is_result": false
+    },
+    "btts": {
+      "pred": 0.5676,
+      "hit": true,
+      "label": "BTTS"
+    },
+    "btts_over25": {
+      "pred": 0.4511,
+      "hit": false,
+      "label": "BTTS+O2.5"
+    },
+    "btts_home": {
+      "pred": 0.162,
+      "hit": false,
+      "label": "BTTS+Home"
+    },
+    "btts_draw": {
+      "pred": 0.2134,
+      "hit": true,
+      "label": "BTTS+Draw"
+    },
+    "btts_away": {
+      "pred": 0.1922,
+      "hit": true,
+      "label": "BTTS+Away"
+    },
+    "ht_over15": {
+      "pred": 0.3306,
+      "hit": false,
+      "label": "HT O1.5"
+    },
+    "ht_over05": {
+      "pred": 0.7238,
+      "hit": true,
+      "label": "HT O0.5"
+    },
+    "goal_each_half": {
+      "pred": 0.6085,
       "hit": false,
       "label": "Goal Each Half"
     }
